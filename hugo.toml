@@ -47,7 +47,7 @@ twitterHandler = "lbenicio_"
 # Site
 siteUrl = "https://lbenicio.github.io"
 appMode = "BLOG_ONLY"
-aboutOrigin = "https://lbenicio.dev"
+aboutOrigin = "https://lbenicio.github.io"
 blogOrigin = "https://lbenicio.github.io/blog"
 
 # Umami analytics
