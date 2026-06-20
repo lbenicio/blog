@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/building-a-lock-free-skip-list-for-range-queries-in-distributed-memory.png"
+cover: "/static/images/blog/building-a-lock-free-skip-list-for-range-queries-in-distributed-memory.png"
 coverAlt: "Technical visualization representing building a lock free skip list for range queries in distributed memory"
 ---
 

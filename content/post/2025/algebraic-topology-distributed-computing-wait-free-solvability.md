@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["algebraic-topology", "distributed-computing", "wait-free", "solvability", "simplicial-complexes", "herlihy-shavit"]
 categories: ["theory", "distributed-systems"]
 draft: false
-cover: "/static/assets/images/blog/algebraic-topology-distributed-computing-wait-free-solvability.png"
+cover: "/static/images/blog/algebraic-topology-distributed-computing-wait-free-solvability.png"
 coverAlt: "A chromatic subdivision of a simplicial complex representing protocol evolution in a distributed system, with Sperner's lemma coloring overlaid"
 ---
 

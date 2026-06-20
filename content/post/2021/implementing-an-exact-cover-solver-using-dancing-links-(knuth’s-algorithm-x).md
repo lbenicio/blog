@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/implementing-an-exact-cover-solver-using-dancing-links-(knuth’s-algorithm-x).png"
+cover: "/static/images/blog/implementing-an-exact-cover-solver-using-dancing-links-(knuth’s-algorithm-x).png"
 coverAlt: "Technical visualization representing implementing an exact cover solver using dancing links (knuth’s algorithm x)"
 ---
 

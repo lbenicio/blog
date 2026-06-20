@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/the-complexity-of-the-longest-common-subsequence-space-optimized-dp-and-o(nlogn)-with-lis-transformation.png"
+cover: "/static/images/blog/the-complexity-of-the-longest-common-subsequence-space-optimized-dp-and-o(nlogn)-with-lis-transformation.png"
 coverAlt: "Technical visualization representing the complexity of the longest common subsequence: space optimized dp and o(nlogn) with lis transformation"
 ---
 

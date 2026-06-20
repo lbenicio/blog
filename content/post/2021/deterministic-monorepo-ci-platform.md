@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["ci", "cd", "monorepo", "devops", "build-systems", "determinism", "supply-chain"]
 categories: ["engineering", "platform"]
 draft: false
-cover: "/static/assets/images/blog/deterministic-monorepo-ci-platform.png"
+cover: "/static/images/blog/deterministic-monorepo-ci-platform.png"
 coverAlt: "Engineers monitoring a deterministic monorepo CI control room with pipelines and dependency graphs"
 ---
 

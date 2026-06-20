@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["object-storage", "ceph", "rados", "crush", "s3", "erasure-coding", "distributed-systems"]
 categories: ["systems", "distributed-storage"]
 draft: false
-cover: "/static/assets/images/blog/object-storage-rados-s3-crush-algorithm.png"
+cover: "/static/images/blog/object-storage-rados-s3-crush-algorithm.png"
 coverAlt: "A stylized diagram showing the Ceph CRUSH algorithm mapping objects to placement groups to OSDs across a hierarchical cluster map"
 ---
 

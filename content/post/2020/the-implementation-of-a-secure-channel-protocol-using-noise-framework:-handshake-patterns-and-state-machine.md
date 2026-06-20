@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/the-implementation-of-a-secure-channel-protocol-using-noise-framework-handshake-patterns-and-state-machine.png"
+cover: "/static/images/blog/the-implementation-of-a-secure-channel-protocol-using-noise-framework-handshake-patterns-and-state-machine.png"
 coverAlt: "Technical visualization representing the implementation of a secure channel protocol using noise framework: handshake patterns and state machine"
 ---
 

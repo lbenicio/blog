@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/Designing-A-Protocol-For-Log-Replication-With-Snapshotting-The-Etcd-Raft-Implementation.png"
+cover: "/static/images/blog/Designing-A-Protocol-For-Log-Replication-With-Snapshotting-The-Etcd-Raft-Implementation.png"
 coverAlt: "Technical visualization representing designing a protocol for log replication with snapshotting: the etcd raft implementation"
 ---
 

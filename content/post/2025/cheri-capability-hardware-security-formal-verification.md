@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["cheri", "capability-hardware", "memory-safety", "formal-verification", "morello", "computer-architecture", "security"]
 categories: ["systems", "hardware-architecture", "security"]
 draft: false
-cover: "/static/assets/images/blog/cheri-capability-hardware-security-formal-verification.png"
+cover: "/static/images/blog/cheri-capability-hardware-security-formal-verification.png"
 coverAlt: "Diagram of CHERI capability format showing bounds compression and permission bits within a 128-bit capability register"
 ---
 

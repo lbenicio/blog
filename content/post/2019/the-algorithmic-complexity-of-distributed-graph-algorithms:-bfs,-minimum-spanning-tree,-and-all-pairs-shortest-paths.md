@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/the-algorithmic-complexity-of-distributed-graph-algorithms-bfs,-minimum-spanning-tree,-and-all-pairs-shortest-paths.png"
+cover: "/static/images/blog/the-algorithmic-complexity-of-distributed-graph-algorithms-bfs,-minimum-spanning-tree,-and-all-pairs-shortest-paths.png"
 coverAlt: "Technical visualization representing the algorithmic complexity of distributed graph algorithms: bfs, minimum spanning tree, and all pairs shortest paths"
 ---
 

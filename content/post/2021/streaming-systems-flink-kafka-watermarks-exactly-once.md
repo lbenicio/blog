@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["streaming", "flink", "kafka", "watermarks", "exactly-once", "distributed-systems"]
 categories: ["systems", "streaming"]
 draft: false
-cover: "/static/assets/images/blog/streaming-systems-flink-kafka-watermarks-exactly-once.png"
+cover: "/static/images/blog/streaming-systems-flink-kafka-watermarks-exactly-once.png"
 coverAlt: "A stylized diagram showing Kafka topics feeding Flink streaming operators, with watermarks flowing through the DAG and checkpoint barriers triggering distributed snapshots"
 ---
 

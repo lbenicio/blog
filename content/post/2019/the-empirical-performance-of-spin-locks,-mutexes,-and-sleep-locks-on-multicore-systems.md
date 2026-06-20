@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/the-empirical-performance-of-spin-locks,-mutexes,-and-sleep-locks-on-multicore-systems.png"
+cover: "/static/images/blog/the-empirical-performance-of-spin-locks,-mutexes,-and-sleep-locks-on-multicore-systems.png"
 coverAlt: "Technical visualization representing the empirical performance of spin locks, mutexes, and sleep locks on multicore systems"
 ---
 

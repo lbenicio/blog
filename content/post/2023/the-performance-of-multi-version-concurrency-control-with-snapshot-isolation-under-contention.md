@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/the-performance-of-multi-version-concurrency-control-with-snapshot-isolation-under-contention.png"
+cover: "/static/images/blog/the-performance-of-multi-version-concurrency-control-with-snapshot-isolation-under-contention.png"
 coverAlt: "Technical visualization representing the performance of multi version concurrency control with snapshot isolation under contention"
 ---
 

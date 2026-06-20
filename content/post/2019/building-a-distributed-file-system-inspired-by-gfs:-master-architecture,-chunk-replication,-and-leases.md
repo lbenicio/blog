@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/building-a-distributed-file-system-inspired-by-gfs-master-architecture,-chunk-replication,-and-leases.png"
+cover: "/static/images/blog/building-a-distributed-file-system-inspired-by-gfs-master-architecture,-chunk-replication,-and-leases.png"
 coverAlt: "Technical visualization representing building a distributed file system inspired by gfs: master architecture, chunk replication, and leases"
 ---
 

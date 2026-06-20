@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/Optimizing-Matrix-Multiplication-From-Strassen-To-Coppersmith-Winograd-And-Beyond.png"
+cover: "/static/images/blog/Optimizing-Matrix-Multiplication-From-Strassen-To-Coppersmith-Winograd-And-Beyond.png"
 coverAlt: "Technical visualization representing optimizing matrix multiplication: from strassen to coppersmith winograd and beyond"
 ---
 

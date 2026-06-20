@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/the-algorithmics-of-network-flow-dinic’s-algorithm-with-scaling-vs.-push-relabel-with-gap-heuristics.png"
+cover: "/static/images/blog/the-algorithmics-of-network-flow-dinic’s-algorithm-with-scaling-vs.-push-relabel-with-gap-heuristics.png"
 coverAlt: "Technical visualization representing the algorithmics of network flow: dinic’s algorithm with scaling vs. push relabel with gap heuristics"
 ---
 

@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/designing-a-cache-coherent-non-uniform-memory-access-(ccnuma)-simulator-for-algorithm-evaluation.png"
+cover: "/static/images/blog/designing-a-cache-coherent-non-uniform-memory-access-(ccnuma)-simulator-for-algorithm-evaluation.png"
 coverAlt: "Technical visualization representing designing a cache coherent non uniform memory access (ccnuma) simulator for algorithm evaluation"
 ---
 

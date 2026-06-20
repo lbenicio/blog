@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/designing-an-approximate-string-matching-algorithm-using-bitap-(shift-or)-with-nfa-simulation.png"
+cover: "/static/images/blog/designing-an-approximate-string-matching-algorithm-using-bitap-(shift-or)-with-nfa-simulation.png"
 coverAlt: "Technical visualization representing designing an approximate string matching algorithm using bitap (shift or) with nfa simulation"
 ---
 

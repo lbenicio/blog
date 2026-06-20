@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/the-performance-of-jit-compilation-for-dynamic-languages-pypy’s-tracing-jit-vs.-naive-interpreter.png"
+cover: "/static/images/blog/the-performance-of-jit-compilation-for-dynamic-languages-pypy’s-tracing-jit-vs.-naive-interpreter.png"
 coverAlt: "Technical visualization representing the performance of jit compilation for dynamic languages: pypy’s tracing jit vs. naive interpreter"
 ---
 

@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/a-deep-dive-into-merkle-damgård-vs.-sponge-construction-for-hash-functions-sha-256-and-sha-3.png"
+cover: "/static/images/blog/a-deep-dive-into-merkle-damgård-vs.-sponge-construction-for-hash-functions-sha-256-and-sha-3.png"
 coverAlt: "Technical visualization representing a deep dive into merkle damgård vs. sponge construction for hash functions: sha 256 and sha 3"
 ---
 

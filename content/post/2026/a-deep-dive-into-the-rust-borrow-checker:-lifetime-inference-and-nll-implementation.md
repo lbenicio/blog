@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/A-Deep-Dive-Into-The-Rust-Borrow-Checker-Lifetime-Inference-And-Nll-Implementation.png"
+cover: "/static/images/blog/A-Deep-Dive-Into-The-Rust-Borrow-Checker-Lifetime-Inference-And-Nll-Implementation.png"
 coverAlt: "Technical visualization representing a deep dive into the rust borrow checker: lifetime inference and nll implementation"
 ---
 

@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/designing-a-lagrangian-relaxation-algorithm-for-the-traveling-salesman-problem-with-1-trees.png"
+cover: "/static/images/blog/designing-a-lagrangian-relaxation-algorithm-for-the-traveling-salesman-problem-with-1-trees.png"
 coverAlt: "Technical visualization representing designing a lagrangian relaxation algorithm for the traveling salesman problem with 1 trees"
 ---
 

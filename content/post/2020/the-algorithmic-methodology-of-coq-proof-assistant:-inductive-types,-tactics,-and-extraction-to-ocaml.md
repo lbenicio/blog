@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/the-algorithmic-methodology-of-coq-proof-assistant-inductive-types,-tactics,-and-extraction-to-ocaml.png"
+cover: "/static/images/blog/the-algorithmic-methodology-of-coq-proof-assistant-inductive-types,-tactics,-and-extraction-to-ocaml.png"
 coverAlt: "Technical visualization representing the algorithmic methodology of coq proof assistant: inductive types, tactics, and extraction to ocaml"
 ---
 

@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["nvme", "storage", "ssd", "spdk", "flash", "performance", "io"]
 categories: ["systems", "storage"]
 draft: false
-cover: "/static/assets/images/blog/nvme-storage-stack-revolution-flash-ssd.png"
+cover: "/static/images/blog/nvme-storage-stack-revolution-flash-ssd.png"
 coverAlt: "A stylized diagram showing the NVMe storage stack with submission and completion queues, the controller processing commands in parallel across multiple flash channels"
 ---
 

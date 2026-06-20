@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/Implementing-A-Simple-Type-System-For-A-Programming-Language-Hindley-Milner-Type-Inference.png"
+cover: "/static/images/blog/Implementing-A-Simple-Type-System-For-A-Programming-Language-Hindley-Milner-Type-Inference.png"
 coverAlt: "Technical visualization representing implementing a simple type system for a programming language: hindley milner type inference"
 ---
 

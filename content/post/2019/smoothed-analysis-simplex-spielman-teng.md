@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["smoothed-analysis", "simplex", "spielman-teng", "beyond-worst-case", "algorithms"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/smoothed-analysis-simplex-spielman-teng.png"
+cover: "/static/images/blog/smoothed-analysis-simplex-spielman-teng.png"
 coverAlt: "A polytope with slightly perturbed boundaries representing smoothed analysis of the simplex method"
 ---
 

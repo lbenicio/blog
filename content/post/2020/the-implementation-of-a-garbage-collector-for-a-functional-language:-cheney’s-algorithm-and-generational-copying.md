@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/the-implementation-of-a-garbage-collector-for-a-functional-language-cheney’s-algorithm-and-generational-copying.png"
+cover: "/static/images/blog/the-implementation-of-a-garbage-collector-for-a-functional-language-cheney’s-algorithm-and-generational-copying.png"
 coverAlt: "Technical visualization representing the implementation of a garbage collector for a functional language: cheney’s algorithm and generational copying"
 ---
 

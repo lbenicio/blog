@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["communication-complexity", "yao-model", "lower-bounds", "rectangles", "circuits", "data-structures"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/communication-complexity-yao-model-lower-bounds.png"
+cover: "/static/images/blog/communication-complexity-yao-model-lower-bounds.png"
 coverAlt: "Two parties separated by a dotted line exchanging bits, illustrating the two-party communication model"
 ---
 

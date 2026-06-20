@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/implementing-a-high-performance-hash-table-using-intel’s-tbb-concurrency-and-fine-grained-locking.png"
+cover: "/static/images/blog/implementing-a-high-performance-hash-table-using-intel’s-tbb-concurrency-and-fine-grained-locking.png"
 coverAlt: "Technical visualization representing implementing a high performance hash table using intel’s tbb concurrency and fine grained locking"
 ---
 

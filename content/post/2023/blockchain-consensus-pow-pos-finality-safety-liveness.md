@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["blockchain", "consensus", "proof-of-work", "proof-of-stake", "byzantine-fault-tolerance", "finality"]
 categories: ["theory", "systems"]
 draft: false
-cover: "/static/assets/images/blog/blockchain-consensus-pow-pos-finality-safety-liveness.png"
+cover: "/static/images/blog/blockchain-consensus-pow-pos-finality-safety-liveness.png"
 coverAlt: "Diagram comparing Nakamoto consensus (probabilistic finality), Casper FFG (checkpoint-based finality), and Tendermint BFT (instant finality), showing the safety-liveness spectrum."
 ---
 

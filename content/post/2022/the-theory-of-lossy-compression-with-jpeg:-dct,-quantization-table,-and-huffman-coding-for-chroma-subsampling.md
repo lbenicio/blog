@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/the-theory-of-lossy-compression-with-jpeg-dct,-quantization-table,-and-huffman-coding-for-chroma-subsampling.png"
+cover: "/static/images/blog/the-theory-of-lossy-compression-with-jpeg-dct,-quantization-table,-and-huffman-coding-for-chroma-subsampling.png"
 coverAlt: "Technical visualization representing the theory of lossy compression with jpeg: dct, quantization table, and huffman coding for chroma subsampling"
 ---
 

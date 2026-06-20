@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["databases", "durability", "wal", "logging", "recovery", "storage", "transactions"]
 categories: ["systems", "databases"]
 draft: false
-cover: "/static/assets/images/blog/write-ahead-logging-durability-performance.png"
+cover: "/static/images/blog/write-ahead-logging-durability-performance.png"
 coverAlt: "Abstract visualization of sequential log writes flowing into a durable storage layer with database pages being updated in the background"
 ---
 

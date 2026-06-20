@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/a-deep-dive-into-the-snowman-consensus-protocol-dag-based-block-ordering-and-avalanche-finality.png"
+cover: "/static/images/blog/a-deep-dive-into-the-snowman-consensus-protocol-dag-based-block-ordering-and-avalanche-finality.png"
 coverAlt: "Technical visualization representing a deep dive into the snowman consensus protocol: dag based block ordering and avalanche finality"
 ---
 

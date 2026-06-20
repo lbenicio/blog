@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/Designing-A-Database-Vacant-Space-Management-Bitmap,-Free-List,-And-B-Tree-Allocation.png"
+cover: "/static/images/blog/Designing-A-Database-Vacant-Space-Management-Bitmap,-Free-List,-And-B-Tree-Allocation.png"
 coverAlt: "Technical visualization representing designing a database vacant space management: bitmap, free list, and b tree allocation"
 ---
 

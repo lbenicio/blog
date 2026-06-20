@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/Building-A-Concurrent-Garbage-Collector-For-A-Language-With-Interior-Pointers-(like-Java’s-G1).png"
+cover: "/static/images/blog/Building-A-Concurrent-Garbage-Collector-For-A-Language-With-Interior-Pointers-(like-Java’s-G1).png"
 coverAlt: "Technical visualization representing building a concurrent garbage collector for a language with interior pointers (like java’s g1)"
 ---
 

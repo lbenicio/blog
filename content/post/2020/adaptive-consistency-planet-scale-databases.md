@@ -5,7 +5,7 @@ description: "Inside the engineering of databases that adjust consistency on the
 tags: ["databases", "consistency", "distributed-systems", "sre", "architecture"]
 categories: ["Engineering"]
 draft: false
-cover: "/static/assets/images/blog/adaptive-consistency-planet-scale-databases.png"
+cover: "/static/images/blog/adaptive-consistency-planet-scale-databases.png"
 coverAlt: "Planet-spanning database topology with adaptive connections"
 ---
 

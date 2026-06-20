@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/Building-A-Simple-Blockchain-From-Scratch-Proof-Of-Work,-Merkle-Trees,-And-Utxo-Model.png"
+cover: "/static/images/blog/Building-A-Simple-Blockchain-From-Scratch-Proof-Of-Work,-Merkle-Trees,-And-Utxo-Model.png"
 coverAlt: "Technical visualization representing building a simple blockchain from scratch: proof of work, merkle trees, and utxo model"
 ---
 

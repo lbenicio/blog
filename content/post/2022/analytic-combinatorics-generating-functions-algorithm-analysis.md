@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["analytic-combinatorics", "generating-functions", "asymptotics", "algorithm-analysis", "symbolic-method", "singularity-analysis"]
 categories: ["theory", "mathematics"]
 draft: false
-cover: "/static/assets/images/blog/analytic-combinatorics-generating-functions-algorithm-analysis.png"
+cover: "/static/images/blog/analytic-combinatorics-generating-functions-algorithm-analysis.png"
 coverAlt: "Diagram showing the symbolic method translating combinatorial constructions into generating function equations"
 ---
 

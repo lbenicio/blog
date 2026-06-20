@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/the-complexity-of-scheduling-dags-with-minimum-makespan-and-dependencies-list-scheduling-vs.-critical-path.png"
+cover: "/static/images/blog/the-complexity-of-scheduling-dags-with-minimum-makespan-and-dependencies-list-scheduling-vs.-critical-path.png"
 coverAlt: "Technical visualization representing the complexity of scheduling dags with minimum makespan and dependencies: list scheduling vs. critical path"
 ---
 

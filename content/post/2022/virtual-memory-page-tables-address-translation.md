@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["operating-systems", "virtual-memory", "page-tables", "memory-management", "performance", "systems"]
 categories: ["systems", "operating-systems"]
 draft: false
-cover: "/static/assets/images/blog/virtual-memory-page-tables-address-translation.png"
+cover: "/static/images/blog/virtual-memory-page-tables-address-translation.png"
 coverAlt: "Layered visualization of virtual to physical address translation showing page tables, TLB caches, and memory hierarchy"
 ---
 

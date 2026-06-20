@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/Implementing-A-Convolutional-Neural-Network-In-Cuda-Kernels,-Tiling,-And-Shared-Memory.png"
+cover: "/static/images/blog/Implementing-A-Convolutional-Neural-Network-In-Cuda-Kernels,-Tiling,-And-Shared-Memory.png"
 coverAlt: "Technical visualization representing implementing a convolutional neural network in cuda: kernels, tiling, and shared memory"
 ---
 

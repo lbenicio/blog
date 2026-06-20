@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["combinatorial-designs", "coding-theory", "finite-geometry", "steiner-systems", "block-designs"]
 categories: ["theory", "mathematics"]
 draft: false
-cover: "/static/assets/images/blog/combinatorial-designs-coding-theory-finite-geometry.png"
+cover: "/static/images/blog/combinatorial-designs-coding-theory-finite-geometry.png"
 coverAlt: "Diagram of the Fano plane—the smallest finite projective plane with 7 points and 7 lines"
 ---
 

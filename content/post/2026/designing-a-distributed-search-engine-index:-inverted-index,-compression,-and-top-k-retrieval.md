@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/Designing-A-Distributed-Search-Engine-Index-Inverted-Index,-Compression,-And-Top-K-Retrieval.png"
+cover: "/static/images/blog/Designing-A-Distributed-Search-Engine-Index-Inverted-Index,-Compression,-And-Top-K-Retrieval.png"
 coverAlt: "Technical visualization representing designing a distributed search engine index: inverted index, compression, and top k retrieval"
 ---
 

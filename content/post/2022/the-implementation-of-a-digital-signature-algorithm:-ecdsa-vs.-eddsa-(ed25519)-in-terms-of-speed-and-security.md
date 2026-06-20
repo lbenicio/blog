@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/the-implementation-of-a-digital-signature-algorithm-ecdsa-vs.-eddsa-(ed25519)-in-terms-of-speed-and-security.png"
+cover: "/static/images/blog/the-implementation-of-a-digital-signature-algorithm-ecdsa-vs.-eddsa-(ed25519)-in-terms-of-speed-and-security.png"
 coverAlt: "Technical visualization representing the implementation of a digital signature algorithm: ecdsa vs. eddsa (ed25519) in terms of speed and security"
 ---
 

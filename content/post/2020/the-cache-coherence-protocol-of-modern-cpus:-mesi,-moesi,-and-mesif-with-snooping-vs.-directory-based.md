@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/the-cache-coherence-protocol-of-modern-cpus-mesi,-moesi,-and-mesif-with-snooping-vs.-directory-based.png"
+cover: "/static/images/blog/the-cache-coherence-protocol-of-modern-cpus-mesi,-moesi,-and-mesif-with-snooping-vs.-directory-based.png"
 coverAlt: "Technical visualization representing the cache coherence protocol of modern cpus: mesi, moesi, and mesif with snooping vs. directory based"
 ---
 

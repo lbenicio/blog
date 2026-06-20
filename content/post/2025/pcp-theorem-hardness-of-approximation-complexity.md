@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["computational-complexity", "pcp-theorem", "approximation-algorithms", "np-hardness", "theory", "probabilistically-checkable-proofs"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/pcp-theorem-hardness-of-approximation-complexity.png"
+cover: "/static/images/blog/pcp-theorem-hardness-of-approximation-complexity.png"
 coverAlt: "Abstract visualization of a verifier reading only three bits of a proof and accepting, with a gap between completeness and soundness"
 ---
 

@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/implementing-a-distributed-lock-service-using-redis-redlock-and-its-consistency-guarantees-under-failures.png"
+cover: "/static/images/blog/implementing-a-distributed-lock-service-using-redis-redlock-and-its-consistency-guarantees-under-failures.png"
 coverAlt: "Technical visualization representing implementing a distributed lock service using redis redlock and its consistency guarantees under failures"
 ---
 

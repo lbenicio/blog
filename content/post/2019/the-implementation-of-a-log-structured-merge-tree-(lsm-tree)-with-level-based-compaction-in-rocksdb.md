@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/the-implementation-of-a-log-structured-merge-tree-(lsm-tree)-with-level-based-compaction-in-rocksdb.png"
+cover: "/static/images/blog/the-implementation-of-a-log-structured-merge-tree-(lsm-tree)-with-level-based-compaction-in-rocksdb.png"
 coverAlt: "Technical visualization representing the implementation of a log structured merge tree (lsm tree) with level based compaction in rocksdb"
 ---
 

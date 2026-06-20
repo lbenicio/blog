@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/the-complexity-of-the-byzantine-agreement-problem-with-rounds-exponential-information-gathering-and-recursive-algorithms.png"
+cover: "/static/images/blog/the-complexity-of-the-byzantine-agreement-problem-with-rounds-exponential-information-gathering-and-recursive-algorithms.png"
 coverAlt: "Technical visualization representing the complexity of the byzantine agreement problem with rounds: exponential information gathering and recursive algorithms"
 ---
 

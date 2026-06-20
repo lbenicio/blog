@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/designing-a-buffer-pool-with-prefetching-and-replacement-policies-statistical-lru,-fbr,-and-lirs.png"
+cover: "/static/images/blog/designing-a-buffer-pool-with-prefetching-and-replacement-policies-statistical-lru,-fbr,-and-lirs.png"
 coverAlt: "Technical visualization representing designing a buffer pool with prefetching and replacement policies: statistical lru, fbr, and lirs"
 ---
 

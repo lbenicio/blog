@@ -5,7 +5,7 @@ description: "How memory layout choices shape the performance of your hot loops.
 tags: ["performance", "cpu", "memory", "cache", "simd", "gpu"]
 categories: ["Engineering"]
 draft: false
-cover: "/static/assets/images/blog/cache-friendly-data-layouts-aos-vs-soa.png"
+cover: "/static/images/blog/cache-friendly-data-layouts-aos-vs-soa.png"
 coverAlt: "Side‑by‑side diagrams of Array‑of‑Structs and Struct‑of‑Arrays with arrows showing cacheline utilization"
 ---
 

@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["searchable-encryption", "sse", "encrypted-databases", "forward-privacy", "leakage-abuse"]
 categories: ["theory", "systems"]
 draft: false
-cover: "/static/assets/images/blog/searchable-encryption-querying-encrypted-databases.png"
+cover: "/static/images/blog/searchable-encryption-querying-encrypted-databases.png"
 coverAlt: "Diagram showing a client sending encrypted queries to a server that searches an encrypted index, with leakage profiles labeled for each protocol variant."
 ---
 

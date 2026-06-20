@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/Understanding-The-Google-File-System-A-Detailed-Implementation-In-Go.png"
+cover: "/static/images/blog/Understanding-The-Google-File-System-A-Detailed-Implementation-In-Go.png"
 coverAlt: "Technical visualization representing understanding the google file system: a detailed implementation in go"
 ---
 

@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["linear-logic", "proof-theory", "linear-types", "rust", "girard", "resource-awareness"]
 categories: ["theory", "mathematics"]
 draft: false
-cover: "/static/assets/images/blog/linear-logic-resource-aware-computation.png"
+cover: "/static/images/blog/linear-logic-resource-aware-computation.png"
 coverAlt: "Diagram showing linear logic proof net with boxes representing exponential modalities"
 ---
 

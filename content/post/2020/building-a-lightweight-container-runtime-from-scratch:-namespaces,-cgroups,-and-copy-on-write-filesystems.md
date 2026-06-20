@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/building-a-lightweight-container-runtime-from-scratch-namespaces,-cgroups,-and-copy-on-write-filesystems.png"
+cover: "/static/images/blog/building-a-lightweight-container-runtime-from-scratch-namespaces,-cgroups,-and-copy-on-write-filesystems.png"
 coverAlt: "Technical visualization representing building a lightweight container runtime from scratch: namespaces, cgroups, and copy on write filesystems"
 ---
 

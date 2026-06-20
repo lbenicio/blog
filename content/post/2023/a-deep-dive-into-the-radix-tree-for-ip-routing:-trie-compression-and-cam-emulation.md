@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/a-deep-dive-into-the-radix-tree-for-ip-routing-trie-compression-and-cam-emulation.png"
+cover: "/static/images/blog/a-deep-dive-into-the-radix-tree-for-ip-routing-trie-compression-and-cam-emulation.png"
 coverAlt: "Technical visualization representing a deep dive into the radix tree for ip routing: trie compression and cam emulation"
 ---
 

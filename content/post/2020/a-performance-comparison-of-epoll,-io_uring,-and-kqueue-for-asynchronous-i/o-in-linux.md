@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/a-performance-comparison-of-epoll-io-uring-and-kqueue-for-asynchronous-io-in-linux.png"
+cover: "/static/images/blog/a-performance-comparison-of-epoll-io-uring-and-kqueue-for-asynchronous-io-in-linux.png"
 coverAlt: "Technical visualization representing a performance comparison of epoll, io_uring, and kqueue for asynchronous i/o in linux"
 ---
 

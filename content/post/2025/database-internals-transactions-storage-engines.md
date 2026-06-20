@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["databases", "storage", "mvcc", "transactions", "replication", "fundamentals"]
 categories: ["fundamentals", "systems"]
 draft: false
-cover: "/static/assets/images/blog/database-internals-transactions-storage-engines.png"
+cover: "/static/images/blog/database-internals-transactions-storage-engines.png"
 coverAlt: "Cross-section of a database storage engine showing WAL, memtable, SSTables, and B-tree pages"
 ---
 

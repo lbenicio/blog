@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/a-deep-dive-into-apache-cassandra’s-snitch-and-replication-strategy-endpoint-aware-distribution.png"
+cover: "/static/images/blog/a-deep-dive-into-apache-cassandra’s-snitch-and-replication-strategy-endpoint-aware-distribution.png"
 coverAlt: "Technical visualization representing a deep dive into apache cassandra’s snitch and replication strategy: endpoint aware distribution"
 ---
 

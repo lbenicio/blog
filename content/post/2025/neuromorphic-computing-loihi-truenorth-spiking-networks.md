@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["neuromorphic-computing", "spiking-networks", "loihi", "truenorth", "event-driven", "stdp"]
 categories: ["theory", "systems"]
 draft: false
-cover: "/static/assets/images/blog/neuromorphic-computing-loihi-truenorth-spiking-networks.png"
+cover: "/static/images/blog/neuromorphic-computing-loihi-truenorth-spiking-networks.png"
 coverAlt: "Diagram of a neuromorphic chip showing spiking neurons connected by synapses, with spike timing dependent plasticity (STDP) adjusting weights, and event-driven routing of spikes."
 ---
 

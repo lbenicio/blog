@@ -2,7 +2,7 @@
 title: "Designing A Conflict Free Replicated Data Type (Crdt) For Real Time Collaborative Text Editing: Merging Operational Transform And Rga With Vector Clocks And Tombstone Management"
 date: 2022-07-09
 draft: false
-cover: "/static/assets/images/blog/designing-a-conflict-free-replicated-data-type-crdt-for-real-time-collaborative-text-editing-merging-operational-transform-and-rga-with-vector-clocks-and-tombstone-management.png"
+cover: "/static/images/blog/designing-a-conflict-free-replicated-data-type-crdt-for-real-time-collaborative-text-editing-merging-operational-transform-and-rga-with-vector-clocks-and-tombstone-management.png"
 coverAlt: "Technical visualization representing designing a conflict free replicated data type (crdt) for real time collaborative text editing: merging operational transform and rga with vector clocks and tombstone management"
 heroImage: "/images/blog/designing-a-conflict-free-replicated-data-type-crdt-for-real-time-collaborative-text-editing-merging-operational-transform-and-rga-with-vector-clocks-and-tombstone-management.png"
 tags: ["technical", "computer-science"]

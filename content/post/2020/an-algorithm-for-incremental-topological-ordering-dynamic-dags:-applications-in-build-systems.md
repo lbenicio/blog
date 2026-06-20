@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/an-algorithm-for-incremental-topological-ordering-dynamic-dags-applications-in-build-systems.png"
+cover: "/static/images/blog/an-algorithm-for-incremental-topological-ordering-dynamic-dags-applications-in-build-systems.png"
 coverAlt: "Technical visualization representing an algorithm for incremental topological ordering dynamic dags: applications in build systems"
 ---
 

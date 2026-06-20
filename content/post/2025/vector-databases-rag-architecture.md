@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["vector-search", "rag", "databases", "machine-learning", "distributed-systems", "observability"]
 categories: ["machine learning", "distributed systems"]
 draft: false
-cover: "/static/assets/images/blog/vector-databases-rag-architecture.png"
+cover: "/static/images/blog/vector-databases-rag-architecture.png"
 coverAlt: "Illustration of vector database architecture"
 ---
 

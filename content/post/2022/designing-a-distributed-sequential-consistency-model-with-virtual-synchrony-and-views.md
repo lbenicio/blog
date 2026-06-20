@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/designing-a-distributed-sequential-consistency-model-with-virtual-synchrony-and-views.png"
+cover: "/static/images/blog/designing-a-distributed-sequential-consistency-model-with-virtual-synchrony-and-views.png"
 coverAlt: "Technical visualization representing designing a distributed sequential consistency model with virtual synchrony and views"
 ---
 

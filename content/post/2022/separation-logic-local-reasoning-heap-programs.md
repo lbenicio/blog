@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["separation-logic", "hoare-logic", "concurrency", "program-verification", "memory-safety", "formal-methods"]
 categories: ["theory", "mathematics"]
 draft: false
-cover: "/static/assets/images/blog/separation-logic-local-reasoning-heap-programs.png"
+cover: "/static/images/blog/separation-logic-local-reasoning-heap-programs.png"
 coverAlt: "Diagram illustrating separation logic's frame rule: a program that operates on a portion of the heap can be framed by an invariant on the rest"
 ---
 

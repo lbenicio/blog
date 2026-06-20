@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/designing-a-distributed-bloom-filter-with-counting-and-scalable-extensions-for-membership-tests.png"
+cover: "/static/images/blog/designing-a-distributed-bloom-filter-with-counting-and-scalable-extensions-for-membership-tests.png"
 coverAlt: "Technical visualization representing designing a distributed bloom filter with counting and scalable extensions for membership tests"
 ---
 

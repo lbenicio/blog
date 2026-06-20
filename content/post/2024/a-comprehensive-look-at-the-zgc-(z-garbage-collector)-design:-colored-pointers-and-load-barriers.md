@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/a-comprehensive-look-at-the-zgc-(z-garbage-collector)-design-colored-pointers-and-load-barriers.png"
+cover: "/static/images/blog/a-comprehensive-look-at-the-zgc-(z-garbage-collector)-design-colored-pointers-and-load-barriers.png"
 coverAlt: "Technical visualization representing a comprehensive look at the zgc (z garbage collector) design: colored pointers and load barriers"
 ---
 

@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/a-deep-dive-into-the-google’s-spanner-database-truetime,-two-phase-commit,-and-external-consistency.png"
+cover: "/static/images/blog/a-deep-dive-into-the-google’s-spanner-database-truetime,-two-phase-commit,-and-external-consistency.png"
 coverAlt: "Technical visualization representing a deep dive into the google’s spanner database: truetime, two phase commit, and external consistency"
 ---
 

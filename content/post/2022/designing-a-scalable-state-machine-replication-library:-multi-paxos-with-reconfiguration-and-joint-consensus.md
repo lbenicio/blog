@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/designing-a-scalable-state-machine-replication-library-multi-paxos-with-reconfiguration-and-joint-consensus.png"
+cover: "/static/images/blog/designing-a-scalable-state-machine-replication-library-multi-paxos-with-reconfiguration-and-joint-consensus.png"
 coverAlt: "Technical visualization representing designing a scalable state machine replication library: multi paxos with reconfiguration and joint consensus"
 ---
 

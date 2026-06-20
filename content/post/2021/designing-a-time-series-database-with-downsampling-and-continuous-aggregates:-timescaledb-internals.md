@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/designing-a-time-series-database-with-downsampling-and-continuous-aggregates-timescaledb-internals.png"
+cover: "/static/images/blog/designing-a-time-series-database-with-downsampling-and-continuous-aggregates-timescaledb-internals.png"
 coverAlt: "Technical visualization representing designing a time series database with downsampling and continuous aggregates: timescaledb internals"
 ---
 

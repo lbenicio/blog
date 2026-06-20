@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["cpu", "branch-prediction", "performance", "speculative-execution", "microarchitecture", "optimization", "spectre"]
 categories: ["systems", "performance"]
 draft: false
-cover: "/static/assets/images/blog/branch-prediction-speculative-execution-modern-cpus.png"
+cover: "/static/images/blog/branch-prediction-speculative-execution-modern-cpus.png"
 coverAlt: "Abstract visualization of CPU pipeline branches diverging into multiple speculative paths, with some paths glowing as correct predictions and others fading as mispredictions"
 ---
 

@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/Building-A-Parallel-Algorithm-For-Graph-Coloring-Using-Openmp-And-Mpi.png"
+cover: "/static/images/blog/Building-A-Parallel-Algorithm-For-Graph-Coloring-Using-Openmp-And-Mpi.png"
 coverAlt: "Technical visualization representing building a parallel algorithm for graph coloring using openmp and mpi"
 ---
 

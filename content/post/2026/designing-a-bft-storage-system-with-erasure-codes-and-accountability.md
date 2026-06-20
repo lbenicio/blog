@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/Designing-A-Bft-Storage-System-With-Erasure-Codes-And-Accountability.png"
+cover: "/static/images/blog/Designing-A-Bft-Storage-System-With-Erasure-Codes-And-Accountability.png"
 coverAlt: "Technical visualization representing designing a bft storage system with erasure codes and accountability"
 ---
 

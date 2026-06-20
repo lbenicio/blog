@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/A-Practical-Introduction-To-Federated-Learning-Aggregation,-Differential-Privacy,-And-Secure-Aggregation.png"
+cover: "/static/images/blog/A-Practical-Introduction-To-Federated-Learning-Aggregation,-Differential-Privacy,-And-Secure-Aggregation.png"
 coverAlt: "Technical visualization representing a practical introduction to federated learning: aggregation, differential privacy, and secure aggregation"
 ---
 

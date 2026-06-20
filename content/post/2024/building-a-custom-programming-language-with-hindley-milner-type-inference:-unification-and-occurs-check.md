@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/building-a-custom-programming-language-with-hindley-milner-type-inference-unification-and-occurs-check.png"
+cover: "/static/images/blog/building-a-custom-programming-language-with-hindley-milner-type-inference-unification-and-occurs-check.png"
 coverAlt: "Technical visualization representing building a custom programming language with hindley milner type inference: unification and occurs check"
 ---
 

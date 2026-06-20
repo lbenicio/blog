@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/implementing-a-efficient-read-copy-update-(rcu)-mechanism-for-linux-kernel-modules.png"
+cover: "/static/images/blog/implementing-a-efficient-read-copy-update-(rcu)-mechanism-for-linux-kernel-modules.png"
 coverAlt: "Technical visualization representing implementing a efficient read copy update (rcu) mechanism for linux kernel modules"
 ---
 

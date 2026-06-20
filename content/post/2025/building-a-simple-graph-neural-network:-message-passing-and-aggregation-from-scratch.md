@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/Building-A-Simple-Graph-Neural-Network-Message-Passing-And-Aggregation-From-Scratch.png"
+cover: "/static/images/blog/Building-A-Simple-Graph-Neural-Network-Message-Passing-And-Aggregation-From-Scratch.png"
 coverAlt: "Technical visualization representing building a simple graph neural network: message passing and aggregation from scratch"
 ---
 

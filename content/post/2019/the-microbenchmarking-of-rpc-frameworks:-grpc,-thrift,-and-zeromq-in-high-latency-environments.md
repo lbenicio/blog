@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/the-microbenchmarking-of-rpc-frameworks-grpc,-thrift,-and-zeromq-in-high-latency-environments.png"
+cover: "/static/images/blog/the-microbenchmarking-of-rpc-frameworks-grpc,-thrift,-and-zeromq-in-high-latency-environments.png"
 coverAlt: "Technical visualization representing the microbenchmarking of rpc frameworks: grpc, thrift, and zeromq in high latency environments"
 ---
 

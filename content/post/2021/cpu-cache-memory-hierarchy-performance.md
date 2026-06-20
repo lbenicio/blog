@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["cpu", "cache", "memory", "performance", "hardware", "fundamentals"]
 categories: ["fundamentals", "systems"]
 draft: false
-cover: "/static/assets/images/blog/cpu-cache-memory-hierarchy-performance.png"
+cover: "/static/images/blog/cpu-cache-memory-hierarchy-performance.png"
 coverAlt: "Visualization of CPU cache hierarchy showing L1, L2, and L3 caches with data flowing between processor cores and main memory"
 ---
 

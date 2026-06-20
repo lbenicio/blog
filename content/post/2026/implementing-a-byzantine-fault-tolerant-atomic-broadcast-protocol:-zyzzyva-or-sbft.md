@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/Implementing-A-Byzantine-Fault-Tolerant-Atomic-Broadcast-Protocol-Zyzzyva-Or-Sbft.png"
+cover: "/static/images/blog/Implementing-A-Byzantine-Fault-Tolerant-Atomic-Broadcast-Protocol-Zyzzyva-Or-Sbft.png"
 coverAlt: "Technical visualization representing implementing a byzantine fault tolerant atomic broadcast protocol: zyzzyva or sbft"
 ---
 

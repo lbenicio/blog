@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/Implementing-A-Custom-Unikernel-Boot,-Network-Driver,-And-A-Minimal-Http-Server.png"
+cover: "/static/images/blog/Implementing-A-Custom-Unikernel-Boot,-Network-Driver,-And-A-Minimal-Http-Server.png"
 coverAlt: "Technical visualization representing implementing a custom unikernel: boot, network driver, and a minimal http server"
 ---
 

@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["concurrency", "lock-free", "atomics", "cas", "data-structures", "performance", "multithreading"]
 categories: ["systems", "performance"]
 draft: false
-cover: "/static/assets/images/blog/lock-free-data-structures-concurrency.png"
+cover: "/static/images/blog/lock-free-data-structures-concurrency.png"
 coverAlt: "Abstract visualization of multiple threads accessing shared data structures without blocking, with atomic operations depicted as glowing synchronization points"
 ---
 

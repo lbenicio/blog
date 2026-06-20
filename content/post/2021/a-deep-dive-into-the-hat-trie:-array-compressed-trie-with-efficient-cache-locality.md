@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/a-deep-dive-into-the-hat-trie-array-compressed-trie-with-efficient-cache-locality.png"
+cover: "/static/images/blog/a-deep-dive-into-the-hat-trie-array-compressed-trie-with-efficient-cache-locality.png"
 coverAlt: "Technical visualization representing a deep dive into the hat trie: array compressed trie with efficient cache locality"
 ---
 

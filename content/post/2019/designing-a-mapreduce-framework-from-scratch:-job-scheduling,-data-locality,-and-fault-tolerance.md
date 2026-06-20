@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/designing-a-mapreduce-framework-from-scratch-job-scheduling,-data-locality,-and-fault-tolerance.png"
+cover: "/static/images/blog/designing-a-mapreduce-framework-from-scratch-job-scheduling,-data-locality,-and-fault-tolerance.png"
 coverAlt: "Technical visualization representing designing a mapreduce framework from scratch: job scheduling, data locality, and fault tolerance"
 ---
 

@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/the-performance-of-crdts-for-collaborative-text-rga,-lseq,-treedoc,-and-correctness-proofs.png"
+cover: "/static/images/blog/the-performance-of-crdts-for-collaborative-text-rga,-lseq,-treedoc,-and-correctness-proofs.png"
 coverAlt: "Technical visualization representing the performance of crdts for collaborative text: rga, lseq, treedoc, and correctness proofs"
 ---
 

@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["lattice-cryptography", "learning-with-errors", "homomorphic-encryption", "post-quantum", "number-theory", "cryptography"]
 categories: ["theory", "cryptography"]
 draft: false
-cover: "/static/assets/images/blog/lattice-based-cryptography-learning-with-errors-homomorphic-encryption.png"
+cover: "/static/images/blog/lattice-based-cryptography-learning-with-errors-homomorphic-encryption.png"
 coverAlt: "Abstract visualization of a 2-dimensional lattice with basis vectors, a target point, and noise spheres representing the Learning With Errors problem"
 ---
 

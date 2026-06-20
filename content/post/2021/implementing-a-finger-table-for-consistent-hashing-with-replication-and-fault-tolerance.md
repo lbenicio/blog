@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/implementing-a-finger-table-for-consistent-hashing-with-replication-and-fault-tolerance.png"
+cover: "/static/images/blog/implementing-a-finger-table-for-consistent-hashing-with-replication-and-fault-tolerance.png"
 coverAlt: "Technical visualization representing implementing a finger table for consistent hashing with replication and fault tolerance"
 ---
 

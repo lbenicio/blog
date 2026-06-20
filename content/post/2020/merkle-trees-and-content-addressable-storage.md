@@ -5,7 +5,7 @@ description: "From Git to distributed object stores: how Merkle DAGs enable inte
 tags: ["storage", "merkle", "cas", "git", "consistency"]
 categories: ["Engineering"]
 draft: false
-cover: "/static/assets/images/blog/merkle-trees-and-content-addressable-storage.png"
+cover: "/static/images/blog/merkle-trees-and-content-addressable-storage.png"
 coverAlt: "Merkle DAG diagram with hashes cascading from leaves to root"
 ---
 

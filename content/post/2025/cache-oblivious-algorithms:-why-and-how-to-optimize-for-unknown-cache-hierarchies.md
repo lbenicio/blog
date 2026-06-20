@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/Cache-Oblivious-Algorithms-Why-And-How-To-Optimize-For-Unknown-Cache-Hierarchies.png"
+cover: "/static/images/blog/Cache-Oblivious-Algorithms-Why-And-How-To-Optimize-For-Unknown-Cache-Hierarchies.png"
 coverAlt: "Technical visualization representing cache oblivious algorithms: why and how to optimize for unknown cache hierarchies"
 ---
 

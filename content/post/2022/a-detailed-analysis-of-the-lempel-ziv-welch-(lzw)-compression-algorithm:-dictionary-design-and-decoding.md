@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/a-detailed-analysis-of-the-lempel-ziv-welch-(lzw)-compression-algorithm-dictionary-design-and-decoding.png"
+cover: "/static/images/blog/a-detailed-analysis-of-the-lempel-ziv-welch-(lzw)-compression-algorithm-dictionary-design-and-decoding.png"
 coverAlt: "Technical visualization representing a detailed analysis of the lempel ziv welch (lzw) compression algorithm: dictionary design and decoding"
 ---
 

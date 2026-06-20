@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/the-complexity-of-the-dynamic-pricing-algorithm-for-cloud-spot-instances-using-reinforcement-learning.png"
+cover: "/static/images/blog/the-complexity-of-the-dynamic-pricing-algorithm-for-cloud-spot-instances-using-reinforcement-learning.png"
 coverAlt: "Technical visualization representing the complexity of the dynamic pricing algorithm for cloud spot instances using reinforcement learning"
 ---
 

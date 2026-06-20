@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["descriptive-complexity", "fagin-theorem", "logic", "second-order-logic", "finite-model-theory"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/descriptive-complexity-fagin-theorem-logic.png"
+cover: "/static/images/blog/descriptive-complexity-fagin-theorem-logic.png"
 coverAlt: "Logical formulas over finite structures representing computational problems, illustrating descriptive complexity"
 ---
 

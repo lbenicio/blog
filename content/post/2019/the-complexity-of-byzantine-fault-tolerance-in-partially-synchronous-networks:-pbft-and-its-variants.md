@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/the-complexity-of-byzantine-fault-tolerance-in-partially-synchronous-networks-pbft-and-its-variants.png"
+cover: "/static/images/blog/the-complexity-of-byzantine-fault-tolerance-in-partially-synchronous-networks-pbft-and-its-variants.png"
 coverAlt: "Technical visualization representing the complexity of byzantine fault tolerance in partially synchronous networks: pbft and its variants"
 ---
 

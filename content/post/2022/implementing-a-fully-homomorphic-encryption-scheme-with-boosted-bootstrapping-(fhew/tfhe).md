@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/implementing-a-fully-homomorphic-encryption-scheme-with-boosted-bootstrapping-fhew-tfhe.png"
+cover: "/static/images/blog/implementing-a-fully-homomorphic-encryption-scheme-with-boosted-bootstrapping-fhew-tfhe.png"
 coverAlt: "Technical visualization representing implementing a fully homomorphic encryption scheme with boosted bootstrapping (fhew/tfhe)"
 ---
 

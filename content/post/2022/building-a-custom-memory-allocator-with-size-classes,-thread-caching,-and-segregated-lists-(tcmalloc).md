@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/building-a-custom-memory-allocator-with-size-classes,-thread-caching,-and-segregated-lists-(tcmalloc).png"
+cover: "/static/images/blog/building-a-custom-memory-allocator-with-size-classes,-thread-caching,-and-segregated-lists-(tcmalloc).png"
 coverAlt: "Technical visualization representing building a custom memory allocator with size classes, thread caching, and segregated lists (tcmalloc)"
 ---
 

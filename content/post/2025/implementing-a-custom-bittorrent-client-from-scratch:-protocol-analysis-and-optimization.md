@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/Implementing-A-Custom-Bittorrent-Client-From-Scratch-Protocol-Analysis-And-Optimization.png"
+cover: "/static/images/blog/Implementing-A-Custom-Bittorrent-Client-From-Scratch-Protocol-Analysis-And-Optimization.png"
 coverAlt: "Technical visualization representing implementing a custom bittorrent client from scratch: protocol analysis and optimization"
 ---
 

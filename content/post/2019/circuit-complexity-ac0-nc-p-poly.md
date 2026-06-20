@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["circuit-complexity", "ac0", "nc", "p-poly", "parity", "lower-bounds", "hastad"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/circuit-complexity-ac0-nc-p-poly.png"
+cover: "/static/images/blog/circuit-complexity-ac0-nc-p-poly.png"
 coverAlt: "A logic circuit diagram with layers of AND, OR, and NOT gates illustrating constant-depth circuit complexity"
 ---
 

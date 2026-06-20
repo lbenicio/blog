@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["mechanism-design", "vcg", "auctions", "truthfulness", "myerson", "game-theory"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/mechanism-design-vcg-auctions-truthfulness.png"
+cover: "/static/images/blog/mechanism-design-vcg-auctions-truthfulness.png"
 coverAlt: "An auction house with bidders submitting sealed bids, representing mechanism design"
 ---
 

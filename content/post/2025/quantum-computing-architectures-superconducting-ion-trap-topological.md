@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["quantum-computing", "superconducting-qubits", "trapped-ions", "topological-qubits", "nisq", "error-correction", "quantum-architecture"]
 categories: ["systems", "hardware-architecture"]
 draft: false
-cover: "/static/assets/images/blog/quantum-computing-architectures-superconducting-ion-trap-topological.png"
+cover: "/static/images/blog/quantum-computing-architectures-superconducting-ion-trap-topological.png"
 coverAlt: "Diagram comparing three quantum computing architectures: superconducting transmon circuit, trapped ion linear chain with laser gates, and topological qubit braiding diagram"
 ---
 

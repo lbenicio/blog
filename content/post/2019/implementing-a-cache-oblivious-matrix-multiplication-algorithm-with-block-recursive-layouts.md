@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/implementing-a-cache-oblivious-matrix-multiplication-algorithm-with-block-recursive-layouts.png"
+cover: "/static/images/blog/implementing-a-cache-oblivious-matrix-multiplication-algorithm-with-block-recursive-layouts.png"
 coverAlt: "Technical visualization representing implementing a cache oblivious matrix multiplication algorithm with block recursive layouts"
 ---
 

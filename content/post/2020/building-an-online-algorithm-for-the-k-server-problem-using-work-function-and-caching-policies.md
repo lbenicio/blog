@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/building-an-online-algorithm-for-the-k-server-problem-using-work-function-and-caching-policies.png"
+cover: "/static/images/blog/building-an-online-algorithm-for-the-k-server-problem-using-work-function-and-caching-policies.png"
 coverAlt: "Technical visualization representing building an online algorithm for the k server problem using work function and caching policies"
 ---
 

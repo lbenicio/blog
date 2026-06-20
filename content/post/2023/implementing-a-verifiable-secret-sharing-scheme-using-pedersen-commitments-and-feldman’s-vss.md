@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/implementing-a-verifiable-secret-sharing-scheme-using-pedersen-commitments-and-feldman’s-vss.png"
+cover: "/static/images/blog/implementing-a-verifiable-secret-sharing-scheme-using-pedersen-commitments-and-feldman’s-vss.png"
 coverAlt: "Technical visualization representing implementing a verifiable secret sharing scheme using pedersen commitments and feldman’s vss"
 ---
 

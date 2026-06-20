@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/Implementing-A-Lock-Free-Queue-With-Memory-Reclamation-Using-Epoch-Based-Reclamation.png"
+cover: "/static/images/blog/Implementing-A-Lock-Free-Queue-With-Memory-Reclamation-Using-Epoch-Based-Reclamation.png"
 coverAlt: "Technical visualization representing implementing a lock free queue with memory reclamation using epoch based reclamation"
 ---
 

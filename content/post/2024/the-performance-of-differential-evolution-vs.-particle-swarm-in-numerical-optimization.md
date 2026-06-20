@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/the-performance-of-differential-evolution-vs.-particle-swarm-in-numerical-optimization.png"
+cover: "/static/images/blog/the-performance-of-differential-evolution-vs.-particle-swarm-in-numerical-optimization.png"
 coverAlt: "Technical visualization representing the performance of differential evolution vs. particle swarm in numerical optimization"
 ---
 

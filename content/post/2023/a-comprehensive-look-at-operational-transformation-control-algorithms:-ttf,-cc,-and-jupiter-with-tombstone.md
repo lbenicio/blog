@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/a-comprehensive-look-at-operational-transformation-control-algorithms-ttf,-cc,-and-jupiter-with-tombstone.png"
+cover: "/static/images/blog/a-comprehensive-look-at-operational-transformation-control-algorithms-ttf,-cc,-and-jupiter-with-tombstone.png"
 coverAlt: "Technical visualization representing a comprehensive look at operational transformation control algorithms: ttf, cc, and jupiter with tombstone"
 ---
 

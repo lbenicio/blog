@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/building-a-distributed-log-structured-storage-engine-wiredtiger’s-b-tree-and-concurrency-control.png"
+cover: "/static/images/blog/building-a-distributed-log-structured-storage-engine-wiredtiger’s-b-tree-and-concurrency-control.png"
 coverAlt: "Technical visualization representing building a distributed log structured storage engine: wiredtiger’s b tree and concurrency control"
 ---
 

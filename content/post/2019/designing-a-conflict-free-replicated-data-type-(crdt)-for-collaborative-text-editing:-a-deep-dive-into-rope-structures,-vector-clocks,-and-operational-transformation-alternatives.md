@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/designing-a-conflict-free-replicated-data-type-(crdt)-for-collaborative-text-editing-a-deep-dive-into-rope-structures,-vector-clocks,-and-operational-transformation-alternatives.png"
+cover: "/static/images/blog/designing-a-conflict-free-replicated-data-type-(crdt)-for-collaborative-text-editing-a-deep-dive-into-rope-structures,-vector-clocks,-and-operational-transformation-alternatives.png"
 coverAlt: "Technical visualization representing designing a conflict free replicated data type (crdt) for collaborative text editing: a deep dive into rope structures, vector clocks, and operational transformation alternatives"
 ---
 

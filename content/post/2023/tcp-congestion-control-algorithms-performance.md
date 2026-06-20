@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["networking", "tcp", "congestion-control", "performance", "distributed-systems", "protocols"]
 categories: ["systems", "networking"]
 draft: false
-cover: "/static/assets/images/blog/tcp-congestion-control-algorithms-performance.png"
+cover: "/static/images/blog/tcp-congestion-control-algorithms-performance.png"
 coverAlt: "Visualization of TCP congestion window dynamics showing sawtooth patterns and network packet flow through congested links"
 ---
 

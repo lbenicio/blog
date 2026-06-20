@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["large-deviations", "rare-events", "importance-sampling", "cramer", "probability", "networking"]
 categories: ["theory", "mathematics"]
 draft: false
-cover: "/static/assets/images/blog/large-deviations-theory-rare-event-simulation.png"
+cover: "/static/images/blog/large-deviations-theory-rare-event-simulation.png"
 coverAlt: "Diagram showing a large deviation rate function and the exponential decay of rare event probabilities"
 ---
 

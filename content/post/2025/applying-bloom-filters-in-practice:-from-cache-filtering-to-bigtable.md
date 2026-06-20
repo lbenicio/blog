@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/Applying-Bloom-Filters-In-Practice-From-Cache-Filtering-To-Bigtable.png"
+cover: "/static/images/blog/Applying-Bloom-Filters-In-Practice-From-Cache-Filtering-To-Bigtable.png"
 coverAlt: "Technical visualization representing applying bloom filters in practice: from cache filtering to bigtable"
 ---
 

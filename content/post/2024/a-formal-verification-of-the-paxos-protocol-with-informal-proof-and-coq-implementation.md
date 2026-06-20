@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/a-formal-verification-of-the-paxos-protocol-with-informal-proof-and-coq-implementation.png"
+cover: "/static/images/blog/a-formal-verification-of-the-paxos-protocol-with-informal-proof-and-coq-implementation.png"
 coverAlt: "Technical visualization representing a formal verification of the paxos protocol with informal proof and coq implementation"
 ---
 

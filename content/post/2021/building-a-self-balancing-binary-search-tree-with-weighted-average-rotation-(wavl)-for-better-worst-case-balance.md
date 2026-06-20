@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/building-a-self-balancing-binary-search-tree-with-weighted-average-rotation-(wavl)-for-better-worst-case-balance.png"
+cover: "/static/images/blog/building-a-self-balancing-binary-search-tree-with-weighted-average-rotation-(wavl)-for-better-worst-case-balance.png"
 coverAlt: "Technical visualization representing building a self balancing binary search tree with weighted average rotation (wavl) for better worst case balance"
 ---
 

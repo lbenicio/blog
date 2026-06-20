@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/deep-dive-into-paxos-vs.-raft-trade-offs-in-leader-election,-log-replication,-and-safety-guarantees.png"
+cover: "/static/images/blog/deep-dive-into-paxos-vs.-raft-trade-offs-in-leader-election,-log-replication,-and-safety-guarantees.png"
 coverAlt: "Technical visualization representing deep dive into paxos vs. raft: trade offs in leader election, log replication, and safety guarantees"
 ---
 

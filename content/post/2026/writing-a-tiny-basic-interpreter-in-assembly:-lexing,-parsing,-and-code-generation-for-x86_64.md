@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/Writing-A-Tiny-Basic-Interpreter-In-Assembly-Lexing,-Parsing,-And-Code-Generation-For-X86_64.png"
+cover: "/static/images/blog/Writing-A-Tiny-Basic-Interpreter-In-Assembly-Lexing,-Parsing,-And-Code-Generation-For-X86_64.png"
 coverAlt: "Technical visualization representing writing a tiny basic interpreter in assembly: lexing, parsing, and code generation for x86_64"
 ---
 

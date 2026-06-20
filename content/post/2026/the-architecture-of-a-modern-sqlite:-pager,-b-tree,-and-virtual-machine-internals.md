@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/The-Architecture-Of-A-Modern-Sqlite-Pager,-B-Tree,-And-Virtual-Machine-Internals.png"
+cover: "/static/images/blog/The-Architecture-Of-A-Modern-Sqlite-Pager,-B-Tree,-And-Virtual-Machine-Internals.png"
 coverAlt: "Technical visualization representing the architecture of a modern sqlite: pager, b tree, and virtual machine internals"
 ---
 

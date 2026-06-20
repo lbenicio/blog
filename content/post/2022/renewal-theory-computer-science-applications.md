@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["renewal-theory", "probability", "cache-analysis", "garbage-collection", "fault-tolerance", "queuing"]
 categories: ["theory", "mathematics"]
 draft: false
-cover: "/static/assets/images/blog/renewal-theory-computer-science-applications.png"
+cover: "/static/images/blog/renewal-theory-computer-science-applications.png"
 coverAlt: "Diagram of a renewal process showing inter-arrival times and the renewal counting process"
 ---
 

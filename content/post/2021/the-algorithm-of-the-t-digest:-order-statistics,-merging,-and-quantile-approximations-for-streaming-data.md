@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/the-algorithm-of-the-t-digest-order-statistics,-merging,-and-quantile-approximations-for-streaming-data.png"
+cover: "/static/images/blog/the-algorithm-of-the-t-digest-order-statistics,-merging,-and-quantile-approximations-for-streaming-data.png"
 coverAlt: "Technical visualization representing the algorithm of the t digest: order statistics, merging, and quantile approximations for streaming data"
 ---
 

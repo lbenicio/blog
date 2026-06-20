@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/a-formal-proof-of-the-lower-bound-for-2-approximation-of-vertex-cover-using-pcp-theorem.png"
+cover: "/static/images/blog/a-formal-proof-of-the-lower-bound-for-2-approximation-of-vertex-cover-using-pcp-theorem.png"
 coverAlt: "Technical visualization representing a formal proof of the lower bound for 2 approximation of vertex cover using pcp theorem"
 ---
 

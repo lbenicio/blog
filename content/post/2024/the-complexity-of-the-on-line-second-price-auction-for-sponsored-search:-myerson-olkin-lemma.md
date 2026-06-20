@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/the-complexity-of-the-on-line-second-price-auction-for-sponsored-search-myerson-olkin-lemma.png"
+cover: "/static/images/blog/the-complexity-of-the-on-line-second-price-auction-for-sponsored-search-myerson-olkin-lemma.png"
 coverAlt: "Technical visualization representing the complexity of the on line second price auction for sponsored search: myerson olkin lemma"
 ---
 

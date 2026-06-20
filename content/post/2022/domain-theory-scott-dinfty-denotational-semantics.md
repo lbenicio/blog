@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["domain-theory", "denotational-semantics", "scott-domains", "fixpoint-theorem", "lambda-calculus", "order-theory"]
 categories: ["theory", "mathematics"]
 draft: false
-cover: "/static/assets/images/blog/domain-theory-scott-dinfty-denotational-semantics.png"
+cover: "/static/images/blog/domain-theory-scott-dinfty-denotational-semantics.png"
 coverAlt: "Diagram showing the D∞ construction as a limit of iterated function spaces, forming a domain isomorphic to its own function space"
 ---
 

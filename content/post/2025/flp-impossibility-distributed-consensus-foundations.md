@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["distributed-systems", "consensus", "flp", "theory", "fault-tolerance", "asynchronous-systems"]
 categories: ["theory", "distributed-systems"]
 draft: false
-cover: "/static/assets/images/blog/flp-impossibility-distributed-consensus-foundations.png"
+cover: "/static/images/blog/flp-impossibility-distributed-consensus-foundations.png"
 coverAlt: "Abstract visualization of the FLP bivalence proof: a graph of system configurations branching into univalent and bivalent states, with a fault boundary cutting through the asynchronous message space"
 ---
 

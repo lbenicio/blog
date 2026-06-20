@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/the-theory-of-online-convex-optimization-with-regret-bounds-follow-the-leader-vs.-gradient-descent.png"
+cover: "/static/images/blog/the-theory-of-online-convex-optimization-with-regret-bounds-follow-the-leader-vs.-gradient-descent.png"
 coverAlt: "Technical visualization representing the theory of online convex optimization with regret bounds: follow the leader vs. gradient descent"
 ---
 

@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/an-analysis-of-register-allocation-via-graph-coloring-chaitin-briggs-algorithm-with-live-range-splitting.png"
+cover: "/static/images/blog/an-analysis-of-register-allocation-via-graph-coloring-chaitin-briggs-algorithm-with-live-range-splitting.png"
 coverAlt: "Technical visualization representing an analysis of register allocation via graph coloring: chaitin briggs algorithm with live range splitting"
 ---
 

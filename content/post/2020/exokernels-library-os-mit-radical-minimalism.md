@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["exokernel", "library-os", "unikernel", "mit", "aegis", "operating-systems", "virtualization"]
 categories: ["systems", "operating-systems"]
 draft: false
-cover: "/static/assets/images/blog/exokernels-library-os-mit-radical-minimalism.png"
+cover: "/static/images/blog/exokernels-library-os-mit-radical-minimalism.png"
 coverAlt: "A stylized depiction of the exokernel architecture, showing raw hardware resources exposed through secure bindings to library operating systems layered above"
 ---
 

@@ -5,7 +5,7 @@ description: "Practical lessons from a multi-year effort to adopt quantum-safe c
 tags: ["security", "cryptography", "post-quantum", "infrastructure", "compliance"]
 categories: ["Engineering"]
 draft: false
-cover: "/static/assets/images/blog/quantum-safe-cryptography-migration.png"
+cover: "/static/images/blog/quantum-safe-cryptography-migration.png"
 coverAlt: "Classical and quantum keys intertwined"
 ---
 

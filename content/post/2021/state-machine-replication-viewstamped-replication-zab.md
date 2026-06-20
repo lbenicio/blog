@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["state-machine-replication", "viewstamped-replication", "zab", "zookeeper", "consensus", "distributed-systems"]
 categories: ["systems", "distributed-systems"]
 draft: false
-cover: "/static/assets/images/blog/state-machine-replication-viewstamped-replication-zab.png"
+cover: "/static/images/blog/state-machine-replication-viewstamped-replication-zab.png"
 coverAlt: "A stylized diagram showing a replicated state machine with a primary receiving client commands, proposing them to backups, and executing after a quorum of acks"
 ---
 

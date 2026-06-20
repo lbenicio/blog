@@ -5,7 +5,7 @@ date: "2025-09-27"
 author: "Leonardo Benicio"
 tags: ["distributed-systems", "consistency", "algorithms", "probability"]
 categories: ["systems", "theory"]
-cover: "/static/assets/images/blog/probabilistic-commutativity.png"
+cover: "/static/images/blog/probabilistic-commutativity.png"
 ---
 
 ## Abstract

@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/implementing-a-non-blocking-universal-construction-(herlihy’s-method)-using-compare-and-swap-and-help-first.png"
+cover: "/static/images/blog/implementing-a-non-blocking-universal-construction-(herlihy’s-method)-using-compare-and-swap-and-help-first.png"
 coverAlt: "Technical visualization representing implementing a non blocking universal construction (herlihy’s method) using compare and swap and help first"
 ---
 

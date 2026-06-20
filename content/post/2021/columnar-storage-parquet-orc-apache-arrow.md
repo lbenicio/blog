@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["columnar-storage", "parquet", "orc", "apache-arrow", "olap", "analytics", "simd"]
 categories: ["systems", "data-systems"]
 draft: false
-cover: "/static/assets/images/blog/columnar-storage-parquet-orc-apache-arrow.png"
+cover: "/static/images/blog/columnar-storage-parquet-orc-apache-arrow.png"
 coverAlt: "A stylized visualization contrasting row-oriented and column-oriented data layouts, with column chunks, stripes, and SIMD vectorized scans on compressed column data"
 ---
 

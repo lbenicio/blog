@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/A-Practical-Guide-To-Virtual-Memory-Implementing-Page-Tables-And-Tlb-Simulation-In-Software.png"
+cover: "/static/images/blog/A-Practical-Guide-To-Virtual-Memory-Implementing-Page-Tables-And-Tlb-Simulation-In-Software.png"
 coverAlt: "Technical visualization representing a practical guide to virtual memory: implementing page tables and tlb simulation in software"
 ---
 

@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/designing-a-decentralized-identity-system-with-verifiable-credentials-and-pseudonymity.png"
+cover: "/static/images/blog/designing-a-decentralized-identity-system-with-verifiable-credentials-and-pseudonymity.png"
 coverAlt: "Technical visualization representing designing a decentralized identity system with verifiable credentials and pseudonymity"
 ---
 

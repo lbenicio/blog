@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/building-a-distributed-machine-learning-system-parameter-server-architecture-with-asynchronous-stochastic-gradient-descent.png"
+cover: "/static/images/blog/building-a-distributed-machine-learning-system-parameter-server-architecture-with-asynchronous-stochastic-gradient-descent.png"
 coverAlt: "Technical visualization representing building a distributed machine learning system: parameter server architecture with asynchronous stochastic gradient descent"
 ---
 

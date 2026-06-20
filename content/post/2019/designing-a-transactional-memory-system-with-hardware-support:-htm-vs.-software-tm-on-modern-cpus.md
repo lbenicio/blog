@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/designing-a-transactional-memory-system-with-hardware-support-htm-vs.-software-tm-on-modern-cpus.png"
+cover: "/static/images/blog/designing-a-transactional-memory-system-with-hardware-support-htm-vs.-software-tm-on-modern-cpus.png"
 coverAlt: "Technical visualization representing designing a transactional memory system with hardware support: htm vs. software tm on modern cpus"
 ---
 

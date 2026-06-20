@@ -5,7 +5,7 @@ date: "2025-09-16"
 author: "Leonardo Benicio"
 tags: ["gpu", "storage", "rdma", "data-path", "hpc"]
 categories: ["distributed systems", "performance"]
-cover: "/static/assets/images/blog/gpudirect-storage-end-to-end-data-path-optimization.png"
+cover: "/static/images/blog/gpudirect-storage-end-to-end-data-path-optimization.png"
 ---
 
 High-performance analytics and training pipelines increasingly hinge on how _fast_ and _efficiently_ data reaches GPU memory. Compute has outpaced I/O: a single multi-GPU node can sustain tens of TFLOPs while starved by a few misconfigured storage or copy stages. GPUDirect Storage (GDS) extends the GPUDirect family (peer-to-peer, RDMA) to allow DMA engines (NVMe, NIC) to move bytes directly between storage and GPU memory—bypassing redundant copies through host DRAM and reducing CPU intervention.

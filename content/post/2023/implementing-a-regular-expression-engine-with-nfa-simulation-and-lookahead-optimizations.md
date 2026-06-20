@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/implementing-a-regular-expression-engine-with-nfa-simulation-and-lookahead-optimizations.png"
+cover: "/static/images/blog/implementing-a-regular-expression-engine-with-nfa-simulation-and-lookahead-optimizations.png"
 coverAlt: "Technical visualization representing implementing a regular expression engine with nfa simulation and lookahead optimizations"
 ---
 

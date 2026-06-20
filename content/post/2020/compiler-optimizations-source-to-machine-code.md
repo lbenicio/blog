@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["compilers", "optimization", "performance", "llvm", "systems", "programming-languages"]
 categories: ["systems", "compilers"]
 draft: false
-cover: "/static/assets/images/blog/compiler-optimizations-source-to-machine-code.png"
+cover: "/static/images/blog/compiler-optimizations-source-to-machine-code.png"
 coverAlt: "Visualization of code transformation through compiler optimization passes, from high-level source through intermediate representation to optimized assembly"
 ---
 

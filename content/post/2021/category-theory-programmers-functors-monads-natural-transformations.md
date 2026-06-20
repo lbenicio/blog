@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["category-theory", "functional-programming", "monads", "functors", "adjunctions", "haskell"]
 categories: ["theory", "mathematics"]
 draft: false
-cover: "/static/assets/images/blog/category-theory-programmers-functors-monads-natural-transformations.png"
+cover: "/static/images/blog/category-theory-programmers-functors-monads-natural-transformations.png"
 coverAlt: "Commutative diagram showing a functor mapping between two categories with objects and morphisms"
 ---
 

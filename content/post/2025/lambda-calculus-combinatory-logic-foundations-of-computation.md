@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["lambda-calculus", "computability", "foundations", "functional-programming", "church-turing", "combinators"]
 categories: ["theory", "foundations"]
 draft: false
-cover: "/static/assets/images/blog/lambda-calculus-combinatory-logic-foundations-of-computation.png"
+cover: "/static/images/blog/lambda-calculus-combinatory-logic-foundations-of-computation.png"
 coverAlt: "Minimalist visualization of lambda terms being reduced: a lambda abstraction symbol transforming into simplified forms, surrounded by Church numerals and combinators"
 ---
 

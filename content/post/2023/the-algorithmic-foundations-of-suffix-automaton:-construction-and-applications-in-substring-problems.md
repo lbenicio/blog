@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/the-algorithmic-foundations-of-suffix-automaton-construction-and-applications-in-substring-problems.png"
+cover: "/static/images/blog/the-algorithmic-foundations-of-suffix-automaton-construction-and-applications-in-substring-problems.png"
 coverAlt: "Technical visualization representing the algorithmic foundations of suffix automaton: construction and applications in substring problems"
 ---
 

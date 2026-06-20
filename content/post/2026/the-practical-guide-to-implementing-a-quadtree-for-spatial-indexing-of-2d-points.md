@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/The-Practical-Guide-To-Implementing-A-Quadtree-For-Spatial-Indexing-Of-2d-Points.png"
+cover: "/static/images/blog/The-Practical-Guide-To-Implementing-A-Quadtree-For-Spatial-Indexing-Of-2d-Points.png"
 coverAlt: "Technical visualization representing the practical guide to implementing a quadtree for spatial indexing of 2d points"
 ---
 

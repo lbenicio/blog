@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/the-performance-of-elliptic-curve-cryptography-vs.-rsa-for-key-exchange-and-signatures-on-constrained-devices.png"
+cover: "/static/images/blog/the-performance-of-elliptic-curve-cryptography-vs.-rsa-for-key-exchange-and-signatures-on-constrained-devices.png"
 coverAlt: "Technical visualization representing the performance of elliptic curve cryptography vs. rsa for key exchange and signatures on constrained devices"
 ---
 

@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/The-Realities-Of-Implementing-A-Distributed-Transaction-Protocol-Percolator-Vs.-Spanner.png"
+cover: "/static/images/blog/The-Realities-Of-Implementing-A-Distributed-Transaction-Protocol-Percolator-Vs.-Spanner.png"
 coverAlt: "Technical visualization representing the realities of implementing a distributed transaction protocol: percolator vs. spanner"
 ---
 

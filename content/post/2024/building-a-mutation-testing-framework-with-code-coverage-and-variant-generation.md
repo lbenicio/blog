@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/building-a-mutation-testing-framework-with-code-coverage-and-variant-generation.png"
+cover: "/static/images/blog/building-a-mutation-testing-framework-with-code-coverage-and-variant-generation.png"
 coverAlt: "Technical visualization representing building a mutation testing framework with code coverage and variant generation"
 ---
 

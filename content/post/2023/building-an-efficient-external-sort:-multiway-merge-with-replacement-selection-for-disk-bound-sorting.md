@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/building-an-efficient-external-sort-multiway-merge-with-replacement-selection-for-disk-bound-sorting.png"
+cover: "/static/images/blog/building-an-efficient-external-sort-multiway-merge-with-replacement-selection-for-disk-bound-sorting.png"
 coverAlt: "Technical visualization representing building an efficient external sort: multiway merge with replacement selection for disk bound sorting"
 ---
 

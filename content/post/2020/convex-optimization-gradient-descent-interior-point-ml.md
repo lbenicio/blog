@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["convex-optimization", "gradient-descent", "nesterov", "kkt", "interior-point", "machine-learning"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/convex-optimization-gradient-descent-interior-point-ml.png"
+cover: "/static/images/blog/convex-optimization-gradient-descent-interior-point-ml.png"
 coverAlt: "A contour plot with gradient descent paths converging to the minimum, representing convex optimization"
 ---
 

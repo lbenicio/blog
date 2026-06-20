@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["wasm", "webassembly", "v8", "wasmtime", "cranelift", "jit", "sandboxing"]
 categories: ["systems", "wasm"]
 draft: false
-cover: "/static/assets/images/blog/wasm-runtime-internals-v8-wasmtime-sandboxing.png"
+cover: "/static/images/blog/wasm-runtime-internals-v8-wasmtime-sandboxing.png"
 coverAlt: "A stylized diagram showing WebAssembly bytecode flowing through a multi-tier compilation pipeline, from Liftoff's fast baseline through TurboFan's optimizing compiler, with the linear memory sandbox highlighted"
 ---
 

@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/the-performance-of-gpu-stream-assisted-asynchronous-multiplications-for-deep-neural-networks.png"
+cover: "/static/images/blog/the-performance-of-gpu-stream-assisted-asynchronous-multiplications-for-deep-neural-networks.png"
 coverAlt: "Technical visualization representing the performance of gpu stream assisted asynchronous multiplications for deep neural networks"
 ---
 

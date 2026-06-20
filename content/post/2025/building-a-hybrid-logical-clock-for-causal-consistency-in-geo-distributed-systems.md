@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/Building-A-Hybrid-Logical-Clock-For-Causal-Consistency-In-Geo-Distributed-Systems.png"
+cover: "/static/images/blog/Building-A-Hybrid-Logical-Clock-For-Causal-Consistency-In-Geo-Distributed-Systems.png"
 coverAlt: "Technical visualization representing building a hybrid logical clock for causal consistency in geo distributed systems"
 ---
 

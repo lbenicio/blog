@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/a-quantitative-comparison-of-sorting-algorithms-on-modern-cpu-architectures-radix-sort-vs.-quicksort-with-simd.png"
+cover: "/static/images/blog/a-quantitative-comparison-of-sorting-algorithms-on-modern-cpu-architectures-radix-sort-vs.-quicksort-with-simd.png"
 coverAlt: "Technical visualization representing a quantitative comparison of sorting algorithms on modern cpu architectures: radix sort vs. quicksort with simd"
 ---
 

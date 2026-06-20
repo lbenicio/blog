@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["kolmogorov-complexity", "algorithmic-information-theory", "computability", "randomness", "compression", "theory"]
 categories: ["theory", "mathematics"]
 draft: false
-cover: "/static/assets/images/blog/kolmogorov-complexity-algorithmic-information-theory-foundations.png"
+cover: "/static/images/blog/kolmogorov-complexity-algorithmic-information-theory-foundations.png"
 coverAlt: "Abstract visualization of program length versus data size, with an incompressibility threshold demarcating the boundary between structure and randomness"
 ---
 

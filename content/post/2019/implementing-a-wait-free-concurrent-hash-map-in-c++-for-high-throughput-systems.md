@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/implementing-a-wait-free-concurrent-hash-map-in-c++-for-high-throughput-systems.png"
+cover: "/static/images/blog/implementing-a-wait-free-concurrent-hash-map-in-c++-for-high-throughput-systems.png"
 coverAlt: "Technical visualization representing implementing a wait free concurrent hash map in c++ for high throughput systems"
 ---
 

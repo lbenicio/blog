@@ -5,7 +5,7 @@ description: "Tokenization, postings lists, skip pointers, and WAND: a tour of t
 tags: ["search", "information-retrieval", "indexes", "algorithms"]
 categories: ["Engineering"]
 draft: false
-cover: "/static/assets/images/blog/reverse-indexing-and-inverted-files.png"
+cover: "/static/images/blog/reverse-indexing-and-inverted-files.png"
 coverAlt: "Inverted index diagram with vocabulary mapping to postings lists"
 ---
 

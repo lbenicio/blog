@@ -5,7 +5,7 @@ date: "2025-09-21"
 author: "Leonardo Benicio"
 tags: ["parallelism", "distributed-systems", "prefix-sums", "hpc", "gpu", "mpi"]
 categories: ["theory", "algorithms", "high-performance-computing"]
-cover: "/static/assets/images/blog/prefix-sum-distributed-systems-hpc-mpi-gpu.png"
+cover: "/static/images/blog/prefix-sum-distributed-systems-hpc-mpi-gpu.png"
 ---
 
 ## Introduction

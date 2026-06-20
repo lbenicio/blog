@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["network-flow", "ford-fulkerson", "edmonds-karp", "dinic", "push-relabel", "max-flow-min-cut", "algorithms"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/network-flow-ford-fulkerson-push-relabel.png"
+cover: "/static/images/blog/network-flow-ford-fulkerson-push-relabel.png"
 coverAlt: "A directed graph with capacities on edges and flow values, illustrating the max-flow problem with source and sink highlighted"
 ---
 

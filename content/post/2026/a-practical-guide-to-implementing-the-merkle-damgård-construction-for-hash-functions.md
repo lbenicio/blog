@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/A-Practical-Guide-To-Implementing-The-Merkle-Damgård-Construction-For-Hash-Functions.png"
+cover: "/static/images/blog/A-Practical-Guide-To-Implementing-The-Merkle-Damgård-Construction-For-Hash-Functions.png"
 coverAlt: "Technical visualization representing a practical guide to implementing the merkle damgård construction for hash functions"
 ---
 

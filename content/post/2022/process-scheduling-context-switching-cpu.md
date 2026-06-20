@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["scheduling", "context-switch", "operating-systems", "concurrency", "kernel", "fundamentals"]
 categories: ["fundamentals", "systems"]
 draft: false
-cover: "/static/assets/images/blog/process-scheduling-context-switching-cpu.png"
+cover: "/static/images/blog/process-scheduling-context-switching-cpu.png"
 coverAlt: "Visualization of CPU time slices being allocated to different processes through a scheduler with context switch transitions"
 ---
 

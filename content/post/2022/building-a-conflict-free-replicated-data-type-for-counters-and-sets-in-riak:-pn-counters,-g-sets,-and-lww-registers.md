@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/building-a-conflict-free-replicated-data-type-for-counters-and-sets-in-riak-pn-counters,-g-sets,-and-lww-registers.png"
+cover: "/static/images/blog/building-a-conflict-free-replicated-data-type-for-counters-and-sets-in-riak-pn-counters,-g-sets,-and-lww-registers.png"
 coverAlt: "Technical visualization representing building a conflict free replicated data type for counters and sets in riak: pn counters, g sets, and lww registers"
 ---
 

@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/building-a-network-function-virtualization-(nfv)-with-dpdk-for-kernel-bypass-and-poll-mode-drivers.png"
+cover: "/static/images/blog/building-a-network-function-virtualization-(nfv)-with-dpdk-for-kernel-bypass-and-poll-mode-drivers.png"
 coverAlt: "Technical visualization representing building a network function virtualization (nfv) with dpdk for kernel bypass and poll mode drivers"
 ---
 

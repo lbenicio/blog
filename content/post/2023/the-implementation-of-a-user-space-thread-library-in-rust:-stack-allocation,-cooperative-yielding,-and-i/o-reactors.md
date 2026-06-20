@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/the-implementation-of-a-user-space-thread-library-in-rust-stack-allocation-cooperative-yielding-and-io-reactors.png"
+cover: "/static/images/blog/the-implementation-of-a-user-space-thread-library-in-rust-stack-allocation-cooperative-yielding-and-io-reactors.png"
 coverAlt: "Technical visualization representing the implementation of a user space thread library in rust: stack allocation, cooperative yielding, and i/o reactors"
 ---
 

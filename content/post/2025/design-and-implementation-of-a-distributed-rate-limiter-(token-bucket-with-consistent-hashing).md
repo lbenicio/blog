@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/Design-And-Implementation-Of-A-Distributed-Rate-Limiter-(token-Bucket-With-Consistent-Hashing).png"
+cover: "/static/images/blog/Design-And-Implementation-Of-A-Distributed-Rate-Limiter-(token-Bucket-With-Consistent-Hashing).png"
 coverAlt: "Technical visualization representing design and implementation of a distributed rate limiter (token bucket with consistent hashing)"
 ---
 

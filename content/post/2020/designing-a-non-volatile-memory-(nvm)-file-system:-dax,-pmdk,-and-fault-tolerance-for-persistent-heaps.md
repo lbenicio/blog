@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/designing-a-non-volatile-memory-(nvm)-file-system-dax,-pmdk,-and-fault-tolerance-for-persistent-heaps.png"
+cover: "/static/images/blog/designing-a-non-volatile-memory-(nvm)-file-system-dax,-pmdk,-and-fault-tolerance-for-persistent-heaps.png"
 coverAlt: "Technical visualization representing designing a non volatile memory (nvm) file system: dax, pmdk, and fault tolerance for persistent heaps"
 ---
 

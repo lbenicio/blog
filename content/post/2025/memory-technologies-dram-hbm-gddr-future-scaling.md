@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["dram", "hbm", "gddr", "memory-wall", "row-hammer", "feram", "mram", "memory-technologies"]
 categories: ["systems", "hardware-architecture"]
 draft: false
-cover: "/static/assets/images/blog/memory-technologies-dram-hbm-gddr-future-scaling.png"
+cover: "/static/images/blog/memory-technologies-dram-hbm-gddr-future-scaling.png"
 coverAlt: "Cross-section diagram of DRAM cell, HBM stack with TSVs, and GDDR interface comparing the three memory technologies"
 ---
 

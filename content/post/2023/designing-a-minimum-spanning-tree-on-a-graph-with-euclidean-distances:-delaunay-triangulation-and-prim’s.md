@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/designing-a-minimum-spanning-tree-on-a-graph-with-euclidean-distances-delaunay-triangulation-and-prim’s.png"
+cover: "/static/images/blog/designing-a-minimum-spanning-tree-on-a-graph-with-euclidean-distances-delaunay-triangulation-and-prim’s.png"
 coverAlt: "Technical visualization representing designing a minimum spanning tree on a graph with euclidean distances: delaunay triangulation and prim’s"
 ---
 

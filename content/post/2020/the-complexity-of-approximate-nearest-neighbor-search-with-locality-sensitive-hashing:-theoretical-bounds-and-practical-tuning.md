@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/the-complexity-of-approximate-nearest-neighbor-search-with-locality-sensitive-hashing-theoretical-bounds-and-practical-tuning.png"
+cover: "/static/images/blog/the-complexity-of-approximate-nearest-neighbor-search-with-locality-sensitive-hashing-theoretical-bounds-and-practical-tuning.png"
 coverAlt: "Technical visualization representing the complexity of approximate nearest neighbor search with locality sensitive hashing: theoretical bounds and practical tuning"
 ---
 

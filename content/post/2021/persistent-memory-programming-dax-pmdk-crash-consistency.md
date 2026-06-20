@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["persistent-memory", "pmem", "dax", "optane", "pmdk", "crash-consistency", "storage"]
 categories: ["systems", "storage"]
 draft: false
-cover: "/static/assets/images/blog/persistent-memory-programming-dax-pmdk-crash-consistency.png"
+cover: "/static/images/blog/persistent-memory-programming-dax-pmdk-crash-consistency.png"
 coverAlt: "A stylized diagram showing CPU instructions (stores, flushes, fences) reaching persistent memory through the cache hierarchy, with the persistence domain boundary highlighted"
 ---
 

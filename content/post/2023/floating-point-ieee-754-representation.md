@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["floating-point", "ieee-754", "numerical-computing", "precision", "mathematics", "systems"]
 categories: ["systems", "fundamentals"]
 draft: false
-cover: "/static/assets/images/blog/floating-point-ieee-754-representation.png"
+cover: "/static/images/blog/floating-point-ieee-754-representation.png"
 coverAlt: "Binary representation of a floating point number showing sign bit, exponent, and mantissa fields with mathematical notation"
 ---
 

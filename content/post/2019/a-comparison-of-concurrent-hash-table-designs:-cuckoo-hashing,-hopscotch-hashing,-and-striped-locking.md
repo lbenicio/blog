@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/a-comparison-of-concurrent-hash-table-designs-cuckoo-hashing,-hopscotch-hashing,-and-striped-locking.png"
+cover: "/static/images/blog/a-comparison-of-concurrent-hash-table-designs-cuckoo-hashing,-hopscotch-hashing,-and-striped-locking.png"
 coverAlt: "Technical visualization representing a comparison of concurrent hash table designs: cuckoo hashing, hopscotch hashing, and striped locking"
 ---
 

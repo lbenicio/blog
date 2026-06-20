@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/the-algorithm-for-network-topology-discovery-using-snmp-and-lldp-with-graph-building.png"
+cover: "/static/images/blog/the-algorithm-for-network-topology-discovery-using-snmp-and-lldp-with-graph-building.png"
 coverAlt: "Technical visualization representing the algorithm for network topology discovery using snmp and lldp with graph building"
 ---
 

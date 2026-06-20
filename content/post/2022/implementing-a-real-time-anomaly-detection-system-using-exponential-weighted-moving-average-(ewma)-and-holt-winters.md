@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/implementing-a-real-time-anomaly-detection-system-using-exponential-weighted-moving-average-(ewma)-and-holt-winters.png"
+cover: "/static/images/blog/implementing-a-real-time-anomaly-detection-system-using-exponential-weighted-moving-average-(ewma)-and-holt-winters.png"
 coverAlt: "Technical visualization representing implementing a real time anomaly detection system using exponential weighted moving average (ewma) and holt winters"
 ---
 

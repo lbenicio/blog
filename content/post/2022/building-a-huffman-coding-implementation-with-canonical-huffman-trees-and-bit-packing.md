@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/building-a-huffman-coding-implementation-with-canonical-huffman-trees-and-bit-packing.png"
+cover: "/static/images/blog/building-a-huffman-coding-implementation-with-canonical-huffman-trees-and-bit-packing.png"
 coverAlt: "Technical visualization representing building a huffman coding implementation with canonical huffman trees and bit packing"
 ---
 

@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/Building-A-Simple-Ray-Tracer-Bvh-Acceleration,-Anti-Aliasing,-And-Path-Tracing.png"
+cover: "/static/images/blog/Building-A-Simple-Ray-Tracer-Bvh-Acceleration,-Anti-Aliasing,-And-Path-Tracing.png"
 coverAlt: "Technical visualization representing building a simple ray tracer: bvh acceleration, anti aliasing, and path tracing"
 ---
 

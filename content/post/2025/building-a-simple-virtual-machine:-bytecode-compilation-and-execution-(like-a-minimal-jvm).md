@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/Building-A-Simple-Virtual-Machine-Bytecode-Compilation-And-Execution-(like-A-Minimal-Jvm).png"
+cover: "/static/images/blog/Building-A-Simple-Virtual-Machine-Bytecode-Compilation-And-Execution-(like-A-Minimal-Jvm).png"
 coverAlt: "Technical visualization representing building a simple virtual machine: bytecode compilation and execution (like a minimal jvm)"
 ---
 

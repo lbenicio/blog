@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/building-a-count-min-sketch-with-conservative-update-for-heavy-hitters-in-network-traffic.png"
+cover: "/static/images/blog/building-a-count-min-sketch-with-conservative-update-for-heavy-hitters-in-network-traffic.png"
 coverAlt: "Technical visualization representing building a count min sketch with conservative update for heavy hitters in network traffic"
 ---
 

@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/Implementing-A-Parallel-Sort-Bitonic-Sort-On-Gpu-With-Cuda.png"
+cover: "/static/images/blog/Implementing-A-Parallel-Sort-Bitonic-Sort-On-Gpu-With-Cuda.png"
 coverAlt: "Technical visualization representing implementing a parallel sort: bitonic sort on gpu with cuda"
 ---
 

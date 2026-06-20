@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/Designing-A-Sharded-Counter-With-Crdts-For-Eventually-Consistent-Analytics.png"
+cover: "/static/images/blog/Designing-A-Sharded-Counter-With-Crdts-For-Eventually-Consistent-Analytics.png"
 coverAlt: "Technical visualization representing designing a sharded counter with crdts for eventually consistent analytics"
 ---
 

@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/The-Architecture-Of-A-Real-Time-Operating-System-Context-Switching-And-Priority-Inversion-(mars-Pathfinder).png"
+cover: "/static/images/blog/The-Architecture-Of-A-Real-Time-Operating-System-Context-Switching-And-Priority-Inversion-(mars-Pathfinder).png"
 coverAlt: "Technical visualization representing the architecture of a real time operating system: context switching and priority inversion (mars pathfinder)"
 ---
 

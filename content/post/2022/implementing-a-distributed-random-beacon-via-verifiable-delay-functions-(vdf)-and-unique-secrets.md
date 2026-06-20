@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/implementing-a-distributed-random-beacon-via-verifiable-delay-functions-(vdf)-and-unique-secrets.png"
+cover: "/static/images/blog/implementing-a-distributed-random-beacon-via-verifiable-delay-functions-(vdf)-and-unique-secrets.png"
 coverAlt: "Technical visualization representing implementing a distributed random beacon via verifiable delay functions (vdf) and unique secrets"
 ---
 

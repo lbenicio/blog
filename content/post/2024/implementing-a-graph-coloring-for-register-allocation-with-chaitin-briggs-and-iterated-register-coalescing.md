@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/implementing-a-graph-coloring-for-register-allocation-with-chaitin-briggs-and-iterated-register-coalescing.png"
+cover: "/static/images/blog/implementing-a-graph-coloring-for-register-allocation-with-chaitin-briggs-and-iterated-register-coalescing.png"
 coverAlt: "Technical visualization representing implementing a graph coloring for register allocation with chaitin briggs and iterated register coalescing"
 ---
 

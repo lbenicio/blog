@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["integer-programming", "branch-and-bound", "gomory-cuts", "lift-and-project", "gurobi", "cplex"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/integer-programming-branch-and-bound-cutting-planes.png"
+cover: "/static/images/blog/integer-programming-branch-and-bound-cutting-planes.png"
 coverAlt: "A branch-and-bound tree with cutting planes pruning nodes, representing integer programming solver internals"
 ---
 

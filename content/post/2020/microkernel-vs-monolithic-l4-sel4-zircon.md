@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["microkernel", "l4", "sel4", "zircon", "ipc", "operating-systems", "verification"]
 categories: ["systems", "operating-systems"]
 draft: false
-cover: "/static/assets/images/blog/microkernel-vs-monolithic-l4-sel4-zircon.png"
+cover: "/static/images/blog/microkernel-vs-monolithic-l4-sel4-zircon.png"
 coverAlt: "A stylized visualization contrasting microkernel IPC pathways with monolithic kernel system call paths, showing message passing across address spaces"
 ---
 

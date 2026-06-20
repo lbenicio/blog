@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/The-Architecture-Of-A-Log-Structured-Merge-Tree-(lsm)-With-Memory-Bucketed-Compaction.png"
+cover: "/static/images/blog/The-Architecture-Of-A-Log-Structured-Merge-Tree-(lsm)-With-Memory-Bucketed-Compaction.png"
 coverAlt: "Technical visualization representing the architecture of a log structured merge tree (lsm) with memory bucketed compaction"
 ---
 

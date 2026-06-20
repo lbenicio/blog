@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/A-Practical-Guide-To-Implement-The-C5.0-Decision-Tree-Algorithm-From-Scratch.png"
+cover: "/static/images/blog/A-Practical-Guide-To-Implement-The-C5.0-Decision-Tree-Algorithm-From-Scratch.png"
 coverAlt: "Technical visualization representing a practical guide to implement the c5.0 decision tree algorithm from scratch"
 ---
 

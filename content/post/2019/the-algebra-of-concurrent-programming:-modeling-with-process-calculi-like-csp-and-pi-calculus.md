@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/the-algebra-of-concurrent-programming-modeling-with-process-calculi-like-csp-and-pi-calculus.png"
+cover: "/static/images/blog/the-algebra-of-concurrent-programming-modeling-with-process-calculi-like-csp-and-pi-calculus.png"
 coverAlt: "Technical visualization representing the algebra of concurrent programming: modeling with process calculi like csp and pi calculus"
 ---
 

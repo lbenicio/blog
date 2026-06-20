@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/the-performance-of-minimal-perfect-hashing-chd-algorithm,-empirical-hash-seeds,-and-space-efficiency.png"
+cover: "/static/images/blog/the-performance-of-minimal-perfect-hashing-chd-algorithm,-empirical-hash-seeds,-and-space-efficiency.png"
 coverAlt: "Technical visualization representing the performance of minimal perfect hashing: chd algorithm, empirical hash seeds, and space efficiency"
 ---
 

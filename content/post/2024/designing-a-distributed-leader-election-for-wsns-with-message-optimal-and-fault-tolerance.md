@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/designing-a-distributed-leader-election-for-wsns-with-message-optimal-and-fault-tolerance.png"
+cover: "/static/images/blog/designing-a-distributed-leader-election-for-wsns-with-message-optimal-and-fault-tolerance.png"
 coverAlt: "Technical visualization representing designing a distributed leader election for wsns with message optimal and fault tolerance"
 ---
 

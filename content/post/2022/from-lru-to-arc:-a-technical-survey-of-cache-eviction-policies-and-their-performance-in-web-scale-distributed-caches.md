@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/from-lru-to-arc-a-technical-survey-of-cache-eviction-policies-and-their-performance-in-web-scale-distributed-caches.png"
+cover: "/static/images/blog/from-lru-to-arc-a-technical-survey-of-cache-eviction-policies-and-their-performance-in-web-scale-distributed-caches.png"
 coverAlt: "Technical visualization representing cache eviction policies from LRU to ARC"
 ---
 

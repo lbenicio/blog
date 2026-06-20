@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/Implementing-The-Smtp-Protocol-Mail-Transfer-Agent-With-Queue-And-Retry-Logic.png"
+cover: "/static/images/blog/Implementing-The-Smtp-Protocol-Mail-Transfer-Agent-With-Queue-And-Retry-Logic.png"
 coverAlt: "Technical visualization representing implementing the smtp protocol: mail transfer agent with queue and retry logic"
 ---
 

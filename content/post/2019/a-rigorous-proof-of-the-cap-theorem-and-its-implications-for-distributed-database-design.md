@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/a-rigorous-proof-of-the-cap-theorem-and-its-implications-for-distributed-database-design.png"
+cover: "/static/images/blog/a-rigorous-proof-of-the-cap-theorem-and-its-implications-for-distributed-database-design.png"
 coverAlt: "Technical visualization representing a rigorous proof of the cap theorem and its implications for distributed database design"
 ---
 

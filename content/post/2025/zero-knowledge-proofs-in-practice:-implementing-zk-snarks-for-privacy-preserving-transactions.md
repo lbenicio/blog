@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/Zero-Knowledge-Proofs-In-Practice-Implementing-Zk-Snarks-For-Privacy-Preserving-Transactions.png"
+cover: "/static/images/blog/Zero-Knowledge-Proofs-In-Practice-Implementing-Zk-Snarks-For-Privacy-Preserving-Transactions.png"
 coverAlt: "Technical visualization representing zero knowledge proofs in practice: implementing zk snarks for privacy preserving transactions"
 ---
 

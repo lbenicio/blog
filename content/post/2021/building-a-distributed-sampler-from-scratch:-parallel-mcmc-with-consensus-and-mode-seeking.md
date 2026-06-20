@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/building-a-distributed-sampler-from-scratch-parallel-mcmc-with-consensus-and-mode-seeking.png"
+cover: "/static/images/blog/building-a-distributed-sampler-from-scratch-parallel-mcmc-with-consensus-and-mode-seeking.png"
 coverAlt: "Technical visualization representing building a distributed sampler from scratch: parallel mcmc with consensus and mode seeking"
 ---
 

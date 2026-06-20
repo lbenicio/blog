@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/a-practical-guide-to-gradient-boosting-xgboost’s-weighted-quantile-sketch-and-sparsity-aware-split-finding.png"
+cover: "/static/images/blog/a-practical-guide-to-gradient-boosting-xgboost’s-weighted-quantile-sketch-and-sparsity-aware-split-finding.png"
 coverAlt: "Technical visualization representing a practical guide to gradient boosting: xgboost’s weighted quantile sketch and sparsity aware split finding"
 ---
 

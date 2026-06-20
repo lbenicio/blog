@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/implementing-raft-consensus-from-scratch-in-go-a-step-by-step-guide-with-fault-injection-testing.png"
+cover: "/static/images/blog/implementing-raft-consensus-from-scratch-in-go-a-step-by-step-guide-with-fault-injection-testing.png"
 coverAlt: "Technical visualization representing implementing raft consensus from scratch in go: a step by step guide with fault injection testing"
 ---
 

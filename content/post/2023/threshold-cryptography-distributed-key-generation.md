@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["threshold-cryptography", "dkg", "ecdsa", "bls", "secret-sharing", "distributed-systems"]
 categories: ["theory", "systems"]
 draft: false
-cover: "/static/assets/images/blog/threshold-cryptography-distributed-key-generation.png"
+cover: "/static/images/blog/threshold-cryptography-distributed-key-generation.png"
 coverAlt: "Diagram of n parties generating shares of a private key through GJKR distributed key generation, with threshold t, and signing collaboratively."
 ---
 

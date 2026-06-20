@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/building-a-partition-aware-transactional-database-using-calvin-deterministic-ordering-and-lock-free-execution.png"
+cover: "/static/images/blog/building-a-partition-aware-transactional-database-using-calvin-deterministic-ordering-and-lock-free-execution.png"
 coverAlt: "Technical visualization representing building a partition aware transactional database using calvin: deterministic ordering and lock free execution"
 ---
 

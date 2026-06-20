@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/a-detailed-analysis-of-the-quickunion-disjoint-set-union-data-structure-with-path-compression-and-union-by-rank.png"
+cover: "/static/images/blog/a-detailed-analysis-of-the-quickunion-disjoint-set-union-data-structure-with-path-compression-and-union-by-rank.png"
 coverAlt: "Technical visualization representing a detailed analysis of the quickunion disjoint set union data structure with path compression and union by rank"
 ---
 

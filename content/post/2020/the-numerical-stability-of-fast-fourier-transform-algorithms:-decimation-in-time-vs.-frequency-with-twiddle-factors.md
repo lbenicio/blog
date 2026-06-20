@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/the-numerical-stability-of-fast-fourier-transform-algorithms-decimation-in-time-vs.-frequency-with-twiddle-factors.png"
+cover: "/static/images/blog/the-numerical-stability-of-fast-fourier-transform-algorithms-decimation-in-time-vs.-frequency-with-twiddle-factors.png"
 coverAlt: "Technical visualization representing the numerical stability of fast fourier transform algorithms: decimation in time vs. frequency with twiddle factors"
 ---
 

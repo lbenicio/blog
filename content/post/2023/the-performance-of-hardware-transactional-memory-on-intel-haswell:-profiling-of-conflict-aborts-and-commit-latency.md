@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/the-performance-of-hardware-transactional-memory-on-intel-haswell-profiling-of-conflict-aborts-and-commit-latency.png"
+cover: "/static/images/blog/the-performance-of-hardware-transactional-memory-on-intel-haswell-profiling-of-conflict-aborts-and-commit-latency.png"
 coverAlt: "Technical visualization representing the performance of hardware transactional memory on intel haswell: profiling of conflict aborts and commit latency"
 ---
 

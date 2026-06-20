@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["time", "distributed-systems", "ntp", "ptp", "truetime", "spanner", "clock-synchronization", "ieee-1588"]
 categories: ["systems", "distributed-systems"]
 draft: false
-cover: "/static/assets/images/blog/time-distributed-systems-ntp-ptp-truetime.png"
+cover: "/static/images/blog/time-distributed-systems-ntp-ptp-truetime.png"
 coverAlt: "Timeline diagram showing NTP client-server exchange, PTP transparent clock chain, and TrueTime uncertainty intervals"
 ---
 

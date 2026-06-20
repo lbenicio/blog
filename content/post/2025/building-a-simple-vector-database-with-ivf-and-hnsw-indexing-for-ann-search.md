@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/Building-A-Simple-Vector-Database-With-Ivf-And-Hnsw-Indexing-For-Ann-Search.png"
+cover: "/static/images/blog/Building-A-Simple-Vector-Database-With-Ivf-And-Hnsw-Indexing-For-Ann-Search.png"
 coverAlt: "Technical visualization representing building a simple vector database with ivf and hnsw indexing for ann search"
 ---
 

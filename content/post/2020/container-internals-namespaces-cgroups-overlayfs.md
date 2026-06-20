@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["containers", "linux", "namespaces", "cgroups", "overlayfs", "oci", "docker"]
 categories: ["systems", "containers"]
 draft: false
-cover: "/static/assets/images/blog/container-internals-namespaces-cgroups-overlayfs.png"
+cover: "/static/images/blog/container-internals-namespaces-cgroups-overlayfs.png"
 coverAlt: "A layered visualization of container isolation showing Linux namespaces, cgroups, and OverlayFS working together to create lightweight virtual environments"
 ---
 

@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/the-algorithm-of-the-buddy-memory-allocation-system-binary-trees-and-o(1)-free-block-coalescing.png"
+cover: "/static/images/blog/the-algorithm-of-the-buddy-memory-allocation-system-binary-trees-and-o(1)-free-block-coalescing.png"
 coverAlt: "Technical visualization representing the algorithm of the buddy memory allocation system: binary trees and o(1) free block coalescing"
 ---
 

@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/Writing-A-Custom-Profiling-Tool-For-Python-Bytecode-Instrumentation-And-Statistical-Sampling.png"
+cover: "/static/images/blog/Writing-A-Custom-Profiling-Tool-For-Python-Bytecode-Instrumentation-And-Statistical-Sampling.png"
 coverAlt: "Technical visualization representing writing a custom profiling tool for python: bytecode instrumentation and statistical sampling"
 ---
 

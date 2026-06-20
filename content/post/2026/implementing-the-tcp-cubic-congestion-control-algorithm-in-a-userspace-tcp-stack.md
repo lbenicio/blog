@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/Implementing-The-Tcp-Cubic-Congestion-Control-Algorithm-In-A-Userspace-Tcp-Stack.png"
+cover: "/static/images/blog/Implementing-The-Tcp-Cubic-Congestion-Control-Algorithm-In-A-Userspace-Tcp-Stack.png"
 coverAlt: "Technical visualization representing implementing the tcp cubic congestion control algorithm in a userspace tcp stack"
 ---
 

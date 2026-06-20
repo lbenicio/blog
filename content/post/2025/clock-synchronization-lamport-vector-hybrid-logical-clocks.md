@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["lamport-clocks", "vector-clocks", "hybrid-logical-clocks", "crdt", "causality", "distributed-systems", "logical-clocks"]
 categories: ["systems", "distributed-systems"]
 draft: false
-cover: "/static/assets/images/blog/clock-synchronization-lamport-vector-hybrid-logical-clocks.png"
+cover: "/static/images/blog/clock-synchronization-lamport-vector-hybrid-logical-clocks.png"
 coverAlt: "Diagram showing Lamport clock increment rules, vector clock comparison for causality detection, and HLC mapping from physical to logical time"
 ---
 

@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["edge-computing", "machine-learning", "latency", "observability", "platform-engineering", "devops"]
 categories: ["machine learning", "distributed systems"]
 draft: false
-cover: "/static/assets/images/blog/latency-aware-edge-inference-platforms.png"
+cover: "/static/images/blog/latency-aware-edge-inference-platforms.png"
 coverAlt: "Edge devices orchestrating AI inference pipelines with latency heatmaps"
 ---
 

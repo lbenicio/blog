@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/a-formal-proof-of-the-ranked-pairs-voting-system-condorcet-efficiency-and-complexity.png"
+cover: "/static/images/blog/a-formal-proof-of-the-ranked-pairs-voting-system-condorcet-efficiency-and-complexity.png"
 coverAlt: "Technical visualization representing a formal proof of the ranked pairs voting system: condorcet efficiency and complexity"
 ---
 

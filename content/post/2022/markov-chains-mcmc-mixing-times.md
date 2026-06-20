@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["markov-chains", "mcmc", "mixing-times", "randomized-algorithms", "monte-carlo", "probability"]
 categories: ["theory", "mathematics"]
 draft: false
-cover: "/static/assets/images/blog/markov-chains-mcmc-mixing-times.png"
+cover: "/static/images/blog/markov-chains-mcmc-mixing-times.png"
 coverAlt: "Diagram of a Markov chain state space with transition probabilities and mixing time illustration"
 ---
 

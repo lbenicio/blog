@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/a-detailed-look-at-the-tls-1.3-handshake-protocol-key-schedule,-0-rtt,-and-forward-secrecy.png"
+cover: "/static/images/blog/a-detailed-look-at-the-tls-1.3-handshake-protocol-key-schedule,-0-rtt,-and-forward-secrecy.png"
 coverAlt: "Technical visualization representing a detailed look at the tls 1.3 handshake protocol: key schedule, 0 rtt, and forward secrecy"
 ---
 

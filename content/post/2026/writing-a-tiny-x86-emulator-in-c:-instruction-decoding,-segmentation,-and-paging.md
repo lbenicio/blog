@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/Writing-A-Tiny-X86-Emulator-In-C-Instruction-Decoding,-Segmentation,-And-Paging.png"
+cover: "/static/images/blog/Writing-A-Tiny-X86-Emulator-In-C-Instruction-Decoding,-Segmentation,-And-Paging.png"
 coverAlt: "Technical visualization representing writing a tiny x86 emulator in c: instruction decoding, segmentation, and paging"
 ---
 

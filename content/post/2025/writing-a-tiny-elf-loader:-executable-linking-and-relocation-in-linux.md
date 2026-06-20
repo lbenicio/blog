@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/Writing-A-Tiny-Elf-Loader-Executable-Linking-And-Relocation-In-Linux.png"
+cover: "/static/images/blog/Writing-A-Tiny-Elf-Loader-Executable-Linking-And-Relocation-In-Linux.png"
 coverAlt: "Technical visualization representing writing a tiny elf loader: executable linking and relocation in linux"
 ---
 

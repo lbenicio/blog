@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["fpga", "verilog", "hdl", "hls", "high-level-synthesis", "spatial-computing", "reconfigurable-computing", "inference"]
 categories: ["systems", "hardware-architecture"]
 draft: false
-cover: "/static/assets/images/blog/fpga-programming-hls-verilog-spatial-computing.png"
+cover: "/static/images/blog/fpga-programming-hls-verilog-spatial-computing.png"
 coverAlt: "Diagram of FPGA fabric showing configurable logic blocks, switch matrices, DSP slices, and block RAM interconnected by a programmable routing network"
 ---
 

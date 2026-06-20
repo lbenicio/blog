@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/the-performance-of-binary-search-trees-treap,-splay-tree,-red-black-tree,-and-avl-tree-under-random-and-sequential-access.png"
+cover: "/static/images/blog/the-performance-of-binary-search-trees-treap,-splay-tree,-red-black-tree,-and-avl-tree-under-random-and-sequential-access.png"
 coverAlt: "Technical visualization representing the performance of binary search trees: treap, splay tree, red black tree, and avl tree under random and sequential access"
 ---
 

@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/designing-an-lsh-based-approximate-nearest-neighbor-search-for-high-dimensional-vectors-random-projections.png"
+cover: "/static/images/blog/designing-an-lsh-based-approximate-nearest-neighbor-search-for-high-dimensional-vectors-random-projections.png"
 coverAlt: "Technical visualization representing designing an lsh based approximate nearest neighbor search for high dimensional vectors: random projections"
 ---
 

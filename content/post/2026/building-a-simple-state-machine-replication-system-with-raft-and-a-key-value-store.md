@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/Building-A-Simple-State-Machine-Replication-System-With-Raft-And-A-Key-Value-Store.png"
+cover: "/static/images/blog/Building-A-Simple-State-Machine-Replication-System-With-Raft-And-A-Key-Value-Store.png"
 coverAlt: "Technical visualization representing building a simple state machine replication system with raft and a key value store"
 ---
 

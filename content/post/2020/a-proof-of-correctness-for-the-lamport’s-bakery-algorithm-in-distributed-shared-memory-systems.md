@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/a-proof-of-correctness-for-the-lamport’s-bakery-algorithm-in-distributed-shared-memory-systems.png"
+cover: "/static/images/blog/a-proof-of-correctness-for-the-lamport’s-bakery-algorithm-in-distributed-shared-memory-systems.png"
 coverAlt: "Technical visualization representing a proof of correctness for the lamport’s bakery algorithm in distributed shared memory systems"
 ---
 

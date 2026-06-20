@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["operating-systems", "syscalls", "kernel", "linux", "systems-programming", "performance"]
 categories: ["systems", "operating-systems"]
 draft: false
-cover: "/static/assets/images/blog/system-calls-kernel-interface-operating-systems.png"
+cover: "/static/images/blog/system-calls-kernel-interface-operating-systems.png"
 coverAlt: "Visualization of the boundary between user space and kernel space, showing system calls as controlled gateways connecting applications to OS services"
 ---
 

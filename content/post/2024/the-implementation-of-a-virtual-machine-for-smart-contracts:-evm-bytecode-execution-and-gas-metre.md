@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/the-implementation-of-a-virtual-machine-for-smart-contracts-evm-bytecode-execution-and-gas-metre.png"
+cover: "/static/images/blog/the-implementation-of-a-virtual-machine-for-smart-contracts-evm-bytecode-execution-and-gas-metre.png"
 coverAlt: "Technical visualization representing the implementation of a virtual machine for smart contracts: evm bytecode execution and gas metre"
 ---
 

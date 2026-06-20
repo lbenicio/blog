@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["distributed-hash-tables", "dht", "chord", "pastry", "kademlia", "consistent-hashing", "p2p", "structured-overlay"]
 categories: ["systems", "distributed-systems"]
 draft: false
-cover: "/static/assets/images/blog/distributed-hash-tables-chord-pastry-kademlia.png"
+cover: "/static/images/blog/distributed-hash-tables-chord-pastry-kademlia.png"
 coverAlt: "Diagram comparing Chord's ring with finger tables, Pastry's prefix-based routing tree, and Kademlia's XOR metric tree"
 ---
 

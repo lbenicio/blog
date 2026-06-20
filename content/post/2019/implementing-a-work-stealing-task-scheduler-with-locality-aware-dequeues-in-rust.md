@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/implementing-a-work-stealing-task-scheduler-with-locality-aware-dequeues-in-rust.png"
+cover: "/static/images/blog/implementing-a-work-stealing-task-scheduler-with-locality-aware-dequeues-in-rust.png"
 coverAlt: "Technical visualization representing implementing a work stealing task scheduler with locality aware dequeues in rust"
 ---
 

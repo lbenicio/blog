@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/A-Practical-Guide-To-Implementing-The-Actor-Model-In-Rust-Tokio-And-Custom-Schedulers.png"
+cover: "/static/images/blog/A-Practical-Guide-To-Implementing-The-Actor-Model-In-Rust-Tokio-And-Custom-Schedulers.png"
 coverAlt: "Technical visualization representing a practical guide to implementing the actor model in rust: tokio and custom schedulers"
 ---
 

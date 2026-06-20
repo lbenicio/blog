@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["riscv", "isa", "open-source-hardware", "vector-extension", "cheri", "processor-design", "computer-architecture"]
 categories: ["systems", "hardware-architecture"]
 draft: false
-cover: "/static/assets/images/blog/riscv-open-isa-revolution-processor-design.png"
+cover: "/static/images/blog/riscv-open-isa-revolution-processor-design.png"
 coverAlt: "Diagram of the RISC-V ISA modular extension framework with base integer ISA at the center and standard extensions radiating outward"
 ---
 

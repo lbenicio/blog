@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/a-deep-dive-into-the-mongodb-storage-engine-wiredtiger’s-b-tree-compression-and-document-model.png"
+cover: "/static/images/blog/a-deep-dive-into-the-mongodb-storage-engine-wiredtiger’s-b-tree-compression-and-document-model.png"
 coverAlt: "Technical visualization representing a deep dive into the mongodb storage engine: wiredtiger’s b tree compression and document model"
 ---
 

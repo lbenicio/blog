@@ -5,7 +5,7 @@ date: "2025-07-04"
 author: "Leonardo Benicio"
 tags: ["mpi", "openmp", "hpc", "hybrid"]
 categories: ["programming models", "practice"]
-cover: "/static/assets/images/blog/mpi-vs-openmp-in-2025.png"
+cover: "/static/images/blog/mpi-vs-openmp-in-2025.png"
 ---
 
 Modern clusters have fat nodes (many cores, large memory) and fast interconnects. That’s why hybrid patterns—MPI between nodes and OpenMP within a node—are common.

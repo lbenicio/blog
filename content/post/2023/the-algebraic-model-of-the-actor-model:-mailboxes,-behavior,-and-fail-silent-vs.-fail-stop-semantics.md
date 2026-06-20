@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/the-algebraic-model-of-the-actor-model-mailboxes,-behavior,-and-fail-silent-vs.-fail-stop-semantics.png"
+cover: "/static/images/blog/the-algebraic-model-of-the-actor-model-mailboxes,-behavior,-and-fail-silent-vs.-fail-stop-semantics.png"
 coverAlt: "Technical visualization representing the algebraic model of the actor model: mailboxes, behavior, and fail silent vs. fail stop semantics"
 ---
 

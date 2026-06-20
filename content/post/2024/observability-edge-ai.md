@@ -5,7 +5,7 @@ description: "A practitioner's guide to instrumenting, monitoring, and debugging
 tags: ["observability", "edge", "ai", "mlops", "iot"]
 categories: ["Engineering"]
 draft: false
-cover: "/static/assets/images/blog/observability-edge-ai.png"
+cover: "/static/images/blog/observability-edge-ai.png"
 coverAlt: "Edge devices streaming telemetry into a central observability hub"
 ---
 

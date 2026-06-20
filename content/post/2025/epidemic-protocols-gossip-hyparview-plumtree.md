@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["epidemic-protocols", "gossip", "hyparview", "plumtree", "broadcast", "membership", "distributed-systems", "peer-to-peer"]
 categories: ["systems", "distributed-systems"]
 draft: false
-cover: "/static/assets/images/blog/epidemic-protocols-gossip-hyparview-plumtree.png"
+cover: "/static/images/blog/epidemic-protocols-gossip-hyparview-plumtree.png"
 coverAlt: "Diagram of gossip protocol rounds showing infection spread through a network with push, pull, and push-pull communication patterns"
 ---
 

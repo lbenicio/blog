@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/building-a-write-ahead-log-from-first-principles-durability,-ordering,-and-crash-recovery-strategies.png"
+cover: "/static/images/blog/building-a-write-ahead-log-from-first-principles-durability,-ordering,-and-crash-recovery-strategies.png"
 coverAlt: "Technical visualization representing building a write ahead log from first principles: durability, ordering, and crash recovery strategies"
 ---
 

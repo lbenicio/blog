@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["jit", "compilers", "v8", "hotspot", "javascript", "java", "tracing-jit"]
 categories: ["systems", "compilers"]
 draft: false
-cover: "/static/assets/images/blog/jit-compilation-tracing-method-v8-hotspot.png"
+cover: "/static/images/blog/jit-compilation-tracing-method-v8-hotspot.png"
 coverAlt: "A stylized visualization of JIT compilation tiers, showing bytecode flowing through interpreter, baseline compiler, and optimizing compiler into native code"
 ---
 

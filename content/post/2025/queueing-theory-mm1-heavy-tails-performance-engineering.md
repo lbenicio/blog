@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["queueing-theory", "performance", "latency", "tail-at-scale", "probability", "distributed-systems"]
 categories: ["theory", "systems"]
 draft: false
-cover: "/static/assets/images/blog/queueing-theory-mm1-heavy-tails-performance-engineering.png"
+cover: "/static/images/blog/queueing-theory-mm1-heavy-tails-performance-engineering.png"
 coverAlt: "Abstract visualization of a queueing network with arrival streams, service nodes, and departure flows, highlighting the nonlinear latency explosion near saturation"
 ---
 

@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["tropical-geometry", "combinatorial-optimization", "phylogenetics", "deep-learning", "algebraic-geometry"]
 categories: ["theory", "mathematics"]
 draft: false
-cover: "/static/assets/images/blog/tropical-geometry-algorithmic-applications-cs.png"
+cover: "/static/images/blog/tropical-geometry-algorithmic-applications-cs.png"
 coverAlt: "Diagram showing a tropical curve as a piecewise-linear graph with infinite rays"
 ---
 

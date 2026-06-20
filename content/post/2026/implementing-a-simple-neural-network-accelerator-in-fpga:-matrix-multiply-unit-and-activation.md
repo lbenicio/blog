@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/Implementing-A-Simple-Neural-Network-Accelerator-In-Fpga-Matrix-Multiply-Unit-And-Activation.png"
+cover: "/static/images/blog/Implementing-A-Simple-Neural-Network-Accelerator-In-Fpga-Matrix-Multiply-Unit-And-Activation.png"
 coverAlt: "Technical visualization representing implementing a simple neural network accelerator in fpga: matrix multiply unit and activation"
 ---
 

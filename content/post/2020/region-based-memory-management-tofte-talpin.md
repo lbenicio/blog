@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["memory-management", "region-inference", "ml", "rust", "type-systems", "garbage-collection"]
 categories: ["systems", "programming-languages"]
 draft: false
-cover: "/static/assets/images/blog/region-based-memory-management-tofte-talpin.png"
+cover: "/static/images/blog/region-based-memory-management-tofte-talpin.png"
 coverAlt: "A stylized diagram showing nested regions as concentric circles, with objects allocated in each region and deallocated en masse when the region scope ends"
 ---
 

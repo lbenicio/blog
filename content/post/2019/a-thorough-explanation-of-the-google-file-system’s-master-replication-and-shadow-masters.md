@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/a-thorough-explanation-of-the-google-file-system’s-master-replication-and-shadow-masters.png"
+cover: "/static/images/blog/a-thorough-explanation-of-the-google-file-system’s-master-replication-and-shadow-masters.png"
 coverAlt: "Technical visualization representing a thorough explanation of the google file system’s master replication and shadow masters"
 ---
 

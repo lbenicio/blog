@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["streaming-algorithms", "sketches", "count-min", "misra-gries", "ams", "frequency-moments", "data-streams"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/streaming-algorithms-frequent-items-sketches.png"
+cover: "/static/images/blog/streaming-algorithms-frequent-items-sketches.png"
 coverAlt: "A stream of data flowing through a small memory buffer representing streaming computation"
 ---
 

@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["average-case-complexity", "levin", "distributional-problems", "avgp", "cryptography"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/average-case-complexity-levin-theory-distributional.png"
+cover: "/static/images/blog/average-case-complexity-levin-theory-distributional.png"
 coverAlt: "A probability distribution over problem instances with some regions highlighted as hard, illustrating average-case complexity"
 ---
 

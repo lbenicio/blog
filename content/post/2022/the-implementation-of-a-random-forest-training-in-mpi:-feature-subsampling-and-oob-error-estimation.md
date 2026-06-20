@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/the-implementation-of-a-random-forest-training-in-mpi-feature-subsampling-and-oob-error-estimation.png"
+cover: "/static/images/blog/the-implementation-of-a-random-forest-training-in-mpi-feature-subsampling-and-oob-error-estimation.png"
 coverAlt: "Technical visualization representing the implementation of a random forest training in mpi: feature subsampling and oob error estimation"
 ---
 

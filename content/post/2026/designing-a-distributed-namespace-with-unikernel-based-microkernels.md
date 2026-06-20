@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/Designing-A-Distributed-Namespace-With-Unikernel-Based-Microkernels.png"
+cover: "/static/images/blog/Designing-A-Distributed-Namespace-With-Unikernel-Based-Microkernels.png"
 coverAlt: "Technical visualization representing designing a distributed namespace with unikernel based microkernels"
 ---
 

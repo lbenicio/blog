@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/Building-A-Dns-Resolver-From-Scratch-Recursive-Queries,-Caching,-And-Dnssec.png"
+cover: "/static/images/blog/Building-A-Dns-Resolver-From-Scratch-Recursive-Queries,-Caching,-And-Dnssec.png"
 coverAlt: "Technical visualization representing building a dns resolver from scratch: recursive queries, caching, and dnssec"
 ---
 

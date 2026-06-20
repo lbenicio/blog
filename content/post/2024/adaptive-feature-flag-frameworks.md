@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["feature-flags", "experimentation", "progressive-delivery", "platform", "product-engineering", "devops"]
 categories: ["engineering", "platform"]
 draft: false
-cover: "/static/assets/images/blog/adaptive-feature-flag-frameworks.png"
+cover: "/static/images/blog/adaptive-feature-flag-frameworks.png"
 coverAlt: "Product engineers collaborating in front of a feature flag control center with dynamic dashboards"
 ---
 

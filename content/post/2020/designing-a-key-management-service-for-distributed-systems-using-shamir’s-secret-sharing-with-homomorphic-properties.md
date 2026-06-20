@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/designing-a-key-management-service-for-distributed-systems-using-shamir’s-secret-sharing-with-homomorphic-properties.png"
+cover: "/static/images/blog/designing-a-key-management-service-for-distributed-systems-using-shamir’s-secret-sharing-with-homomorphic-properties.png"
 coverAlt: "Technical visualization representing designing a key management service for distributed systems using shamir’s secret sharing with homomorphic properties"
 ---
 

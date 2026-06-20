@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["randomized-algorithms", "probabilistic-method", "tail-bounds", "concentration-inequalities", "derandomization", "algorithms"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/probabilistic-method-randomized-algorithms-tail-bounds-concentration.png"
+cover: "/static/images/blog/probabilistic-method-randomized-algorithms-tail-bounds-concentration.png"
 coverAlt: "Visualization of concentration inequalities bounding probability tails, with Erdős-Rényi random graph overlaid"
 ---
 

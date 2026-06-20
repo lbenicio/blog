@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/Implementing-A-Snapshot-Isolation-Protocol-For-A-Distributed-Database-(with-Silo-Like-Optimizations).png"
+cover: "/static/images/blog/Implementing-A-Snapshot-Isolation-Protocol-For-A-Distributed-Database-(with-Silo-Like-Optimizations).png"
 coverAlt: "Technical visualization representing implementing a snapshot isolation protocol for a distributed database (with silo like optimizations)"
 ---
 

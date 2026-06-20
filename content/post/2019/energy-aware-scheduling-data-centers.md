@@ -5,7 +5,7 @@ description: "An engineer’s chronicle of how hyperscale fleets embraced energy
 tags: ["energy", "scheduling", "datacenter", "sre", "distributed-systems"]
 categories: ["Engineering"]
 draft: false
-cover: "/static/assets/images/blog/energy-aware-scheduling-data-centers.png"
+cover: "/static/images/blog/energy-aware-scheduling-data-centers.png"
 coverAlt: "Data center racks dimming in waves as workload shifts"
 ---
 

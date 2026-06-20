@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/The-Theory-And-Implementation-Of-The-Boyer-Moore-String-Search-Algorithm-(with-Galil’s-Rule).png"
+cover: "/static/images/blog/The-Theory-And-Implementation-Of-The-Boyer-Moore-String-Search-Algorithm-(with-Galil’s-Rule).png"
 coverAlt: "Technical visualization representing the theory and implementation of the boyer moore string search algorithm (with galil’s rule)"
 ---
 

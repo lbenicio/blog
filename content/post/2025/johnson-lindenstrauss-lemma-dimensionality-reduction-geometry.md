@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["dimensionality-reduction", "johnson-lindenstrauss", "high-dimensional-geometry", "machine-learning", "random-projections", "lsh"]
 categories: ["theory", "mathematics"]
 draft: false
-cover: "/static/assets/images/blog/johnson-lindenstrauss-lemma-dimensionality-reduction-geometry.png"
+cover: "/static/images/blog/johnson-lindenstrauss-lemma-dimensionality-reduction-geometry.png"
 coverAlt: "Abstract visualization of high-dimensional points being projected down to a lower-dimensional space while preserving pairwise distances, with error bars indicating the (1±ε) distortion guarantee"
 ---
 

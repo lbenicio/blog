@@ -5,7 +5,7 @@ date: "2025-01-22"
 author: "Leonardo Benicio"
 tags: ["streaming", "kafka", "flink", "semantics"]
 categories: ["distributed systems", "stream processing"]
-cover: "/static/assets/images/blog/exactly-once-semantics-streaming.png"
+cover: "/static/images/blog/exactly-once-semantics-streaming.png"
 ---
 
 "Exactly-once" doesn’t mean an event packet traverses the network a single time. It means that in the _observable_ outputs (state, emitted records, external side effects) each logical input is reflected **at most once** and **at least once**—so exactly once—despite retries, replays, failovers, or speculative execution. It is an _end-to-end_ property requiring cooperation across producer, broker, processing engine, and sinks.

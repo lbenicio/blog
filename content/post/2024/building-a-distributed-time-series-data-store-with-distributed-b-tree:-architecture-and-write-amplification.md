@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/building-a-distributed-time-series-data-store-with-distributed-b-tree-architecture-and-write-amplification.png"
+cover: "/static/images/blog/building-a-distributed-time-series-data-store-with-distributed-b-tree-architecture-and-write-amplification.png"
 coverAlt: "Technical visualization representing building a distributed time series data store with distributed b tree: architecture and write amplification"
 ---
 

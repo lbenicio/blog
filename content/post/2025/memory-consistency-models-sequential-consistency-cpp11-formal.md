@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["memory-model", "concurrency", "sequential-consistency", "cpp", "weak-ordering", "formal-methods"]
 categories: ["theory", "systems"]
 draft: false
-cover: "/static/assets/images/blog/memory-consistency-models-sequential-consistency-cpp11-formal.png"
+cover: "/static/images/blog/memory-consistency-models-sequential-consistency-cpp11-formal.png"
 coverAlt: "Diagram showing program order, memory order, and happens-before relations across multiple threads with store buffers and cache coherence"
 ---
 

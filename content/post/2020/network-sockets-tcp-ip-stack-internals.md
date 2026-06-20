@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["networking", "tcp-ip", "sockets", "kernel", "protocols", "fundamentals"]
 categories: ["fundamentals", "systems"]
 draft: false
-cover: "/static/assets/images/blog/network-sockets-tcp-ip-stack-internals.png"
+cover: "/static/images/blog/network-sockets-tcp-ip-stack-internals.png"
 coverAlt: "Visualization of data flowing through the TCP/IP protocol layers from application socket to network interface"
 ---
 

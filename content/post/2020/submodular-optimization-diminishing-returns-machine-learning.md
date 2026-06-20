@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["submodular-optimization", "diminishing-returns", "greedy", "active-learning", "summarization"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/submodular-optimization-diminishing-returns-machine-learning.png"
+cover: "/static/images/blog/submodular-optimization-diminishing-returns-machine-learning.png"
 coverAlt: "A set function with nested subsets showing diminishing marginal returns, representing submodularity"
 ---
 

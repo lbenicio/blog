@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["geo-distributed", "wan", "latency", "multi-leader", "crdt", "spanner", "cockroachdb", "yugabytedb", "replication"]
 categories: ["systems", "distributed-systems"]
 draft: false
-cover: "/static/assets/images/blog/geo-distributed-systems-multi-region-wan-latency.png"
+cover: "/static/images/blog/geo-distributed-systems-multi-region-wan-latency.png"
 coverAlt: "World map with data center locations and latency arcs showing the speed-of-light constraints between regions"
 ---
 

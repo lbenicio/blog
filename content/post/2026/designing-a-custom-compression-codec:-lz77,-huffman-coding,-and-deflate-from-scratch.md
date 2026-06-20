@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/Designing-A-Custom-Compression-Codec-Lz77,-Huffman-Coding,-And-Deflate-From-Scratch.png"
+cover: "/static/images/blog/Designing-A-Custom-Compression-Codec-Lz77,-Huffman-Coding,-And-Deflate-From-Scratch.png"
 coverAlt: "Technical visualization representing designing a custom compression codec: lz77, huffman coding, and deflate from scratch"
 ---
 

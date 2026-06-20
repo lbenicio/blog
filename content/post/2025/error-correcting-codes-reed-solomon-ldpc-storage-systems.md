@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["error-correcting-codes", "reed-solomon", "ldpc", "coding-theory", "storage", "distributed-systems"]
 categories: ["theory", "systems"]
 draft: false
-cover: "/static/assets/images/blog/error-correcting-codes-reed-solomon-ldpc-storage-systems.png"
+cover: "/static/images/blog/error-correcting-codes-reed-solomon-ldpc-storage-systems.png"
 coverAlt: "Visualization of Reed-Solomon codewords distributed across storage nodes with parity blocks highlighted"
 ---
 

@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/the-mathematics-of-pairwise-differencing-for-time-series-self-joins-and-online-algorithms-for-change-detection.png"
+cover: "/static/images/blog/the-mathematics-of-pairwise-differencing-for-time-series-self-joins-and-online-algorithms-for-change-detection.png"
 coverAlt: "Technical visualization representing the mathematics of pairwise differencing for time series: self joins and online algorithms for change detection"
 ---
 

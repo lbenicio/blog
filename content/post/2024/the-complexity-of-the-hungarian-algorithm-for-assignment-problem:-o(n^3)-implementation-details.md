@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/the-complexity-of-the-hungarian-algorithm-for-assignment-problem-o(n^3)-implementation-details.png"
+cover: "/static/images/blog/the-complexity-of-the-hungarian-algorithm-for-assignment-problem-o(n^3)-implementation-details.png"
 coverAlt: "Technical visualization representing the complexity of the hungarian algorithm for assignment problem: o(n^3) implementation details"
 ---
 

@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/building-a-distributed-certificate-transparency-log-using-merkle-trees-and-append-only-proofs.png"
+cover: "/static/images/blog/building-a-distributed-certificate-transparency-log-using-merkle-trees-and-append-only-proofs.png"
 coverAlt: "Technical visualization representing building a distributed certificate transparency log using merkle trees and append only proofs"
 ---
 

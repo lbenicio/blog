@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/implementing-a-non-volatile-memory-friendly-hash-table-nvhtm-with-failure-atomic-operations.png"
+cover: "/static/images/blog/implementing-a-non-volatile-memory-friendly-hash-table-nvhtm-with-failure-atomic-operations.png"
 coverAlt: "Technical visualization representing implementing a non volatile memory friendly hash table: nvhtm with failure atomic operations"
 ---
 

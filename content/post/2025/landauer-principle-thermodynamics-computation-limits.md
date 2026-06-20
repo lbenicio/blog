@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["thermodynamics", "information-theory", "computation", "physics", "reversible-computing", "energy"]
 categories: ["theory", "physics"]
 draft: false
-cover: "/static/assets/images/blog/landauer-principle-thermodynamics-computation-limits.png"
+cover: "/static/images/blog/landauer-principle-thermodynamics-computation-limits.png"
 coverAlt: "Visual metaphor of Landauer's principle: a bit being erased in a physical register, releasing a small puff of heat into a thermal reservoir, with Maxwell's demon watching from the corner"
 ---
 

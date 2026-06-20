@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/the-mathematics-of-lattice-based-cryptography-learning-with-errors,-ring-lwe,-and-ntru.png"
+cover: "/static/images/blog/the-mathematics-of-lattice-based-cryptography-learning-with-errors,-ring-lwe,-and-ntru.png"
 coverAlt: "Technical visualization representing the mathematics of lattice based cryptography: learning with errors, ring lwe, and ntru"
 ---
 

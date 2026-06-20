@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/implementing-a-b+-tree-with-bulk-loading-and-prefix-compression-for-write-optimized-databases.png"
+cover: "/static/images/blog/implementing-a-b+-tree-with-bulk-loading-and-prefix-compression-for-write-optimized-databases.png"
 coverAlt: "Technical visualization representing implementing a b+ tree with bulk loading and prefix compression for write optimized databases"
 ---
 

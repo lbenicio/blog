@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/the-mathematics-of-gaussian-processes-for-bayesian-optimization-kernel-selection-and-cholesky-factorization.png"
+cover: "/static/images/blog/the-mathematics-of-gaussian-processes-for-bayesian-optimization-kernel-selection-and-cholesky-factorization.png"
 coverAlt: "Technical visualization representing the mathematics of gaussian processes for bayesian optimization: kernel selection and cholesky factorization"
 ---
 

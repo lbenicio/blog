@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/a-comprehensive-comparison-of-lock-free-and-wait-free-data-structures-definitions,-progress-conditions,-and-examples.png"
+cover: "/static/images/blog/a-comprehensive-comparison-of-lock-free-and-wait-free-data-structures-definitions,-progress-conditions,-and-examples.png"
 coverAlt: "Technical visualization representing a comprehensive comparison of lock free and wait free data structures: definitions, progress conditions, and examples"
 ---
 

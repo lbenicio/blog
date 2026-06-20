@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["hypervisor", "virtualization", "vt-x", "amd-v", "nested-paging", "ept", "systems"]
 categories: ["systems", "virtualization"]
 draft: false
-cover: "/static/assets/images/blog/hypervisor-internals-vtx-svm-trap-and-emulate.png"
+cover: "/static/images/blog/hypervisor-internals-vtx-svm-trap-and-emulate.png"
 coverAlt: "A stylized diagram showing the VMCS data structure at the center of VT-x virtualization, with guest and host state regions and nested page table walks"
 ---
 

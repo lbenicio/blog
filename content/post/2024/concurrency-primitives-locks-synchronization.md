@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["concurrency", "locks", "synchronization", "multithreading", "atomics", "fundamentals"]
 categories: ["fundamentals", "systems"]
 draft: false
-cover: "/static/assets/images/blog/concurrency-primitives-locks-synchronization.png"
+cover: "/static/images/blog/concurrency-primitives-locks-synchronization.png"
 coverAlt: "Visualization of multiple threads coordinating access to shared resources through various synchronization primitives"
 ---
 

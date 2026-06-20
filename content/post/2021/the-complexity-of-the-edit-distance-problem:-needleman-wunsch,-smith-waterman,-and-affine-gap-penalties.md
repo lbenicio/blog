@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/the-complexity-of-the-edit-distance-problem-needleman-wunsch,-smith-waterman,-and-affine-gap-penalties.png"
+cover: "/static/images/blog/the-complexity-of-the-edit-distance-problem-needleman-wunsch,-smith-waterman,-and-affine-gap-penalties.png"
 coverAlt: "Technical visualization representing the complexity of the edit distance problem: needleman wunsch, smith waterman, and affine gap penalties"
 ---
 

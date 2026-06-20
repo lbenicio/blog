@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/assets/images/blog/building-a-parameter-server-for-federated-learning-secure-aggregation-and-client-selection.png"
+cover: "/static/images/blog/building-a-parameter-server-for-federated-learning-secure-aggregation-and-client-selection.png"
 coverAlt: "Technical visualization representing building a parameter server for federated learning: secure aggregation and client selection"
 ---
 

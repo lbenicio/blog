@@ -5,7 +5,7 @@ description: "A deep dive into making GraphQL play nicely with edge caches witho
 tags: ["graphql", "edge", "performance", "caching", "frontend"]
 categories: ["Engineering"]
 draft: false
-cover: "/static/assets/images/blog/graphql-caching-edge-strategies.png"
+cover: "/static/images/blog/graphql-caching-edge-strategies.png"
 coverAlt: "GraphQL query nodes flowing through edge cache layers"
 ---
 
