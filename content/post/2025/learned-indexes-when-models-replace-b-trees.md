@@ -5,7 +5,7 @@ description: "A practitioner's guide to learned indexes: how they work, when the
 tags: ["databases", "indexes", "machine-learning", "systems", "storage", "performance"]
 categories: ["Engineering"]
 draft: false
-cover: "/static/images/blog/learned-indexes-when-models-replace-b-trees.png"
+cover: "static/images/blog/learned-indexes-when-models-replace-b-trees.png"
 coverAlt: "Stylized index structure where a small neural model routes to sorted segments, replacing a traditional B‑tree"
 ---
 

@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["algorithmic-game-theory", "nash-equilibrium", "ppad", "computational-complexity", "fixed-point"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/algorithmic-game-theory-nash-equilibrium-ppad.png"
+cover: "static/images/blog/algorithmic-game-theory-nash-equilibrium-ppad.png"
 coverAlt: "A payoff matrix with arrows indicating strategic deviation, representing Nash equilibrium computation"
 ---
 

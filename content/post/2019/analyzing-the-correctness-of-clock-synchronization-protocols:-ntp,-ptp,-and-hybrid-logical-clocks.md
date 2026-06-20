@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/analyzing-the-correctness-of-clock-synchronization-protocols-ntp,-ptp,-and-hybrid-logical-clocks.png"
+cover: "static/images/blog/analyzing-the-correctness-of-clock-synchronization-protocols-ntp,-ptp,-and-hybrid-logical-clocks.png"
 coverAlt: "Technical visualization representing analyzing the correctness of clock synchronization protocols: ntp, ptp, and hybrid logical clocks"
 ---
 

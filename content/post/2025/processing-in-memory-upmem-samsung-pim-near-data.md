@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["processing-in-memory", "pim", "upmem", "hbm-pim", "near-data-computing", "memory-wall", "dram", "computer-architecture"]
 categories: ["systems", "hardware-architecture"]
 draft: false
-cover: "/static/images/blog/processing-in-memory-upmem-samsung-pim-near-data.png"
+cover: "static/images/blog/processing-in-memory-upmem-samsung-pim-near-data.png"
 coverAlt: "Diagram of a processing-in-memory architecture showing compute units embedded within DRAM banks connected by an inter-bank network"
 ---
 

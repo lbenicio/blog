@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/A-Detailed-Look-At-The-Simplex-Algorithm-For-Linear-Programming-Implementation-And-Numerical-Stability.png"
+cover: "static/images/blog/A-Detailed-Look-At-The-Simplex-Algorithm-For-Linear-Programming-Implementation-And-Numerical-Stability.png"
 coverAlt: "Technical visualization representing a detailed look at the simplex algorithm for linear programming: implementation and numerical stability"
 ---
 

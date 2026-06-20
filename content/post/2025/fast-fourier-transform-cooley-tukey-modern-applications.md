@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["fft", "algorithms", "signal-processing", "numerical-methods", "polynomial-multiplication", "divide-and-conquer"]
 categories: ["theory", "algorithms", "mathematics"]
 draft: false
-cover: "/static/images/blog/fast-fourier-transform-cooley-tukey-modern-applications.png"
+cover: "static/images/blog/fast-fourier-transform-cooley-tukey-modern-applications.png"
 coverAlt: "Butterfly diagram of a radix-2 FFT with connected nodes showing the recursive decomposition from time domain to frequency domain"
 ---
 

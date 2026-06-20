@@ -5,7 +5,7 @@ description: "A field report on taming production machine learning inference wit
 tags: ["machine-learning", "mlops", "reliability", "observability", "platform"]
 categories: ["Engineering"]
 draft: false
-cover: "/static/images/blog/self-healing-ml-inference-platform.png"
+cover: "static/images/blog/self-healing-ml-inference-platform.png"
 coverAlt: "Neural network nodes repairing themselves"
 ---
 

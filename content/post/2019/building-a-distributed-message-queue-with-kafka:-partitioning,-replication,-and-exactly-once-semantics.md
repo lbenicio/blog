@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/building-a-distributed-message-queue-with-kafka-partitioning,-replication,-and-exactly-once-semantics.png"
+cover: "static/images/blog/building-a-distributed-message-queue-with-kafka-partitioning,-replication,-and-exactly-once-semantics.png"
 coverAlt: "Technical visualization representing building a distributed message queue with kafka: partitioning, replication, and exactly once semantics"
 ---
 

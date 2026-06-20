@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/implementing-a-bloom-filter-cascade-for-efficient-set-intersection-and-summarization.png"
+cover: "static/images/blog/implementing-a-bloom-filter-cascade-for-efficient-set-intersection-and-summarization.png"
 coverAlt: "Technical visualization representing implementing a bloom filter cascade for efficient set intersection and summarization"
 ---
 

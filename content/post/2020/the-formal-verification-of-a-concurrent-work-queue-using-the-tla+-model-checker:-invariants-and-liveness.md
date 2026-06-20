@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/the-formal-verification-of-a-concurrent-work-queue-using-the-tla+-model-checker-invariants-and-liveness.png"
+cover: "static/images/blog/the-formal-verification-of-a-concurrent-work-queue-using-the-tla+-model-checker-invariants-and-liveness.png"
 coverAlt: "Technical visualization representing the formal verification of a concurrent work queue using the tla+ model checker: invariants and liveness"
 ---
 

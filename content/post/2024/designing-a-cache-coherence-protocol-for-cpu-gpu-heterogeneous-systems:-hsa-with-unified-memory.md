@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/designing-a-cache-coherence-protocol-for-cpu-gpu-heterogeneous-systems-hsa-with-unified-memory.png"
+cover: "static/images/blog/designing-a-cache-coherence-protocol-for-cpu-gpu-heterogeneous-systems-hsa-with-unified-memory.png"
 coverAlt: "Technical visualization representing designing a cache coherence protocol for cpu gpu heterogeneous systems: hsa with unified memory"
 ---
 

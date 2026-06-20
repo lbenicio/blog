@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/Implementing-A-Self-Balancing-Binary-Search-Tree-Red-Black-Tree-Vs.-Avl-Tree-Internals.png"
+cover: "static/images/blog/Implementing-A-Self-Balancing-Binary-Search-Tree-Red-Black-Tree-Vs.-Avl-Tree-Internals.png"
 coverAlt: "Technical visualization representing implementing a self balancing binary search tree: red black tree vs. avl tree internals"
 ---
 

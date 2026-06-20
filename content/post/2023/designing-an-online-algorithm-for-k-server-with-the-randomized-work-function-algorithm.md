@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/designing-an-online-algorithm-for-k-server-with-the-randomized-work-function-algorithm.png"
+cover: "static/images/blog/designing-an-online-algorithm-for-k-server-with-the-randomized-work-function-algorithm.png"
 coverAlt: "Technical visualization representing designing an online algorithm for k server with the randomized work function algorithm"
 ---
 

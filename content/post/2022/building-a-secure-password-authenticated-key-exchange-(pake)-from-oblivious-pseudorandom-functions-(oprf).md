@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/building-a-secure-password-authenticated-key-exchange-(pake)-from-oblivious-pseudorandom-functions-(oprf).png"
+cover: "static/images/blog/building-a-secure-password-authenticated-key-exchange-(pake)-from-oblivious-pseudorandom-functions-(oprf).png"
 coverAlt: "Technical visualization representing building a secure password authenticated key exchange (pake) from oblivious pseudorandom functions (oprf)"
 ---
 

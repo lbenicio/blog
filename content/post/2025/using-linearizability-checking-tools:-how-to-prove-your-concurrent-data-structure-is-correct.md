@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/Using-Linearizability-Checking-Tools-How-To-Prove-Your-Concurrent-Data-Structure-Is-Correct.png"
+cover: "static/images/blog/Using-Linearizability-Checking-Tools-How-To-Prove-Your-Concurrent-Data-Structure-Is-Correct.png"
 coverAlt: "Technical visualization representing using linearizability checking tools: how to prove your concurrent data structure is correct"
 ---
 

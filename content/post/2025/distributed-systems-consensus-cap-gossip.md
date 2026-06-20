@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["distributed-systems", "consensus", "raft", "paxos", "cap", "crdt", "jepsen", "fundamentals"]
 categories: ["fundamentals", "systems"]
 draft: false
-cover: "/static/images/blog/distributed-systems-consensus-cap-gossip.png"
+cover: "static/images/blog/distributed-systems-consensus-cap-gossip.png"
 coverAlt: "Visualization of a distributed cluster with leader election, replication arrows, and gossip messages"
 ---
 

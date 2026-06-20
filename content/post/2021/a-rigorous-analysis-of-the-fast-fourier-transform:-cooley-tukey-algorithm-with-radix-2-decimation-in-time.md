@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/a-rigorous-analysis-of-the-fast-fourier-transform-cooley-tukey-algorithm-with-radix-2-decimation-in-time.png"
+cover: "static/images/blog/a-rigorous-analysis-of-the-fast-fourier-transform-cooley-tukey-algorithm-with-radix-2-decimation-in-time.png"
 coverAlt: "Technical visualization representing a rigorous analysis of the fast fourier transform: cooley tukey algorithm with radix 2 decimation in time"
 ---
 

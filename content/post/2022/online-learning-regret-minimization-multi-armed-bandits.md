@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["online-learning", "regret-minimization", "multi-armed-bandits", "multiplicative-weights", "game-theory"]
 categories: ["theory", "mathematics"]
 draft: false
-cover: "/static/images/blog/online-learning-regret-minimization-multi-armed-bandits.png"
+cover: "static/images/blog/online-learning-regret-minimization-multi-armed-bandits.png"
 coverAlt: "Diagram illustrating the multiplicative weights update rule with experts and weights"
 ---
 

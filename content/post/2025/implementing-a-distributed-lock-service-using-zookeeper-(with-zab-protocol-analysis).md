@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/Implementing-A-Distributed-Lock-Service-Using-Zookeeper-(with-Zab-Protocol-Analysis).png"
+cover: "static/images/blog/Implementing-A-Distributed-Lock-Service-Using-Zookeeper-(with-Zab-Protocol-Analysis).png"
 coverAlt: "Technical visualization representing implementing a distributed lock service using zookeeper (with zab protocol analysis)"
 ---
 

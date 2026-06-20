@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/optimizing-distributed-consensus-comparing-fast-paxos,-epaxos,-and-multi-paxos-in-wan-deployments-with-latency-benchmarks.png"
+cover: "static/images/blog/optimizing-distributed-consensus-comparing-fast-paxos,-epaxos,-and-multi-paxos-in-wan-deployments-with-latency-benchmarks.png"
 coverAlt: "Technical visualization representing optimizing distributed consensus with latency benchmarks"
 ---
 

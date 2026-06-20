@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/the-theory-of-capacity-aware-load-balancing-power-of-two-random-choices-vs.-join-shortest-queue.png"
+cover: "static/images/blog/the-theory-of-capacity-aware-load-balancing-power-of-two-random-choices-vs.-join-shortest-queue.png"
 coverAlt: "Technical visualization representing the theory of capacity aware load balancing: power of two random choices vs. join shortest queue"
 ---
 

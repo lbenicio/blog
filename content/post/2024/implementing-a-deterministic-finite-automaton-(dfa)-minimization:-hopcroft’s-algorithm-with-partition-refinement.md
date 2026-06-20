@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/implementing-a-deterministic-finite-automaton-(dfa)-minimization-hopcroft’s-algorithm-with-partition-refinement.png"
+cover: "static/images/blog/implementing-a-deterministic-finite-automaton-(dfa)-minimization-hopcroft’s-algorithm-with-partition-refinement.png"
 coverAlt: "Technical visualization representing implementing a deterministic finite automaton (dfa) minimization: hopcroft’s algorithm with partition refinement"
 ---
 

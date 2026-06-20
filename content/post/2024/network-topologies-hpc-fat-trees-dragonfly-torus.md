@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["hpc", "network-topology", "fat-tree", "dragonfly", "torus", "interconnect"]
 categories: ["theory", "systems"]
 draft: false
-cover: "/static/images/blog/network-topologies-hpc-fat-trees-dragonfly-torus.png"
+cover: "static/images/blog/network-topologies-hpc-fat-trees-dragonfly-torus.png"
 coverAlt: "Diagram comparing fat-tree, Dragonfly, torus, and Slim Fly network topologies, with cost, diameter, and bandwidth annotated."
 ---
 

@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/Building-A-Distributed-File-System-With-Erasure-Coding-(reed-Solomon-Implementation).png"
+cover: "static/images/blog/Building-A-Distributed-File-System-With-Erasure-Coding-(reed-Solomon-Implementation).png"
 coverAlt: "Technical visualization representing building a distributed file system with erasure coding (reed solomon implementation)"
 ---
 

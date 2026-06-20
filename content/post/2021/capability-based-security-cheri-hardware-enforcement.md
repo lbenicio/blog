@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["cheri", "capability", "security", "memory-safety", "architecture", "compartmentalization"]
 categories: ["systems", "security"]
 draft: false
-cover: "/static/images/blog/capability-based-security-cheri-hardware-enforcement.png"
+cover: "static/images/blog/capability-based-security-cheri-hardware-enforcement.png"
 coverAlt: "A stylized diagram showing CHERI capabilities as unforgeable tokens bounding memory access, with capability registers constraining pointer operations at the instruction level"
 ---
 

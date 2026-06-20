@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["interconnects", "pcie", "cxl", "nvlink", "disaggregated-computing", "data-center"]
 categories: ["theory", "systems"]
 draft: false
-cover: "/static/images/blog/interconnects-pcie-cxl-nvlink-ccix.png"
+cover: "static/images/blog/interconnects-pcie-cxl-nvlink-ccix.png"
 coverAlt: "Diagram showing PCIe, CXL, and NVLink interconnects connecting CPUs, GPUs, memory expanders, and accelerators in a composable-disaggregated architecture."
 ---
 

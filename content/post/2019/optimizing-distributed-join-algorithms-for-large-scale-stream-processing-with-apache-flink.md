@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/optimizing-distributed-join-algorithms-for-large-scale-stream-processing-with-apache-flink.png"
+cover: "static/images/blog/optimizing-distributed-join-algorithms-for-large-scale-stream-processing-with-apache-flink.png"
 coverAlt: "Technical visualization representing optimizing distributed join algorithms for large scale stream processing with apache flink"
 ---
 

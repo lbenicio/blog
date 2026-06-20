@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/the-performance-of-the-salsa20-stream-cipher-vs.-chacha20-in-modern-processors.png"
+cover: "static/images/blog/the-performance-of-the-salsa20-stream-cipher-vs.-chacha20-in-modern-processors.png"
 coverAlt: "Technical visualization representing the performance of the salsa20 stream cipher vs. chacha20 in modern processors"
 ---
 

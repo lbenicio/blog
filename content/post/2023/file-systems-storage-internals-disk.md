@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["file-systems", "storage", "ext4", "btrfs", "journaling", "fundamentals"]
 categories: ["fundamentals", "systems"]
 draft: false
-cover: "/static/images/blog/file-systems-storage-internals-disk.png"
+cover: "static/images/blog/file-systems-storage-internals-disk.png"
 coverAlt: "Visualization of file system layers from application files through inodes and block allocation to physical disk sectors"
 ---
 

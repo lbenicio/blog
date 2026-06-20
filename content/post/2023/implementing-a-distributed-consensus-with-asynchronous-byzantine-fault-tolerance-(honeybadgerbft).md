@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/implementing-a-distributed-consensus-with-asynchronous-byzantine-fault-tolerance-(honeybadgerbft).png"
+cover: "static/images/blog/implementing-a-distributed-consensus-with-asynchronous-byzantine-fault-tolerance-(honeybadgerbft).png"
 coverAlt: "Technical visualization representing implementing a distributed consensus with asynchronous byzantine fault tolerance (honeybadgerbft)"
 ---
 

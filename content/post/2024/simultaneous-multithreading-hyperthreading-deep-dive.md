@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["smt", "hyperthreading", "microarchitecture", "security", "portsmash", "tlbleed"]
 categories: ["theory", "systems"]
 draft: false
-cover: "/static/images/blog/simultaneous-multithreading-hyperthreading-deep-dive.png"
+cover: "static/images/blog/simultaneous-multithreading-hyperthreading-deep-dive.png"
 coverAlt: "Diagram showing two logical processors sharing a physical core's resources—fetch, decode, execution units, caches—with contention points and side-channel leakage paths highlighted."
 ---
 

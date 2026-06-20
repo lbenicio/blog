@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/the-algorithm-for-the-minimum-cost-flow-using-successive-shortest-path-with-potentials.png"
+cover: "static/images/blog/the-algorithm-for-the-minimum-cost-flow-using-successive-shortest-path-with-potentials.png"
 coverAlt: "Technical visualization representing the algorithm for the minimum cost flow using successive shortest path with potentials"
 ---
 

@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/designing-a-task-based-parallelism-runtime-openmp-tasks,-dependencies,-and-scheduling-algorithm.png"
+cover: "static/images/blog/designing-a-task-based-parallelism-runtime-openmp-tasks,-dependencies,-and-scheduling-algorithm.png"
 coverAlt: "Technical visualization representing designing a task based parallelism runtime: openmp tasks, dependencies, and scheduling algorithm"
 ---
 

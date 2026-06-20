@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/building-a-bloom-filter-with-optimal-number-of-hash-functions-and-memory-estimation.png"
+cover: "static/images/blog/building-a-bloom-filter-with-optimal-number-of-hash-functions-and-memory-estimation.png"
 coverAlt: "Technical visualization representing building a bloom filter with optimal number of hash functions and memory estimation"
 ---
 

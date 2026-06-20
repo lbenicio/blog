@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["mpc", "garbled-circuits", "secret-sharing", "spdz", "secure-computation"]
 categories: ["theory", "systems"]
 draft: false
-cover: "/static/images/blog/multiparty-computation-garbled-circuits-secret-sharing.png"
+cover: "static/images/blog/multiparty-computation-garbled-circuits-secret-sharing.png"
 coverAlt: "Diagram showing multiple parties connected by secure computation protocol arrows, with Boolean and arithmetic circuit representations."
 ---
 

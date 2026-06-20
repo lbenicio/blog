@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/a-rigorous-proof-of-the-a-algorithm-admissibility-and-consistency-manhatten-vs.-euclidean-heuristics.png"
+cover: "static/images/blog/a-rigorous-proof-of-the-a-algorithm-admissibility-and-consistency-manhatten-vs.-euclidean-heuristics.png"
 coverAlt: "Technical visualization representing a rigorous proof of the a* algorithm admissibility and consistency: manhatten vs. euclidean heuristics"
 ---
 

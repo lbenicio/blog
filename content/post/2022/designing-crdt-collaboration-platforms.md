@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["crdt", "distributed-systems", "collaboration", "real-time", "databases", "edge"]
 categories: ["distributed systems", "engineering"]
 draft: false
-cover: "/static/images/blog/designing-crdt-collaboration-platforms.png"
+cover: "static/images/blog/designing-crdt-collaboration-platforms.png"
 coverAlt: "Network of synchronized clients exchanging state updates via CRDTs"
 ---
 

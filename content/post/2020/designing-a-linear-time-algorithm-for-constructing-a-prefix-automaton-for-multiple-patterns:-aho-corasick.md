@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/designing-a-linear-time-algorithm-for-constructing-a-prefix-automaton-for-multiple-patterns-aho-corasick.png"
+cover: "static/images/blog/designing-a-linear-time-algorithm-for-constructing-a-prefix-automaton-for-multiple-patterns-aho-corasick.png"
 coverAlt: "Technical visualization representing designing a linear time algorithm for constructing a prefix automaton for multiple patterns: aho corasick"
 ---
 

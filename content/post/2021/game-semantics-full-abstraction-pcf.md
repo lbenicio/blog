@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["game-semantics", "pcf", "full-abstraction", "denotational-semantics", "ajm-games", "programming-language-theory"]
 categories: ["theory", "mathematics"]
 draft: false
-cover: "/static/images/blog/game-semantics-full-abstraction-pcf.png"
+cover: "static/images/blog/game-semantics-full-abstraction-pcf.png"
 coverAlt: "Diagram showing a game semantic strategy as a tree of moves between Player and Opponent"
 ---
 

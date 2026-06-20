@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["superscalar", "microarchitecture", "ilp", "register-renaming", "reorder-buffer", "cpu-design"]
 categories: ["theory", "systems"]
 draft: false
-cover: "/static/images/blog/superscalar-processors-instruction-level-parallelism-deep-dive.png"
+cover: "static/images/blog/superscalar-processors-instruction-level-parallelism-deep-dive.png"
 coverAlt: "Block diagram of a superscalar processor showing fetch, decode, rename, dispatch, issue queues, execution units, and the reorder buffer with commit stage."
 ---
 

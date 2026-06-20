@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/Implementing-The-A-Pathfinding-Algorithm-With-Heuristics-Octile-Distance-And-Hierarchical-Annotated-Maps.png"
+cover: "static/images/blog/Implementing-The-A-Pathfinding-Algorithm-With-Heuristics-Octile-Distance-And-Hierarchical-Annotated-Maps.png"
 coverAlt: "Technical visualization representing implementing the a* pathfinding algorithm with heuristics: octile distance and hierarchical annotated maps"
 ---
 

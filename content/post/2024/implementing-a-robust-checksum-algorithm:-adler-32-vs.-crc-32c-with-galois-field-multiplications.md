@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/implementing-a-robust-checksum-algorithm-adler-32-vs.-crc-32c-with-galois-field-multiplications.png"
+cover: "static/images/blog/implementing-a-robust-checksum-algorithm-adler-32-vs.-crc-32c-with-galois-field-multiplications.png"
 coverAlt: "Technical visualization representing implementing a robust checksum algorithm: adler 32 vs. crc 32c with galois field multiplications"
 ---
 

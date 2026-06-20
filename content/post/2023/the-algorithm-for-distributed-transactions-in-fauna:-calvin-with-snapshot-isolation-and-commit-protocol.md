@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/the-algorithm-for-distributed-transactions-in-fauna-calvin-with-snapshot-isolation-and-commit-protocol.png"
+cover: "static/images/blog/the-algorithm-for-distributed-transactions-in-fauna-calvin-with-snapshot-isolation-and-commit-protocol.png"
 coverAlt: "Technical visualization representing the algorithm for distributed transactions in fauna: calvin with snapshot isolation and commit protocol"
 ---
 

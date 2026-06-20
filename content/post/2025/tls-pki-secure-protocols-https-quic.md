@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["tls", "security", "pki", "cryptography", "quic", "https", "fundamentals"]
 categories: ["fundamentals", "security"]
 draft: false
-cover: "/static/images/blog/tls-pki-secure-protocols-https-quic.png"
+cover: "static/images/blog/tls-pki-secure-protocols-https-quic.png"
 coverAlt: "Diagram showing a TLS handshake, certificate chain, and encrypted application data flowing over the network"
 ---
 

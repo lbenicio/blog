@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/a-deep-dive-into-the-x86-64-instruction-set-microbenchmarking-instruction-latency-and-throughput.png"
+cover: "static/images/blog/a-deep-dive-into-the-x86-64-instruction-set-microbenchmarking-instruction-latency-and-throughput.png"
 coverAlt: "Technical visualization representing a deep dive into the x86 64 instruction set: microbenchmarking instruction latency and throughput"
 ---
 

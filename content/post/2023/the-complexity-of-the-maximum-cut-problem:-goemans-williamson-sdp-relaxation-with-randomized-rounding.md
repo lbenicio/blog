@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/the-complexity-of-the-maximum-cut-problem-goemans-williamson-sdp-relaxation-with-randomized-rounding.png"
+cover: "static/images/blog/the-complexity-of-the-maximum-cut-problem-goemans-williamson-sdp-relaxation-with-randomized-rounding.png"
 coverAlt: "Technical visualization representing the complexity of the maximum cut problem: goemans williamson sdp relaxation with randomized rounding"
 ---
 

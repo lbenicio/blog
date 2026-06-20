@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/Designing-A-Distributed-Queue-With-Exactly-Once-Delivery-Using-Idempotency-Keys.png"
+cover: "static/images/blog/Designing-A-Distributed-Queue-With-Exactly-Once-Delivery-Using-Idempotency-Keys.png"
 coverAlt: "Technical visualization representing designing a distributed queue with exactly once delivery using idempotency keys"
 ---
 

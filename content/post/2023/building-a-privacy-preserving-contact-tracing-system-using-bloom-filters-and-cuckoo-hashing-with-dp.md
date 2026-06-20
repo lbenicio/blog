@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/building-a-privacy-preserving-contact-tracing-system-using-bloom-filters-and-cuckoo-hashing-with-dp.png"
+cover: "static/images/blog/building-a-privacy-preserving-contact-tracing-system-using-bloom-filters-and-cuckoo-hashing-with-dp.png"
 coverAlt: "Technical visualization representing building a privacy preserving contact tracing system using bloom filters and cuckoo hashing with dp"
 ---
 

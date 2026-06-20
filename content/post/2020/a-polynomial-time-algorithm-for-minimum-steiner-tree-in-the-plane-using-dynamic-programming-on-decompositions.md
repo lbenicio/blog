@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/a-polynomial-time-algorithm-for-minimum-steiner-tree-in-the-plane-using-dynamic-programming-on-decompositions.png"
+cover: "static/images/blog/a-polynomial-time-algorithm-for-minimum-steiner-tree-in-the-plane-using-dynamic-programming-on-decompositions.png"
 coverAlt: "Technical visualization representing a polynomial time algorithm for minimum steiner tree in the plane using dynamic programming on decompositions"
 ---
 

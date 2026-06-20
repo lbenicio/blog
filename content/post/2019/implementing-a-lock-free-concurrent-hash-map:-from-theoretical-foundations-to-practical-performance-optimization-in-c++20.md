@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/implementing-a-lock-free-concurrent-hash-map-from-theoretical-foundations-to-practical-performance-optimization-in-c++20.png"
+cover: "static/images/blog/implementing-a-lock-free-concurrent-hash-map-from-theoretical-foundations-to-practical-performance-optimization-in-c++20.png"
 coverAlt: "Technical visualization representing implementing a lock free concurrent hash map: from theoretical foundations to practical performance optimization in c++20"
 ---
 

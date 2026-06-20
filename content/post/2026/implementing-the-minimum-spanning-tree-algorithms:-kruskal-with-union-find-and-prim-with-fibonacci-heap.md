@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/Implementing-The-Minimum-Spanning-Tree-Algorithms-Kruskal-With-Union-Find-And-Prim-With-Fibonacci-Heap.png"
+cover: "static/images/blog/Implementing-The-Minimum-Spanning-Tree-Algorithms-Kruskal-With-Union-Find-And-Prim-With-Fibonacci-Heap.png"
 coverAlt: "Technical visualization representing implementing the minimum spanning tree algorithms: kruskal with union find and prim with fibonacci heap"
 ---
 

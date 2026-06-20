@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/implementing-a-universal-data-compressor-using-arithmetic-coding-with-finite-precision-and-range-coder.png"
+cover: "static/images/blog/implementing-a-universal-data-compressor-using-arithmetic-coding-with-finite-precision-and-range-coder.png"
 coverAlt: "Technical visualization representing implementing a universal data compressor using arithmetic coding with finite precision and range coder"
 ---
 

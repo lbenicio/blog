@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/designing-a-greedy-algorithm-for-maximum-weight-matching-in-bipartite-graphs-with-augmenting-paths.png"
+cover: "static/images/blog/designing-a-greedy-algorithm-for-maximum-weight-matching-in-bipartite-graphs-with-augmenting-paths.png"
 coverAlt: "Technical visualization representing designing a greedy algorithm for maximum weight matching in bipartite graphs with augmenting paths"
 ---
 

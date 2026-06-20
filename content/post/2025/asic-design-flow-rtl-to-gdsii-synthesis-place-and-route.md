@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["asic", "vlsi", "synthesis", "static-timing-analysis", "place-and-route", "clock-tree-synthesis", "gdsii", "tapeout"]
 categories: ["systems", "hardware-architecture"]
 draft: false
-cover: "/static/images/blog/asic-design-flow-rtl-to-gdsii-synthesis-place-and-route.png"
+cover: "static/images/blog/asic-design-flow-rtl-to-gdsii-synthesis-place-and-route.png"
 coverAlt: "Flowchart of the ASIC design flow from RTL through synthesis, DFT, place and route, CTS, STA, and signoff to GDSII tapeout"
 ---
 

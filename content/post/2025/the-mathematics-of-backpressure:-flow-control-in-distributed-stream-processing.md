@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/The-Mathematics-Of-Backpressure-Flow-Control-In-Distributed-Stream-Processing.png"
+cover: "static/images/blog/The-Mathematics-Of-Backpressure-Flow-Control-In-Distributed-Stream-Processing.png"
 coverAlt: "Technical visualization representing the mathematics of backpressure: flow control in distributed stream processing"
 ---
 

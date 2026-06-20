@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/building-a-distributed-matrix-factorization-using-alternating-least-squares-(als)-in-apache-spark.png"
+cover: "static/images/blog/building-a-distributed-matrix-factorization-using-alternating-least-squares-(als)-in-apache-spark.png"
 coverAlt: "Technical visualization representing building a distributed matrix factorization using alternating least squares (als) in apache spark"
 ---
 

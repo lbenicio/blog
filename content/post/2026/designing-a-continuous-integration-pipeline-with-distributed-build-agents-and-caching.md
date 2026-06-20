@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/Designing-A-Continuous-Integration-Pipeline-With-Distributed-Build-Agents-And-Caching.png"
+cover: "static/images/blog/Designing-A-Continuous-Integration-Pipeline-With-Distributed-Build-Agents-And-Caching.png"
 coverAlt: "Technical visualization representing designing a continuous integration pipeline with distributed build agents and caching"
 ---
 

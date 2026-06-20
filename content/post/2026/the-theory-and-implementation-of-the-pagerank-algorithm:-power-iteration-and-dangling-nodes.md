@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/The-Theory-And-Implementation-Of-The-Pagerank-Algorithm-Power-Iteration-And-Dangling-Nodes.png"
+cover: "static/images/blog/The-Theory-And-Implementation-Of-The-Pagerank-Algorithm-Power-Iteration-And-Dangling-Nodes.png"
 coverAlt: "Technical visualization representing the theory and implementation of the pagerank algorithm: power iteration and dangling nodes"
 ---
 

@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/the-algorithm-of-the-password-hashing-competition-winner-argon2-memory-hard-and-data-independent.png"
+cover: "static/images/blog/the-algorithm-of-the-password-hashing-competition-winner-argon2-memory-hard-and-data-independent.png"
 coverAlt: "Technical visualization representing the algorithm of the password hashing competition winner argon2: memory hard and data independent"
 ---
 

@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/the-complexity-of-minimum-spanning-tree-on-a-sparse-graph-borůvka’s-algorithm-and-parallelization.png"
+cover: "static/images/blog/the-complexity-of-minimum-spanning-tree-on-a-sparse-graph-borůvka’s-algorithm-and-parallelization.png"
 coverAlt: "Technical visualization representing the complexity of minimum spanning tree on a sparse graph: borůvka’s algorithm and parallelization"
 ---
 

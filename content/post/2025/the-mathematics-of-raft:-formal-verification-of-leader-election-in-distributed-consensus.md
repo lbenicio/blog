@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/The-Mathematics-Of-Raft-Formal-Verification-Of-Leader-Election-In-Distributed-Consensus.png"
+cover: "static/images/blog/The-Mathematics-Of-Raft-Formal-Verification-Of-Leader-Election-In-Distributed-Consensus.png"
 coverAlt: "Technical visualization representing the mathematics of raft: formal verification of leader election in distributed consensus"
 ---
 

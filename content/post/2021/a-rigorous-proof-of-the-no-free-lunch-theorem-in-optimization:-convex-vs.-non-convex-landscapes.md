@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/a-rigorous-proof-of-the-no-free-lunch-theorem-in-optimization-convex-vs.-non-convex-landscapes.png"
+cover: "static/images/blog/a-rigorous-proof-of-the-no-free-lunch-theorem-in-optimization-convex-vs.-non-convex-landscapes.png"
 coverAlt: "Technical visualization representing a rigorous proof of the no free lunch theorem in optimization: convex vs. non convex landscapes"
 ---
 

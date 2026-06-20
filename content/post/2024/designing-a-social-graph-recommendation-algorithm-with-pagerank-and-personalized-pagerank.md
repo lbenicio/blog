@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/designing-a-social-graph-recommendation-algorithm-with-pagerank-and-personalized-pagerank.png"
+cover: "static/images/blog/designing-a-social-graph-recommendation-algorithm-with-pagerank-and-personalized-pagerank.png"
 coverAlt: "Technical visualization representing designing a social graph recommendation algorithm with pagerank and personalized pagerank"
 ---
 

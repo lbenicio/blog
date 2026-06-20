@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/the-performance-of-systolic-arrays-for-matrix-multiplication-in-vision-transformers.png"
+cover: "static/images/blog/the-performance-of-systolic-arrays-for-matrix-multiplication-in-vision-transformers.png"
 coverAlt: "Technical visualization representing the performance of systolic arrays for matrix multiplication in vision transformers"
 ---
 

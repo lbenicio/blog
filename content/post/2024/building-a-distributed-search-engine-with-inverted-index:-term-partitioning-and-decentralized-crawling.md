@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/building-a-distributed-search-engine-with-inverted-index-term-partitioning-and-decentralized-crawling.png"
+cover: "static/images/blog/building-a-distributed-search-engine-with-inverted-index-term-partitioning-and-decentralized-crawling.png"
 coverAlt: "Technical visualization representing building a distributed search engine with inverted index: term partitioning and decentralized crawling"
 ---
 

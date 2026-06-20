@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["supply-chain", "sbom", "sigstore", "reproducible-builds", "slsa", "security"]
 categories: ["security", "devops"]
 draft: false
-cover: "/static/images/blog/software-supply-chain-security-sboms-sigstore-reproducible-builds.png"
+cover: "static/images/blog/software-supply-chain-security-sboms-sigstore-reproducible-builds.png"
 coverAlt: "Illustration of a supply chain diagram with source control, CI/CD, artifacts, SBOMs, and attestation"
 ---
 

@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/building-a-game-theoretic-approach-to-distributed-consensus-rational-players,-payments,-and-mechanism-design.png"
+cover: "static/images/blog/building-a-game-theoretic-approach-to-distributed-consensus-rational-players,-payments,-and-mechanism-design.png"
 coverAlt: "Technical visualization representing building a game theoretic approach to distributed consensus: rational players, payments, and mechanism design"
 ---
 

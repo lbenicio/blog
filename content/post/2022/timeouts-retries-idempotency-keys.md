@@ -5,7 +5,7 @@ description: "Make your distributed calls safe under partial failure. How to bud
 tags: ["distributed-systems", "reliability", "sre", "timeouts", "retries", "idempotency"]
 categories: ["Engineering"]
 draft: false
-cover: "/static/images/blog/timeouts-retries-idempotency-keys.png"
+cover: "static/images/blog/timeouts-retries-idempotency-keys.png"
 coverAlt: "Timeline diagram showing a deadline budget with retries and idempotency keys"
 ---
 

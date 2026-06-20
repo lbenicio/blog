@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/the-analysis-of-consistent-hashing-under-churn-virtual-nodes,-power-law-distributions,-and-load-balancing.png"
+cover: "static/images/blog/the-analysis-of-consistent-hashing-under-churn-virtual-nodes,-power-law-distributions,-and-load-balancing.png"
 coverAlt: "Technical visualization representing the analysis of consistent hashing under churn: virtual nodes, power law distributions, and load balancing"
 ---
 

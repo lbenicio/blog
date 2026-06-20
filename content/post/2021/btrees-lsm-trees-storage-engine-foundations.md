@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["databases", "storage-engines", "b-trees", "lsm-trees", "data-structures", "performance"]
 categories: ["systems", "databases"]
 draft: false
-cover: "/static/images/blog/btrees-lsm-trees-storage-engine-foundations.png"
+cover: "static/images/blog/btrees-lsm-trees-storage-engine-foundations.png"
 coverAlt: "Split visualization showing a balanced B-Tree structure on one side and cascading LSM-Tree levels on the other, representing the two dominant storage engine paradigms"
 ---
 

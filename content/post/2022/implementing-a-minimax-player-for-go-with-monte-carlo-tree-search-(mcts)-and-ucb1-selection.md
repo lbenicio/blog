@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/implementing-a-minimax-player-for-go-with-monte-carlo-tree-search-(mcts)-and-ucb1-selection.png"
+cover: "static/images/blog/implementing-a-minimax-player-for-go-with-monte-carlo-tree-search-(mcts)-and-ucb1-selection.png"
 coverAlt: "Technical visualization representing implementing a minimax player for go with monte carlo tree search (mcts) and ucb1 selection"
 ---
 

@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/the-theory-of-online-bipartite-matching-ranking-and-balance-algorithms-for-adwords.png"
+cover: "static/images/blog/the-theory-of-online-bipartite-matching-ranking-and-balance-algorithms-for-adwords.png"
 coverAlt: "Technical visualization representing the theory of online bipartite matching: ranking and balance algorithms for adwords"
 ---
 

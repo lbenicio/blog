@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/designing-a-distributed-software-transactional-memory-(stm)-using-lazy-snapshot-and-commute-op.png"
+cover: "static/images/blog/designing-a-distributed-software-transactional-memory-(stm)-using-lazy-snapshot-and-commute-op.png"
 coverAlt: "Technical visualization representing designing a distributed software transactional memory (stm) using lazy snapshot and commute op"
 ---
 

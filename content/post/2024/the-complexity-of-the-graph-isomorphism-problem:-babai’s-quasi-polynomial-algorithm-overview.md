@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/the-complexity-of-the-graph-isomorphism-problem-babai’s-quasi-polynomial-algorithm-overview.png"
+cover: "static/images/blog/the-complexity-of-the-graph-isomorphism-problem-babai’s-quasi-polynomial-algorithm-overview.png"
 coverAlt: "Technical visualization representing the complexity of the graph isomorphism problem: babai’s quasi polynomial algorithm overview"
 ---
 

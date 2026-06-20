@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/a-comprehensive-look-at-the-alpha-beta-pruning-algorithm-for-game-trees-expectiminimax-and-heuristic-evaluation.png"
+cover: "static/images/blog/a-comprehensive-look-at-the-alpha-beta-pruning-algorithm-for-game-trees-expectiminimax-and-heuristic-evaluation.png"
 coverAlt: "Technical visualization representing a comprehensive look at the alpha beta pruning algorithm for game trees: expectiminimax and heuristic evaluation"
 ---
 

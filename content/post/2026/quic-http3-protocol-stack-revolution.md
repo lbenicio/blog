@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["quic", "http3", "transport-protocol", "udp", "tls-1.3", "0-rtt", "connection-migration", "head-of-line-blocking"]
 categories: ["systems", "networking"]
 draft: false
-cover: "/static/images/blog/quic-http3-protocol-stack-revolution.png"
+cover: "static/images/blog/quic-http3-protocol-stack-revolution.png"
 coverAlt: "Protocol stack diagram comparing HTTP/2-over-TCP-TLS with HTTP/3-over-QUIC, showing stream multiplexing and 0-RTT handshake timelines"
 ---
 

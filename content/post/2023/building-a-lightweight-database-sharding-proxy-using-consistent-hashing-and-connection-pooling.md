@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/building-a-lightweight-database-sharding-proxy-using-consistent-hashing-and-connection-pooling.png"
+cover: "static/images/blog/building-a-lightweight-database-sharding-proxy-using-consistent-hashing-and-connection-pooling.png"
 coverAlt: "Technical visualization representing building a lightweight database sharding proxy using consistent hashing and connection pooling"
 ---
 

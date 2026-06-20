@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/The-Inner-Workings-Of-A-Database-Query-Optimizer-Cost-Models,-Statistics,-And-Join-Ordering.png"
+cover: "static/images/blog/The-Inner-Workings-Of-A-Database-Query-Optimizer-Cost-Models,-Statistics,-And-Join-Ordering.png"
 coverAlt: "Technical visualization representing the inner workings of a database query optimizer: cost models, statistics, and join ordering"
 ---
 

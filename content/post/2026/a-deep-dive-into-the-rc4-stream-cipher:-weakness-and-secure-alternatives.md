@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/A-Deep-Dive-Into-The-Rc4-Stream-Cipher-Weakness-And-Secure-Alternatives.png"
+cover: "static/images/blog/A-Deep-Dive-Into-The-Rc4-Stream-Cipher-Weakness-And-Secure-Alternatives.png"
 coverAlt: "Technical visualization representing a deep dive into the rc4 stream cipher: weakness and secure alternatives"
 ---
 

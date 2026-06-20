@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/a-detailed-look-at-the-openssl-implementation-of-aes-key-schedule,-s-box,-and-counter-mode.png"
+cover: "static/images/blog/a-detailed-look-at-the-openssl-implementation-of-aes-key-schedule,-s-box,-and-counter-mode.png"
 coverAlt: "Technical visualization representing a detailed look at the openssl implementation of aes: key schedule, s box, and counter mode"
 ---
 

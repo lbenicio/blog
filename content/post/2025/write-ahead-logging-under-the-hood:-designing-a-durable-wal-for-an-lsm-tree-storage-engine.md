@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/Write-Ahead-Logging-Under-The-Hood-Designing-A-Durable-Wal-For-An-Lsm-Tree-Storage-Engine.png"
+cover: "static/images/blog/Write-Ahead-Logging-Under-The-Hood-Designing-A-Durable-Wal-For-An-Lsm-Tree-Storage-Engine.png"
 coverAlt: "Technical visualization representing write ahead logging under the hood: designing a durable wal for an lsm tree storage engine"
 ---
 

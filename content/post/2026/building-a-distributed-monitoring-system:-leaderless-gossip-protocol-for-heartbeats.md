@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/Building-A-Distributed-Monitoring-System-Leaderless-Gossip-Protocol-For-Heartbeats.png"
+cover: "static/images/blog/Building-A-Distributed-Monitoring-System-Leaderless-Gossip-Protocol-For-Heartbeats.png"
 coverAlt: "Technical visualization representing building a distributed monitoring system: leaderless gossip protocol for heartbeats"
 ---
 

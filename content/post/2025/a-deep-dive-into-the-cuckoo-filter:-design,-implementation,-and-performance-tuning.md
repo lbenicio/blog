@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/A-Deep-Dive-Into-The-Cuckoo-Filter-Design,-Implementation,-And-Performance-Tuning.png"
+cover: "static/images/blog/A-Deep-Dive-Into-The-Cuckoo-Filter-Design,-Implementation,-And-Performance-Tuning.png"
 coverAlt: "Technical visualization representing a deep dive into the cuckoo filter: design, implementation, and performance tuning"
 ---
 

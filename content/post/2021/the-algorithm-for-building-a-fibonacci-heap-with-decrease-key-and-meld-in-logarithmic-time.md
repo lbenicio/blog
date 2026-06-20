@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/the-algorithm-for-building-a-fibonacci-heap-with-decrease-key-and-meld-in-logarithmic-time.png"
+cover: "static/images/blog/the-algorithm-for-building-a-fibonacci-heap-with-decrease-key-and-meld-in-logarithmic-time.png"
 coverAlt: "Technical visualization representing the algorithm for building a fibonacci heap with decrease key and meld in logarithmic time"
 ---
 

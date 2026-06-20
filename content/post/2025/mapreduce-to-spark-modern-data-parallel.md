@@ -5,7 +5,7 @@ date: "2025-05-19"
 author: "Leonardo Benicio"
 tags: ["spark", "mapreduce", "dataproc", "dag"]
 categories: ["distributed systems", "data engineering"]
-cover: "/static/images/blog/mapreduce-to-spark-modern-data-parallel.png"
+cover: "static/images/blog/mapreduce-to-spark-modern-data-parallel.png"
 ---
 
 MapReduce popularized large-scale batch processing with a simple model (map, shuffle, reduce) and immutable intermediate state on HDFS. It optimized for throughput and fault tolerance via re-execution.

@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/a-rigorous-analysis-of-the-data-stream-sampling-algorithm-reservoir-sampling-vs.-priority-sampling.png"
+cover: "static/images/blog/a-rigorous-analysis-of-the-data-stream-sampling-algorithm-reservoir-sampling-vs.-priority-sampling.png"
 coverAlt: "Technical visualization representing a rigorous analysis of the data stream sampling algorithm: reservoir sampling vs. priority sampling"
 ---
 

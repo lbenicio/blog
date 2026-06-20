@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/a-rigorous-proof-of-the-liveness-property-in-the-bakery-algorithm-starvation-freedom-and-fairness.png"
+cover: "static/images/blog/a-rigorous-proof-of-the-liveness-property-in-the-bakery-algorithm-starvation-freedom-and-fairness.png"
 coverAlt: "Technical visualization representing a rigorous proof of the liveness property in the bakery algorithm: starvation freedom and fairness"
 ---
 

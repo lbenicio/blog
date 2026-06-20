@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/Implementing-The-Rsa-Cryptosystem-Key-Generation,-Encryption,-And-Signature-With-Chinese-Remainder-Theorem.png"
+cover: "static/images/blog/Implementing-The-Rsa-Cryptosystem-Key-Generation,-Encryption,-And-Signature-With-Chinese-Remainder-Theorem.png"
 coverAlt: "Technical visualization representing implementing the rsa cryptosystem: key generation, encryption, and signature with chinese remainder theorem"
 ---
 

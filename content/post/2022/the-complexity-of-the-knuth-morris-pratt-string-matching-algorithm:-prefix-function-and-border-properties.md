@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/the-complexity-of-the-knuth-morris-pratt-string-matching-algorithm-prefix-function-and-border-properties.png"
+cover: "static/images/blog/the-complexity-of-the-knuth-morris-pratt-string-matching-algorithm-prefix-function-and-border-properties.png"
 coverAlt: "Technical visualization representing the complexity of the knuth morris pratt string matching algorithm: prefix function and border properties"
 ---
 

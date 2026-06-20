@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["information-geometry", "fisher-information", "natural-gradient", "statistical-manifolds", "exponential-families", "optimization"]
 categories: ["theory", "mathematics"]
 draft: false
-cover: "/static/images/blog/information-geometry-fisher-information-natural-gradient.png"
+cover: "static/images/blog/information-geometry-fisher-information-natural-gradient.png"
 coverAlt: "Diagram showing a statistical manifold with geodesics and the Fisher information metric tensor"
 ---
 

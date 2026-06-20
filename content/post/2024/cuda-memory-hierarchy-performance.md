@@ -5,7 +5,7 @@ date: "2024-11-27"
 author: "Leonardo Benicio"
 tags: ["cuda", "gpu", "memory", "performance"]
 categories: ["parallelism", "gpgpu"]
-cover: "/static/images/blog/cuda-memory-hierarchy-performance.png"
+cover: "static/images/blog/cuda-memory-hierarchy-performance.png"
 ---
 
 CUDA performance hinges on moving data efficiently through a _hierarchy_ of memories that differ by latency, bandwidth, scope (visibility), and capacity. Raw FLOP throughput is rarely the first limiter—memory behavior, access ordering, and reuse patterns almost always dominate performance envelopes.

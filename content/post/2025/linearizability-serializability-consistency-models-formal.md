@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["consistency", "distributed-systems", "linearizability", "serializability", "formal-methods", "concurrency"]
 categories: ["theory", "distributed-systems"]
 draft: false
-cover: "/static/images/blog/linearizability-serializability-consistency-models-formal.png"
+cover: "static/images/blog/linearizability-serializability-consistency-models-formal.png"
 coverAlt: "A lattice of consistency models from strict serializability at the top to eventual consistency at the bottom, with formal definitions, history diagrams, and counterexample traces along each edge"
 ---
 

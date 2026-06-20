@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/Designing-A-Custom-Network-Protocol-Framing,-Checksums,-And-Reliable-Delivery-Over-Udp.png"
+cover: "static/images/blog/Designing-A-Custom-Network-Protocol-Framing,-Checksums,-And-Reliable-Delivery-Over-Udp.png"
 coverAlt: "Technical visualization representing designing a custom network protocol: framing, checksums, and reliable delivery over udp"
 ---
 

@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["sublinear-algorithms", "property-testing", "query-complexity", "regularity-lemma", "random-sampling"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/sublinear-algorithms-property-testing-query-complexity.png"
+cover: "static/images/blog/sublinear-algorithms-property-testing-query-complexity.png"
 coverAlt: "A large graph being inspected through a magnifying glass, representing local inspection revealing global properties"
 ---
 

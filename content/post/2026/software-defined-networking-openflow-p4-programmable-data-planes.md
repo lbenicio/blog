@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["sdn", "software-defined-networking", "openflow", "p4", "programmable-data-plane", "onos", "open-daylight", "match-action"]
 categories: ["systems", "networking"]
 draft: false
-cover: "/static/images/blog/software-defined-networking-openflow-p4-programmable-data-planes.png"
+cover: "static/images/blog/software-defined-networking-openflow-p4-programmable-data-planes.png"
 coverAlt: "Diagram of SDN architecture showing the separation of control plane and data plane, OpenFlow match-action tables, and P4-programmable forwarding pipelines"
 ---
 

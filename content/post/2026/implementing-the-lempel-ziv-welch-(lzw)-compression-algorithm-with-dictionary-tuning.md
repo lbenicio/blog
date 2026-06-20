@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/Implementing-The-Lempel-Ziv-Welch-(lzw)-Compression-Algorithm-With-Dictionary-Tuning.png"
+cover: "static/images/blog/Implementing-The-Lempel-Ziv-Welch-(lzw)-Compression-Algorithm-With-Dictionary-Tuning.png"
 coverAlt: "Technical visualization representing implementing the lempel ziv welch (lzw) compression algorithm with dictionary tuning"
 ---
 

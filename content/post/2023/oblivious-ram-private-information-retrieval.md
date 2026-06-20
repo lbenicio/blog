@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["oram", "pir", "privacy", "access-patterns", "secure-computation"]
 categories: ["theory", "systems"]
 draft: false
-cover: "/static/images/blog/oblivious-ram-private-information-retrieval.png"
+cover: "static/images/blog/oblivious-ram-private-information-retrieval.png"
 coverAlt: "Diagram showing a client accessing a storage server through an oblivious RAM protocol, with the access pattern hidden by randomized reshuffling and recursive position maps."
 ---
 

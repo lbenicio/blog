@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/the-mathematics-of-the-birch-reduction-min-wise-hashing-for-document-similarity-at-scale.png"
+cover: "static/images/blog/the-mathematics-of-the-birch-reduction-min-wise-hashing-for-document-similarity-at-scale.png"
 coverAlt: "Technical visualization representing the mathematics of the birch reduction: min wise hashing for document similarity at scale"
 ---
 

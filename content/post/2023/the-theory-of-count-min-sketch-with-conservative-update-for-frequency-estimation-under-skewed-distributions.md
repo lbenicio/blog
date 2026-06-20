@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/the-theory-of-count-min-sketch-with-conservative-update-for-frequency-estimation-under-skewed-distributions.png"
+cover: "static/images/blog/the-theory-of-count-min-sketch-with-conservative-update-for-frequency-estimation-under-skewed-distributions.png"
 coverAlt: "Technical visualization representing the theory of count min sketch with conservative update for frequency estimation under skewed distributions"
 ---
 

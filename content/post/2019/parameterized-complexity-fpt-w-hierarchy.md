@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["parameterized-complexity", "fpt", "w-hierarchy", "kernelization", "bounded-search-trees", "algorithms"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/parameterized-complexity-fpt-w-hierarchy.png"
+cover: "static/images/blog/parameterized-complexity-fpt-w-hierarchy.png"
 coverAlt: "A tree decomposition with bounded bag size illustrating FPT algorithms on graphs of bounded treewidth"
 ---
 

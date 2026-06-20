@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/a-rigorous-proof-of-the-abortable-consensus-in-a-crash-recovery-model-using-non-blocking-atomic-commit.png"
+cover: "static/images/blog/a-rigorous-proof-of-the-abortable-consensus-in-a-crash-recovery-model-using-non-blocking-atomic-commit.png"
 coverAlt: "Technical visualization representing a rigorous proof of the abortable consensus in a crash recovery model using non blocking atomic commit"
 ---
 

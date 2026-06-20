@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/The-Architecture-Of-A-High-Performance-Message-Broker-Design-Patterns-From-Apache-Kafka.png"
+cover: "static/images/blog/The-Architecture-Of-A-High-Performance-Message-Broker-Design-Patterns-From-Apache-Kafka.png"
 coverAlt: "Technical visualization representing the architecture of a high performance message broker: design patterns from apache kafka"
 ---
 

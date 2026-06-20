@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["distributed-snapshots", "chandy-lamport", "lai-yang", "global-state", "checkpointing", "distributed-systems", "deadlock-detection"]
 categories: ["systems", "distributed-systems"]
 draft: false
-cover: "/static/images/blog/distributed-snapshots-chandy-lamport-algorithm.png"
+cover: "static/images/blog/distributed-snapshots-chandy-lamport-algorithm.png"
 coverAlt: "Diagram showing the Chandy-Lamport marker propagation through a network of processes with FIFO channels, capturing a consistent global snapshot"
 ---
 

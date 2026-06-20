@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/The-Internals-Of-A-Modern-Garbage-Collector-Generational,-Concurrent,-And-Compacting-(like-C4).png"
+cover: "static/images/blog/The-Internals-Of-A-Modern-Garbage-Collector-Generational,-Concurrent,-And-Compacting-(like-C4).png"
 coverAlt: "Technical visualization representing the internals of a modern garbage collector: generational, concurrent, and compacting (like c4)"
 ---
 

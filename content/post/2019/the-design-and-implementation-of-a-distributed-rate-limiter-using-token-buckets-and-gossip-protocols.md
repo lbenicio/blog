@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/the-design-and-implementation-of-a-distributed-rate-limiter-using-token-buckets-and-gossip-protocols.png"
+cover: "static/images/blog/the-design-and-implementation-of-a-distributed-rate-limiter-using-token-buckets-and-gossip-protocols.png"
 coverAlt: "Technical visualization representing the design and implementation of a distributed rate limiter using token buckets and gossip protocols"
 ---
 

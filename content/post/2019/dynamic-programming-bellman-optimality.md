@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["dynamic-programming", "bellman", "optimality", "knapsack", "shortest-paths", "sequence-alignment", "reinforcement-learning"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/dynamic-programming-bellman-optimality.png"
+cover: "static/images/blog/dynamic-programming-bellman-optimality.png"
 coverAlt: "A directed acyclic graph with nodes representing subproblems and edges representing optimal decisions, illustrating the principle of optimality"
 ---
 

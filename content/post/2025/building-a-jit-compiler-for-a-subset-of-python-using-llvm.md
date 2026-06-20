@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/Building-A-Jit-Compiler-For-A-Subset-Of-Python-Using-Llvm.png"
+cover: "static/images/blog/Building-A-Jit-Compiler-For-A-Subset-Of-Python-Using-Llvm.png"
 coverAlt: "Technical visualization representing building a jit compiler for a subset of python using llvm"
 ---
 

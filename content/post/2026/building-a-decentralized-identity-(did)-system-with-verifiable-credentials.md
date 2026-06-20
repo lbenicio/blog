@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/Building-A-Decentralized-Identity-(did)-System-With-Verifiable-Credentials.png"
+cover: "static/images/blog/Building-A-Decentralized-Identity-(did)-System-With-Verifiable-Credentials.png"
 coverAlt: "Technical visualization representing building a decentralized identity (did) system with verifiable credentials"
 ---
 

@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/implementing-a-distributed-priority-queue-with-request-batching-and-hierarchical-aggregation.png"
+cover: "static/images/blog/implementing-a-distributed-priority-queue-with-request-batching-and-hierarchical-aggregation.png"
 coverAlt: "Technical visualization representing implementing a distributed priority queue with request batching and hierarchical aggregation"
 ---
 

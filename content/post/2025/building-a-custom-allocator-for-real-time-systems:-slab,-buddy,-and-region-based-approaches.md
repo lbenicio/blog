@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/Building-A-Custom-Allocator-For-Real-Time-Systems-Slab,-Buddy,-And-Region-Based-Approaches.png"
+cover: "static/images/blog/Building-A-Custom-Allocator-For-Real-Time-Systems-Slab,-Buddy,-And-Region-Based-Approaches.png"
 coverAlt: "Technical visualization representing building a custom allocator for real time systems: slab, buddy, and region based approaches"
 ---
 

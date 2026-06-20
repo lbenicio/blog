@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["formal-verification", "proverif", "tamarin", "tls", "dolev-yao", "protocol-analysis"]
 categories: ["theory", "systems"]
 draft: false
-cover: "/static/images/blog/formal-verification-cryptographic-protocols-proverif-tamarin.png"
+cover: "static/images/blog/formal-verification-cryptographic-protocols-proverif-tamarin.png"
 coverAlt: "Diagram showing a protocol modeled in the Dolev-Yao symbolic model being verified by ProVerif or Tamarin, with the tool output showing security properties proved."
 ---
 

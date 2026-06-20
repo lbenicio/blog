@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/the-implementation-of-a-garbage-first-garbage-collector-in-the-hotspot-jvm-g1heapregion,-satb,-and-remembered-sets.png"
+cover: "static/images/blog/the-implementation-of-a-garbage-first-garbage-collector-in-the-hotspot-jvm-g1heapregion,-satb,-and-remembered-sets.png"
 coverAlt: "Technical visualization representing the implementation of a garbage first garbage collector in the hotspot jvm: g1heapregion, satb, and remembered sets"
 ---
 

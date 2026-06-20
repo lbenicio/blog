@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/designing-a-randomized-algorithm-for-the-min-cut-problem-karger’s-algorithm-and-contractions.png"
+cover: "static/images/blog/designing-a-randomized-algorithm-for-the-min-cut-problem-karger’s-algorithm-and-contractions.png"
 coverAlt: "Technical visualization representing designing a randomized algorithm for the min cut problem: karger’s algorithm and contractions"
 ---
 

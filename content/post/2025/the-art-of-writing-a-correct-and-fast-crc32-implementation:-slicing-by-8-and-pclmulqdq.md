@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/The-Art-Of-Writing-A-Correct-And-Fast-Crc32-Implementation-Slicing-By-8-And-Pclmulqdq.png"
+cover: "static/images/blog/The-Art-Of-Writing-A-Correct-And-Fast-Crc32-Implementation-Slicing-By-8-And-Pclmulqdq.png"
 coverAlt: "Technical visualization representing the art of writing a correct and fast crc32 implementation: slicing by 8 and pclmulqdq"
 ---
 

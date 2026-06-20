@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["zero-knowledge", "cryptography", "zk-snarks", "interactive-proofs", "verifiable-computation", "blockchain"]
 categories: ["theory", "cryptography"]
 draft: false
-cover: "/static/images/blog/zero-knowledge-proofs-interactive-zk-snarks-engineering.png"
+cover: "static/images/blog/zero-knowledge-proofs-interactive-zk-snarks-engineering.png"
 coverAlt: "Diagram showing a prover convincing a verifier of knowledge of a secret without revealing it, with the simulation paradigm represented as a thought bubble"
 ---
 

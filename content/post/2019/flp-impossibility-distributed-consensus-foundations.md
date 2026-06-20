@@ -2,7 +2,7 @@
 title: "Flp Impossibility Distributed Consensus Foundations"
 date: 2019-07-04
 draft: false
-cover: "/static/images/blog/flp-impossibility-distributed-consensus-foundations.png"
+cover: "static/images/blog/flp-impossibility-distributed-consensus-foundations.png"
 tags: ["technical", "computer-science"]
 ---
 

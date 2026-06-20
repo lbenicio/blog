@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["optical-computing", "silicon-photonics", "ai-accelerators", "interconnects", "photonic-integration"]
 categories: ["theory", "systems"]
 draft: false
-cover: "/static/images/blog/optical-computing-silicon-photonics-data-centers.png"
+cover: "static/images/blog/optical-computing-silicon-photonics-data-centers.png"
 coverAlt: "Diagram of an optical computing system showing laser source, Mach-Zehnder interferometers for matrix multiplication, photodetectors for readout, and silicon photonic waveguides."
 ---
 

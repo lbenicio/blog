@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/a-deep-dive-into-the-go’s-scheduler-mn-threading,-work-stealing,-and-system-calls.png"
+cover: "static/images/blog/a-deep-dive-into-the-go’s-scheduler-mn-threading,-work-stealing,-and-system-calls.png"
 coverAlt: "Technical visualization representing a deep dive into the go’s scheduler: m:n threading, work stealing, and system calls"
 ---
 

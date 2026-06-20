@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["type-theory", "curry-howard", "formal-verification", "proof-assistants", "lambda-calculus", "programming-languages"]
 categories: ["theory", "programming-languages"]
 draft: false
-cover: "/static/images/blog/curry-howard-correspondence-type-theory-proof-assistants.png"
+cover: "static/images/blog/curry-howard-correspondence-type-theory-proof-assistants.png"
 coverAlt: "Visualization of the Curry-Howard isomorphism: a logical formula on one side mirrored by a type on the other, connected by a bridge representing the correspondence"
 ---
 

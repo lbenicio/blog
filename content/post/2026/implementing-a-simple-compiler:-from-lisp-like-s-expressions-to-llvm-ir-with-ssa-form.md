@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/Implementing-A-Simple-Compiler-From-Lisp-Like-S-Expressions-To-Llvm-Ir-With-Ssa-Form.png"
+cover: "static/images/blog/Implementing-A-Simple-Compiler-From-Lisp-Like-S-Expressions-To-Llvm-Ir-With-Ssa-Form.png"
 coverAlt: "Technical visualization representing implementing a simple compiler: from lisp like s expressions to llvm ir with ssa form"
 ---
 

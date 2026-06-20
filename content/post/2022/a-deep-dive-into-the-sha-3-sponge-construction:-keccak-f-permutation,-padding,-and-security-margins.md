@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/a-deep-dive-into-the-sha-3-sponge-construction-keccak-f-permutation,-padding,-and-security-margins.png"
+cover: "static/images/blog/a-deep-dive-into-the-sha-3-sponge-construction-keccak-f-permutation,-padding,-and-security-margins.png"
 coverAlt: "Technical visualization representing a deep dive into the sha 3 sponge construction: keccak f permutation, padding, and security margins"
 ---
 

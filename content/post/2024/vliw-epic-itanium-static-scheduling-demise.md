@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["vliw", "epic", "itanium", "static-scheduling", "computer-architecture", "predication"]
 categories: ["theory", "systems"]
 draft: false
-cover: "/static/images/blog/vliw-epic-itanium-static-scheduling-demise.png"
+cover: "static/images/blog/vliw-epic-itanium-static-scheduling-demise.png"
 coverAlt: "Diagram comparing VLIW (explicit parallelism in instruction word) and EPIC (predication and speculation) to out-of-order superscalar (dynamic scheduling), with a timeline of commercial VLIW/EPIC processors."
 ---
 

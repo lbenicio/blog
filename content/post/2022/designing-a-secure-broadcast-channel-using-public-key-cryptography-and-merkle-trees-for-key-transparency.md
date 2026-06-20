@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/designing-a-secure-broadcast-channel-using-public-key-cryptography-and-merkle-trees-for-key-transparency.png"
+cover: "static/images/blog/designing-a-secure-broadcast-channel-using-public-key-cryptography-and-merkle-trees-for-key-transparency.png"
 coverAlt: "Technical visualization representing designing a secure broadcast channel using public key cryptography and merkle trees for key transparency"
 ---
 

@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/implementing-a-van-emde-boas-tree-for-predecessor-queries-in-o(log-log-u)-time.png"
+cover: "static/images/blog/implementing-a-van-emde-boas-tree-for-predecessor-queries-in-o(log-log-u)-time.png"
 coverAlt: "Technical visualization representing implementing a van emde boas tree for predecessor queries in o(log log u) time"
 ---
 

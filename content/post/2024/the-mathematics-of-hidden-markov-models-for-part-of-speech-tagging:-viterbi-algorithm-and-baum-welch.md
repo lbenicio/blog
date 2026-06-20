@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/the-mathematics-of-hidden-markov-models-for-part-of-speech-tagging-viterbi-algorithm-and-baum-welch.png"
+cover: "static/images/blog/the-mathematics-of-hidden-markov-models-for-part-of-speech-tagging-viterbi-algorithm-and-baum-welch.png"
 coverAlt: "Technical visualization representing the mathematics of hidden markov models for part of speech tagging: viterbi algorithm and baum welch"
 ---
 

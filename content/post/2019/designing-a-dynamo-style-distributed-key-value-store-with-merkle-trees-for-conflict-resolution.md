@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/designing-a-dynamo-style-distributed-key-value-store-with-merkle-trees-for-conflict-resolution.png"
+cover: "static/images/blog/designing-a-dynamo-style-distributed-key-value-store-with-merkle-trees-for-conflict-resolution.png"
 coverAlt: "Technical visualization representing designing a dynamo style distributed key value store with merkle trees for conflict resolution"
 ---
 

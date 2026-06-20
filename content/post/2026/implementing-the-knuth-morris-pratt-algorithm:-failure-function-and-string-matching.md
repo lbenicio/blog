@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/Implementing-The-Knuth-Morris-Pratt-Algorithm-Failure-Function-And-String-Matching.png"
+cover: "static/images/blog/Implementing-The-Knuth-Morris-Pratt-Algorithm-Failure-Function-And-String-Matching.png"
 coverAlt: "Technical visualization representing implementing the knuth morris pratt algorithm: failure function and string matching"
 ---
 

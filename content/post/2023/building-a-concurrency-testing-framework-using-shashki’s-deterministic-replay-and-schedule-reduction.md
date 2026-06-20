@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/building-a-concurrency-testing-framework-using-shashki’s-deterministic-replay-and-schedule-reduction.png"
+cover: "static/images/blog/building-a-concurrency-testing-framework-using-shashki’s-deterministic-replay-and-schedule-reduction.png"
 coverAlt: "Technical visualization representing building a concurrency testing framework using shashki’s deterministic replay and schedule reduction"
 ---
 

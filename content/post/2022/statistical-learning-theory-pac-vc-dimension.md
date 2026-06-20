@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["statistical-learning", "pac-learning", "vc-dimension", "rademacher-complexity", "machine-learning-theory"]
 categories: ["theory", "mathematics"]
 draft: false
-cover: "/static/images/blog/statistical-learning-theory-pac-vc-dimension.png"
+cover: "static/images/blog/statistical-learning-theory-pac-vc-dimension.png"
 coverAlt: "Diagram illustrating the VC dimension concept with shattering of points by a hypothesis class"
 ---
 

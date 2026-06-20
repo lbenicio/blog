@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/Writing-A-Custom-Tcp-Stack-In-Userspace-Performance-And-Pitfalls.png"
+cover: "static/images/blog/Writing-A-Custom-Tcp-Stack-In-Userspace-Performance-And-Pitfalls.png"
 coverAlt: "Technical visualization representing writing a custom tcp stack in userspace: performance and pitfalls"
 ---
 

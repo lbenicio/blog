@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/designing-a-graph-database-with-native-storage-adjacency-lists,-property-graphs,-and-traversal-optimization.png"
+cover: "static/images/blog/designing-a-graph-database-with-native-storage-adjacency-lists,-property-graphs,-and-traversal-optimization.png"
 coverAlt: "Technical visualization representing designing a graph database with native storage: adjacency lists, property graphs, and traversal optimization"
 ---
 

@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["edge-computing", "fog-computing", "mist-computing", "k3s", "microk8s", "5g-mec", "offloading", "kubernetes"]
 categories: ["systems", "distributed-systems"]
 draft: false
-cover: "/static/images/blog/edge-computing-fog-mist-continuum-architecture.png"
+cover: "static/images/blog/edge-computing-fog-mist-continuum-architecture.png"
 coverAlt: "Diagram of the edge-fog-mist-cloud continuum showing compute resources at each tier with latency and bandwidth annotations"
 ---
 

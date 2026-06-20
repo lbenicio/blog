@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/implementing-a-small-theorem-prover-for-propositional-logic-using-the-dpll-algorithm-with-conflict-driven-clause-learning.png"
+cover: "static/images/blog/implementing-a-small-theorem-prover-for-propositional-logic-using-the-dpll-algorithm-with-conflict-driven-clause-learning.png"
 coverAlt: "Technical visualization representing implementing a small theorem prover for propositional logic using the dpll algorithm with conflict driven clause learning"
 ---
 

@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/building-a-distributed-data-cleaner-using-deduplication-and-bloom-filters-at-scale.png"
+cover: "static/images/blog/building-a-distributed-data-cleaner-using-deduplication-and-bloom-filters-at-scale.png"
 coverAlt: "Technical visualization representing building a distributed data cleaner using deduplication and bloom filters at scale"
 ---
 

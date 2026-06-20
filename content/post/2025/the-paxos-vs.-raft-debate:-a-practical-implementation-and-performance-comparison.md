@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/The-Paxos-Vs.-Raft-Debate-A-Practical-Implementation-And-Performance-Comparison.png"
+cover: "static/images/blog/The-Paxos-Vs.-Raft-Debate-A-Practical-Implementation-And-Performance-Comparison.png"
 coverAlt: "Technical visualization representing the paxos vs. raft debate: a practical implementation and performance comparison"
 ---
 

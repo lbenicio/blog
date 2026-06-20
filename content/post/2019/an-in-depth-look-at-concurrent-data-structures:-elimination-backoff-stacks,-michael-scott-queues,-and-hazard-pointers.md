@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/an-in-depth-look-at-concurrent-data-structures-elimination-backoff-stacks,-michael-scott-queues,-and-hazard-pointers.png"
+cover: "static/images/blog/an-in-depth-look-at-concurrent-data-structures-elimination-backoff-stacks,-michael-scott-queues,-and-hazard-pointers.png"
 coverAlt: "Technical visualization representing an in depth look at concurrent data structures: elimination backoff stacks, michael scott queues, and hazard pointers"
 ---
 

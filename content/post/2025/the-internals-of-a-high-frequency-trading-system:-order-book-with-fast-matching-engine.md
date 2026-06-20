@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/The-Internals-Of-A-High-Frequency-Trading-System-Order-Book-With-Fast-Matching-Engine.png"
+cover: "static/images/blog/The-Internals-Of-A-High-Frequency-Trading-System-Order-Book-With-Fast-Matching-Engine.png"
 coverAlt: "Technical visualization representing the internals of a high frequency trading system: order book with fast matching engine"
 ---
 

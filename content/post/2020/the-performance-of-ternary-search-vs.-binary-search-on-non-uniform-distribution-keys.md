@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/the-performance-of-ternary-search-vs.-binary-search-on-non-uniform-distribution-keys.png"
+cover: "static/images/blog/the-performance-of-ternary-search-vs.-binary-search-on-non-uniform-distribution-keys.png"
 coverAlt: "Technical visualization representing the performance of ternary search vs. binary search on non uniform distribution keys"
 ---
 

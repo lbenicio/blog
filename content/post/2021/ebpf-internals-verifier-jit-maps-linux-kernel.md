@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["ebpf", "linux", "kernel", "verifier", "jit", "xdp", "networking"]
 categories: ["systems", "linux-kernel"]
 draft: false
-cover: "/static/images/blog/ebpf-internals-verifier-jit-maps-linux-kernel.png"
+cover: "static/images/blog/ebpf-internals-verifier-jit-maps-linux-kernel.png"
 coverAlt: "A stylized diagram showing eBPF bytecode flowing through the in-kernel verifier and JIT compiler into native code, with BPF maps providing state persistence"
 ---
 

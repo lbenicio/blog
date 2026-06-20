@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/Building-A-Distributed-Transaction-Log-With-Multi-Version-Concurrency-Control-(mvcc).png"
+cover: "static/images/blog/Building-A-Distributed-Transaction-Log-With-Multi-Version-Concurrency-Control-(mvcc).png"
 coverAlt: "Technical visualization representing building a distributed transaction log with multi version concurrency control (mvcc)"
 ---
 

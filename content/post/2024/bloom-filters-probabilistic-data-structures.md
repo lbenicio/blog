@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["data-structures", "probabilistic", "bloom-filter", "hashing", "sketches", "algorithms"]
 categories: ["theory", "systems"]
 draft: false
-cover: "/static/images/blog/bloom-filters-probabilistic-data-structures.png"
+cover: "static/images/blog/bloom-filters-probabilistic-data-structures.png"
 coverAlt: "Abstract visualization of a Bloom filter with hash functions mapping elements to a bit array, showing probabilistic membership testing"
 ---
 

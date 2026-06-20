@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["domain-theory", "denotational-semantics", "scott", "continuous-lattices", "fixed-points", "lambda-calculus"]
 categories: ["theory", "mathematics"]
 draft: false
-cover: "/static/images/blog/domain-theory-scott-dinfty-denotational-semantics.png"
+cover: "static/images/blog/domain-theory-scott-dinfty-denotational-semantics.png"
 coverAlt: "Diagram showing the construction of D∞ as a limit of iterated function spaces"
 ---
 

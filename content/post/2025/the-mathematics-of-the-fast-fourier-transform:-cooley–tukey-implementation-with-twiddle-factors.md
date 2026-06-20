@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/The-Mathematics-Of-The-Fast-Fourier-Transform-Cooley–tukey-Implementation-With-Twiddle-Factors.png"
+cover: "static/images/blog/The-Mathematics-Of-The-Fast-Fourier-Transform-Cooley–tukey-Implementation-With-Twiddle-Factors.png"
 coverAlt: "Technical visualization representing the mathematics of the fast fourier transform: cooley–tukey implementation with twiddle factors"
 ---
 

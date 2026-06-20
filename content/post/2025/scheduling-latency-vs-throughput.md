@@ -5,7 +5,7 @@ description: "Queue disciplines, work stealing, and CPU affinity: how scheduler 
 tags: ["scheduling", "latency", "throughput", "concurrency", "work-stealing"]
 categories: ["Engineering"]
 draft: false
-cover: "/static/images/blog/scheduling-latency-vs-throughput.png"
+cover: "static/images/blog/scheduling-latency-vs-throughput.png"
 coverAlt: "Queueing diagram contrasting FIFO, priority, and work‑stealing schedulers"
 ---
 

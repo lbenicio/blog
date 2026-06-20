@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/the-performance-of-attention-mechanisms-in-transformers-self-attention-vs.-multi-headed-with-flashattention-optimization.png"
+cover: "static/images/blog/the-performance-of-attention-mechanisms-in-transformers-self-attention-vs.-multi-headed-with-flashattention-optimization.png"
 coverAlt: "Technical visualization representing the performance of attention mechanisms in transformers: self attention vs. multi headed with flashattention optimization"
 ---
 

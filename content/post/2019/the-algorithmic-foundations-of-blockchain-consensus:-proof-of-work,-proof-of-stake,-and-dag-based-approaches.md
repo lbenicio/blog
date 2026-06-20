@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/the-algorithmic-foundations-of-blockchain-consensus-proof-of-work,-proof-of-stake,-and-dag-based-approaches.png"
+cover: "static/images/blog/the-algorithmic-foundations-of-blockchain-consensus-proof-of-work,-proof-of-stake,-and-dag-based-approaches.png"
 coverAlt: "Technical visualization representing the algorithmic foundations of blockchain consensus: proof of work, proof of stake, and dag based approaches"
 ---
 

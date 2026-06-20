@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/designing-a-verifiable-random-function-(vrf)-for-leader-election-in-proof-of-stake-blockchains.png"
+cover: "static/images/blog/designing-a-verifiable-random-function-(vrf)-for-leader-election-in-proof-of-stake-blockchains.png"
 coverAlt: "Technical visualization representing designing a verifiable random function (vrf) for leader election in proof of stake blockchains"
 ---
 

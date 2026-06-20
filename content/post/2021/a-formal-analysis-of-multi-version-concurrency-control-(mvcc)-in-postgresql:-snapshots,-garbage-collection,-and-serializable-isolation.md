@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/a-formal-analysis-of-multi-version-concurrency-control-(mvcc)-in-postgresql-snapshots,-garbage-collection,-and-serializable-isolation.png"
+cover: "static/images/blog/a-formal-analysis-of-multi-version-concurrency-control-(mvcc)-in-postgresql-snapshots,-garbage-collection,-and-serializable-isolation.png"
 coverAlt: "Technical visualization representing a formal analysis of multi version concurrency control (mvcc) in postgresql: snapshots, garbage collection, and serializable isolation"
 ---
 

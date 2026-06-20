@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/Writing-A-Simple-Container-Runtime-Namespaces,-Cgroups,-And-A-Minimal-Oci-Runtime.png"
+cover: "static/images/blog/Writing-A-Simple-Container-Runtime-Namespaces,-Cgroups,-And-A-Minimal-Oci-Runtime.png"
 coverAlt: "Technical visualization representing writing a simple container runtime: namespaces, cgroups, and a minimal oci runtime"
 ---
 

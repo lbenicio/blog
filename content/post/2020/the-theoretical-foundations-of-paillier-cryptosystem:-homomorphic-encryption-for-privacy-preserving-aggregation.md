@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/the-theoretical-foundations-of-paillier-cryptosystem-homomorphic-encryption-for-privacy-preserving-aggregation.png"
+cover: "static/images/blog/the-theoretical-foundations-of-paillier-cryptosystem-homomorphic-encryption-for-privacy-preserving-aggregation.png"
 coverAlt: "Technical visualization representing the theoretical foundations of paillier cryptosystem: homomorphic encryption for privacy preserving aggregation"
 ---
 

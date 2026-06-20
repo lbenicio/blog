@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/Implementing-A-Distributed-Snapshot-Algorithm-Chandy-Lamport-State-Recording.png"
+cover: "static/images/blog/Implementing-A-Distributed-Snapshot-Algorithm-Chandy-Lamport-State-Recording.png"
 coverAlt: "Technical visualization representing implementing a distributed snapshot algorithm: chandy lamport state recording"
 ---
 

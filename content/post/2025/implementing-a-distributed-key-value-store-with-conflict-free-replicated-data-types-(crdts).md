@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/Implementing-A-Distributed-Key-Value-Store-With-Conflict-Free-Replicated-Data-Types-(crdts).png"
+cover: "static/images/blog/Implementing-A-Distributed-Key-Value-Store-With-Conflict-Free-Replicated-Data-Types-(crdts).png"
 coverAlt: "Technical visualization representing implementing a distributed key value store with conflict free replicated data types (crdts)"
 ---
 

@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/implementing-a-k-d-tree-for-nearest-neighbor-search-with-balanced-construction-and-bounded-box-test.png"
+cover: "static/images/blog/implementing-a-k-d-tree-for-nearest-neighbor-search-with-balanced-construction-and-bounded-box-test.png"
 coverAlt: "Technical visualization representing implementing a k d tree for nearest neighbor search with balanced construction and bounded box test"
 ---
 

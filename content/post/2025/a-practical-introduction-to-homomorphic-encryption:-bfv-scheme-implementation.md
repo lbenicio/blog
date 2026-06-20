@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/A-Practical-Introduction-To-Homomorphic-Encryption-Bfv-Scheme-Implementation.png"
+cover: "static/images/blog/A-Practical-Introduction-To-Homomorphic-Encryption-Bfv-Scheme-Implementation.png"
 coverAlt: "Technical visualization representing a practical introduction to homomorphic encryption: bfv scheme implementation"
 ---
 

@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["stochastic-processes", "poisson-process", "brownian-motion", "queueing-theory", "reliability", "probability"]
 categories: ["theory", "mathematics"]
 draft: false
-cover: "/static/images/blog/stochastic-processes-poisson-brownian-motion-cs.png"
+cover: "static/images/blog/stochastic-processes-poisson-brownian-motion-cs.png"
 coverAlt: "Diagram showing a Poisson process counting arrivals over time with exponential inter-arrival times"
 ---
 

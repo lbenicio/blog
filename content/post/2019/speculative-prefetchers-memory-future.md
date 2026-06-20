@@ -5,7 +5,7 @@ description: "A field guide to building and validating speculative memory prefet
 tags: ["microarchitecture", "memory", "performance", "hardware", "systems"]
 categories: ["Engineering"]
 draft: false
-cover: "/static/images/blog/speculative-prefetchers-memory-future.png"
+cover: "static/images/blog/speculative-prefetchers-memory-future.png"
 coverAlt: "Stylized CPU pipeline predicting future memory accesses"
 ---
 

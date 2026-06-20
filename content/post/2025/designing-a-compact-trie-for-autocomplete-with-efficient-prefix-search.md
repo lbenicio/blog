@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/Designing-A-Compact-Trie-For-Autocomplete-With-Efficient-Prefix-Search.png"
+cover: "static/images/blog/Designing-A-Compact-Trie-For-Autocomplete-With-Efficient-Prefix-Search.png"
 coverAlt: "Technical visualization representing designing a compact trie for autocomplete with efficient prefix search"
 ---
 

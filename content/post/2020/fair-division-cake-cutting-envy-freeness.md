@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["fair-division", "cake-cutting", "envy-freeness", "selfridge-conway", "brams-taylor", "cloud-computing"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/fair-division-cake-cutting-envy-freeness.png"
+cover: "static/images/blog/fair-division-cake-cutting-envy-freeness.png"
 coverAlt: "A cake being divided into portions with labels indicating fairness properties"
 ---
 

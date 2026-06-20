@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/designing-a-time-bounded-consensus-protocol-for-real-time-systems-replicated-state-machines-with-deadlines.png"
+cover: "static/images/blog/designing-a-time-bounded-consensus-protocol-for-real-time-systems-replicated-state-machines-with-deadlines.png"
 coverAlt: "Technical visualization representing designing a time bounded consensus protocol for real time systems: replicated state machines with deadlines"
 ---
 

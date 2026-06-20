@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/implementing-a-private-information-retrieval-(pir)-scheme-with-computational-and-information-theoretic-guarantees.png"
+cover: "static/images/blog/implementing-a-private-information-retrieval-(pir)-scheme-with-computational-and-information-theoretic-guarantees.png"
 coverAlt: "Technical visualization representing implementing a private information retrieval (pir) scheme with computational and information theoretic guarantees"
 ---
 

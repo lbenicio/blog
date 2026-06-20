@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/Building-A-Custom-Scheduler-For-Linux-Cfs-Vs.-O(1)-Scheduler-Details-And-Implementation.png"
+cover: "static/images/blog/Building-A-Custom-Scheduler-For-Linux-Cfs-Vs.-O(1)-Scheduler-Details-And-Implementation.png"
 coverAlt: "Technical visualization representing building a custom scheduler for linux: cfs vs. o(1) scheduler details and implementation"
 ---
 

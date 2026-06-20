@@ -5,7 +5,7 @@ description: "An engineer’s map for rebuilding the software supply chain aroun
 tags: ["security", "devops", "supply-chain", "ci-cd", "governance"]
 categories: ["Engineering"]
 draft: false
-cover: "/static/images/blog/zero-trust-build-pipeline.png"
+cover: "static/images/blog/zero-trust-build-pipeline.png"
 coverAlt: "Interlocking gears protected by cryptographic shields"
 ---
 

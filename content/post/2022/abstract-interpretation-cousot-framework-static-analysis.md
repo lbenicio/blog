@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["abstract-interpretation", "static-analysis", "galois-connections", "cousot", "formal-verification", "program-analysis"]
 categories: ["theory", "mathematics"]
 draft: false
-cover: "/static/images/blog/abstract-interpretation-cousot-framework-static-analysis.png"
+cover: "static/images/blog/abstract-interpretation-cousot-framework-static-analysis.png"
 coverAlt: "Diagram showing the Galois connection between concrete and abstract domains with sound approximation"
 ---
 

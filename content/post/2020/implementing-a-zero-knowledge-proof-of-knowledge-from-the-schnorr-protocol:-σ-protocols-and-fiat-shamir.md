@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/implementing-a-zero-knowledge-proof-of-knowledge-from-the-schnorr-protocol-σ-protocols-and-fiat-shamir.png"
+cover: "static/images/blog/implementing-a-zero-knowledge-proof-of-knowledge-from-the-schnorr-protocol-σ-protocols-and-fiat-shamir.png"
 coverAlt: "Technical visualization representing implementing a zero knowledge proof of knowledge from the schnorr protocol: σ protocols and fiat shamir"
 ---
 

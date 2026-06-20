@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["unicode", "utf-8", "encoding", "text", "internationalization", "fundamentals"]
 categories: ["fundamentals", "systems"]
 draft: false
-cover: "/static/images/blog/unicode-character-encoding-utf8.png"
+cover: "static/images/blog/unicode-character-encoding-utf8.png"
 coverAlt: "Visualization of character encoding showing the transformation from human-readable text through code points to binary representation"
 ---
 

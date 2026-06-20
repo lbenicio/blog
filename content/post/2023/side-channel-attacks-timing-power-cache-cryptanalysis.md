@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["side-channel-attacks", "timing-attacks", "power-analysis", "cache-timing", "constant-time", "cryptanalysis"]
 categories: ["theory", "systems"]
 draft: false
-cover: "/static/images/blog/side-channel-attacks-timing-power-cache-cryptanalysis.png"
+cover: "static/images/blog/side-channel-attacks-timing-power-cache-cryptanalysis.png"
 coverAlt: "Diagram showing attacker observing multiple side channels—timing, power trace, and cache access pattern—leaking information from a cryptographic computation."
 ---
 

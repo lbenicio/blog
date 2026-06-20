@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["garbage-collection", "memory", "jvm", "performance", "gc", "algorithms", "concurrency"]
 categories: ["systems", "performance"]
 draft: false
-cover: "/static/images/blog/garbage-collection-algorithms-mark-sweep-to-zgc.png"
+cover: "static/images/blog/garbage-collection-algorithms-mark-sweep-to-zgc.png"
 coverAlt: "Abstract visualization of memory being automatically reclaimed, with live objects highlighted and unreachable objects fading away into recycled space"
 ---
 

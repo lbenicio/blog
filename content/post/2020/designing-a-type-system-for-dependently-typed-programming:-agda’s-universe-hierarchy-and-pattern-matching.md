@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/designing-a-type-system-for-dependently-typed-programming-agda’s-universe-hierarchy-and-pattern-matching.png"
+cover: "static/images/blog/designing-a-type-system-for-dependently-typed-programming-agda’s-universe-hierarchy-and-pattern-matching.png"
 coverAlt: "Technical visualization representing designing a type system for dependently typed programming: agda’s universe hierarchy and pattern matching"
 ---
 

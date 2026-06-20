@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/a-deep-dive-into-the-r-tree-spatial-index-guttman’s-algorithm,-node-splitting,-and-r-tree-variants.png"
+cover: "static/images/blog/a-deep-dive-into-the-r-tree-spatial-index-guttman’s-algorithm,-node-splitting,-and-r-tree-variants.png"
 coverAlt: "Technical visualization representing a deep dive into the r tree spatial index: guttman’s algorithm, node splitting, and r* tree variants"
 ---
 

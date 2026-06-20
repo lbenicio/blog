@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/implementing-a-distributed-consensus-protocol-from-scratch-raft-with-leader-election,-log-replication,-membership-changes,-and-cluster-reconfiguration-in-go.png"
+cover: "static/images/blog/implementing-a-distributed-consensus-protocol-from-scratch-raft-with-leader-election,-log-replication,-membership-changes,-and-cluster-reconfiguration-in-go.png"
 coverAlt: "Technical visualization representing implementing a distributed consensus protocol from scratch: raft with leader election, log replication, membership changes, and cluster reconfiguration in go"
 ---
 

@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/the-performance-of-b-tree-vs.-lsm-tree-on-write-intensive-workloads-in-ssds.png"
+cover: "static/images/blog/the-performance-of-b-tree-vs.-lsm-tree-on-write-intensive-workloads-in-ssds.png"
 coverAlt: "Technical visualization representing the performance of b tree vs. lsm tree on write intensive workloads in ssds"
 ---
 

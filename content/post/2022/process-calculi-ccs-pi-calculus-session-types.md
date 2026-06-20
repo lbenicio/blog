@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["process-calculi", "pi-calculus", "ccs", "bisimulation", "session-types", "concurrency"]
 categories: ["theory", "mathematics"]
 draft: false
-cover: "/static/images/blog/process-calculi-ccs-pi-calculus-session-types.png"
+cover: "static/images/blog/process-calculi-ccs-pi-calculus-session-types.png"
 coverAlt: "Diagram showing π-calculus processes communicating over channels with name passing"
 ---
 

@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/Implementing-The-Chord-Distributed-Hash-Table-Protocol-Ring-Routing-And-Stabilization.png"
+cover: "static/images/blog/Implementing-The-Chord-Distributed-Hash-Table-Protocol-Ring-Routing-And-Stabilization.png"
 coverAlt: "Technical visualization representing implementing the chord distributed hash table protocol: ring routing and stabilization"
 ---
 

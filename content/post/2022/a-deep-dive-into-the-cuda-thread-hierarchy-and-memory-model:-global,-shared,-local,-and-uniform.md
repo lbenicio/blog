@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/a-deep-dive-into-the-cuda-thread-hierarchy-and-memory-model-global,-shared,-local,-and-uniform.png"
+cover: "static/images/blog/a-deep-dive-into-the-cuda-thread-hierarchy-and-memory-model-global,-shared,-local,-and-uniform.png"
 coverAlt: "Technical visualization representing a deep dive into the cuda thread hierarchy and memory model: global, shared, local, and uniform"
 ---
 

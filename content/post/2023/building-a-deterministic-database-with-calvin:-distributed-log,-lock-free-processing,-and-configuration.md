@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/building-a-deterministic-database-with-calvin-distributed-log,-lock-free-processing,-and-configuration.png"
+cover: "static/images/blog/building-a-deterministic-database-with-calvin-distributed-log,-lock-free-processing,-and-configuration.png"
 coverAlt: "Technical visualization representing building a deterministic database with calvin: distributed log, lock free processing, and configuration"
 ---
 

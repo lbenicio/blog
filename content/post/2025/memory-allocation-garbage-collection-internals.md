@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["memory", "garbage-collection", "malloc", "allocation", "runtime", "fundamentals"]
 categories: ["fundamentals", "systems"]
 draft: false
-cover: "/static/images/blog/memory-allocation-garbage-collection-internals.png"
+cover: "static/images/blog/memory-allocation-garbage-collection-internals.png"
 coverAlt: "Visualization of memory management showing heap structures, allocation pools, and garbage collection phases"
 ---
 

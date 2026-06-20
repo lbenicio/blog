@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["bgp", "internet-routing", "path-vector", "prefix-hijacking", "rpki", "bgpsec", "convergence", "autonomous-system"]
 categories: ["systems", "networking"]
 draft: false
-cover: "/static/images/blog/bgp-internet-routing-policy-convergence-security.png"
+cover: "static/images/blog/bgp-internet-routing-policy-convergence-security.png"
 coverAlt: "Diagram of BGP path-vector routing between autonomous systems showing AS-path propagation, prefix advertisement, and a hijacking scenario"
 ---
 

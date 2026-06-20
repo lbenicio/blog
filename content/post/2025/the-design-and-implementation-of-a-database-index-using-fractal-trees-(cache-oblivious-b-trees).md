@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/The-Design-And-Implementation-Of-A-Database-Index-Using-Fractal-Trees-(cache-Oblivious-B-Trees).png"
+cover: "static/images/blog/The-Design-And-Implementation-Of-A-Database-Index-Using-Fractal-Trees-(cache-Oblivious-B-Trees).png"
 coverAlt: "Technical visualization representing the design and implementation of a database index using fractal trees (cache oblivious b trees)"
 ---
 

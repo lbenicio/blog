@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/From-Code-To-Silicon-Designing-A-Simple-Risc-V-Cpu-Pipeline-In-Verilog.png"
+cover: "static/images/blog/From-Code-To-Silicon-Designing-A-Simple-Risc-V-Cpu-Pipeline-In-Verilog.png"
 coverAlt: "Technical visualization representing from code to silicon: designing a simple risc v cpu pipeline in verilog"
 ---
 

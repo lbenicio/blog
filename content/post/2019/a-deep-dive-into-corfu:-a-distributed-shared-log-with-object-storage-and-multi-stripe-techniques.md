@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/a-deep-dive-into-corfu-a-distributed-shared-log-with-object-storage-and-multi-stripe-techniques.png"
+cover: "static/images/blog/a-deep-dive-into-corfu-a-distributed-shared-log-with-object-storage-and-multi-stripe-techniques.png"
 coverAlt: "Technical visualization representing a deep dive into corfu: a distributed shared log with object storage and multi stripe techniques"
 ---
 

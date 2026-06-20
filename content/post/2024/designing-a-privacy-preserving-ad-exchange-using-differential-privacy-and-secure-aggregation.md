@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/designing-a-privacy-preserving-ad-exchange-using-differential-privacy-and-secure-aggregation.png"
+cover: "static/images/blog/designing-a-privacy-preserving-ad-exchange-using-differential-privacy-and-secure-aggregation.png"
 coverAlt: "Technical visualization representing designing a privacy preserving ad exchange using differential privacy and secure aggregation"
 ---
 

@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["distributed-systems", "gfs", "hdfs", "colossus", "storage", "google"]
 categories: ["systems", "distributed-storage"]
 draft: false
-cover: "/static/images/blog/distributed-file-systems-gfs-hdfs-google-stack.png"
+cover: "static/images/blog/distributed-file-systems-gfs-hdfs-google-stack.png"
 coverAlt: "A stylized diagram showing the GFS architecture with a single master managing metadata and chunkservers storing 64 MB chunks, with clients reading and writing directly to chunkservers"
 ---
 

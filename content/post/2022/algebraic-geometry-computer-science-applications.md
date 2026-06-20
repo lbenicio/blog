@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["algebraic-geometry", "grobner-bases", "cryptography", "coding-theory", "elliptic-curves", "polynomial-systems"]
 categories: ["theory", "mathematics"]
 draft: false
-cover: "/static/images/blog/algebraic-geometry-computer-science-applications.png"
+cover: "static/images/blog/algebraic-geometry-computer-science-applications.png"
 coverAlt: "Diagram showing an elliptic curve over a finite field with point addition illustrated"
 ---
 

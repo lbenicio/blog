@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/a-formal-verification-of-the-ethereum-smart-contract-runtime-evm-bytecode-and-input-output-properties.png"
+cover: "static/images/blog/a-formal-verification-of-the-ethereum-smart-contract-runtime-evm-bytecode-and-input-output-properties.png"
 coverAlt: "Technical visualization representing a formal verification of the ethereum smart contract runtime: evm bytecode and input/output properties"
 ---
 

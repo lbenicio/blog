@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/Implementing-A-Thread-Pool-With-Work-Stealing-The-Cilk-Scheduler-In-C++.png"
+cover: "static/images/blog/Implementing-A-Thread-Pool-With-Work-Stealing-The-Cilk-Scheduler-In-C++.png"
 coverAlt: "Technical visualization representing implementing a thread pool with work stealing: the cilk scheduler in c++"
 ---
 

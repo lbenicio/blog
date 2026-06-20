@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/implementing-a-virtual-machine-for-a-stack-based-language-bytecode-interpreter-and-jit-compilation.png"
+cover: "static/images/blog/implementing-a-virtual-machine-for-a-stack-based-language-bytecode-interpreter-and-jit-compilation.png"
 coverAlt: "Technical visualization representing implementing a virtual machine for a stack based language: bytecode interpreter and jit compilation"
 ---
 

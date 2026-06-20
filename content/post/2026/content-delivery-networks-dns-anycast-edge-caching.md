@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["cdn", "content-delivery-network", "dns", "anycast", "edge-caching", "akamai", "cloudflare", "fastly", "peering"]
 categories: ["systems", "distributed-systems", "networking"]
 draft: false
-cover: "/static/images/blog/content-delivery-networks-dns-anycast-edge-caching.png"
+cover: "static/images/blog/content-delivery-networks-dns-anycast-edge-caching.png"
 coverAlt: "Diagram of CDN architecture showing DNS-based routing, anycast edge POPs, consistent hashing for cache distribution, and peering relationships"
 ---
 

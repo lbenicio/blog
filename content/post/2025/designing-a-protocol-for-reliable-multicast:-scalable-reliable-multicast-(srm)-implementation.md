@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/Designing-A-Protocol-For-Reliable-Multicast-Scalable-Reliable-Multicast-(srm)-Implementation.png"
+cover: "static/images/blog/Designing-A-Protocol-For-Reliable-Multicast-Scalable-Reliable-Multicast-(srm)-Implementation.png"
 coverAlt: "Technical visualization representing designing a protocol for reliable multicast: scalable reliable multicast (srm) implementation"
 ---
 

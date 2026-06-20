@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["transactional-memory", "htm", "stm", "intel-tsx", "lock-elision", "concurrency"]
 categories: ["theory", "systems"]
 draft: false
-cover: "/static/images/blog/transactional-memory-hardware-software-htm-stm.png"
+cover: "static/images/blog/transactional-memory-hardware-software-htm-stm.png"
 coverAlt: "Diagram showing transactional execution: a transaction speculatively executing critical section code, monitoring read/write sets for conflicts, and either committing or aborting and retrying."
 ---
 

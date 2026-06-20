@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/building-a-side-channel-secure-elliptic-curve-scalar-multiplication-using-montgomery-ladder.png"
+cover: "static/images/blog/building-a-side-channel-secure-elliptic-curve-scalar-multiplication-using-montgomery-ladder.png"
 coverAlt: "Technical visualization representing building a side channel secure elliptic curve scalar multiplication using montgomery ladder"
 ---
 

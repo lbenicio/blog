@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/The-Science-Of-Clock-Synchronization-Ntp,-Ptp,-And-Hybrid-Logical-Clocks-In-Distributed-Systems.png"
+cover: "static/images/blog/The-Science-Of-Clock-Synchronization-Ntp,-Ptp,-And-Hybrid-Logical-Clocks-In-Distributed-Systems.png"
 coverAlt: "Technical visualization representing the science of clock synchronization: ntp, ptp, and hybrid logical clocks in distributed systems"
 ---
 

@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/Implementing-The-Dijkstra–scholten-Algorithm-For-Termination-Detection-In-Distributed-Systems.png"
+cover: "static/images/blog/Implementing-The-Dijkstra–scholten-Algorithm-For-Termination-Detection-In-Distributed-Systems.png"
 coverAlt: "Technical visualization representing implementing the dijkstra–scholten algorithm for termination detection in distributed systems"
 ---
 

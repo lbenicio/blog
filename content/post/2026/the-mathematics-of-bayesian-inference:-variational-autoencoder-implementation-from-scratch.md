@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/The-Mathematics-Of-Bayesian-Inference-Variational-Autoencoder-Implementation-From-Scratch.png"
+cover: "static/images/blog/The-Mathematics-Of-Bayesian-Inference-Variational-Autoencoder-Implementation-From-Scratch.png"
 coverAlt: "Technical visualization representing the mathematics of bayesian inference: variational autoencoder implementation from scratch"
 ---
 

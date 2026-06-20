@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/a-rigorous-analysis-of-the-internal-hash-table-in-redis-hash-type-with-ziplist-and-dict.png"
+cover: "static/images/blog/a-rigorous-analysis-of-the-internal-hash-table-in-redis-hash-type-with-ziplist-and-dict.png"
 coverAlt: "Technical visualization representing a rigorous analysis of the internal hash table in redis: hash type with ziplist and dict"
 ---
 

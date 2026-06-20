@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/designing-a-p2p-network-for-file-sharing-bittorrent’s-choking-algorithm,-piece-selection,-and-rarest-first.png"
+cover: "static/images/blog/designing-a-p2p-network-for-file-sharing-bittorrent’s-choking-algorithm,-piece-selection,-and-rarest-first.png"
 coverAlt: "Technical visualization representing designing a p2p network for file sharing: bittorrent’s choking algorithm, piece selection, and rarest first"
 ---
 

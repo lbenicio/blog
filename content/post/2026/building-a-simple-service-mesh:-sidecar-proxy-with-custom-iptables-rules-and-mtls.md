@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/Building-A-Simple-Service-Mesh-Sidecar-Proxy-With-Custom-Iptables-Rules-And-Mtls.png"
+cover: "static/images/blog/Building-A-Simple-Service-Mesh-Sidecar-Proxy-With-Custom-Iptables-Rules-And-Mtls.png"
 coverAlt: "Technical visualization representing building a simple service mesh: sidecar proxy with custom iptables rules and mtls"
 ---
 

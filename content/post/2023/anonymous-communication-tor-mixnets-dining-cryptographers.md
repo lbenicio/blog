@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["anonymity", "tor", "mixnet", "dc-net", "traffic-analysis", "privacy"]
 categories: ["theory", "systems"]
 draft: false
-cover: "/static/images/blog/anonymous-communication-tor-mixnets-dining-cryptographers.png"
+cover: "static/images/blog/anonymous-communication-tor-mixnets-dining-cryptographers.png"
 coverAlt: "Diagram showing three anonymous communication architectures: onion routing with layered encryption, mix network with delay and reordering, and DC-net with dining cryptographers protocol."
 ---
 

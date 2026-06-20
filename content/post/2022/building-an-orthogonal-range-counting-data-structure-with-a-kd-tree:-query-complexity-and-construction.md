@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/building-an-orthogonal-range-counting-data-structure-with-a-kd-tree-query-complexity-and-construction.png"
+cover: "static/images/blog/building-an-orthogonal-range-counting-data-structure-with-a-kd-tree-query-complexity-and-construction.png"
 coverAlt: "Technical visualization representing building an orthogonal range counting data structure with a kd tree: query complexity and construction"
 ---
 

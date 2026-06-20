@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["trusted-execution", "sgx", "sev", "confidential-computing", "security", "enclaves"]
 categories: ["systems", "security"]
 draft: false
-cover: "/static/images/blog/trusted-execution-sgx-sev-confidential-computing.png"
+cover: "static/images/blog/trusted-execution-sgx-sev-confidential-computing.png"
 coverAlt: "A stylized visualization showing encrypted enclaves inside a processor, isolated from the OS, hypervisor, and other applications"
 ---
 

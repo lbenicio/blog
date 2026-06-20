@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/the-complexity-of-the-vector-clock-algorithm-for-causal-ordering-and-garbage-collection.png"
+cover: "static/images/blog/the-complexity-of-the-vector-clock-algorithm-for-causal-ordering-and-garbage-collection.png"
 coverAlt: "Technical visualization representing the complexity of the vector clock algorithm for causal ordering and garbage collection"
 ---
 

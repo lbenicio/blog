@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["optane", "3d-xpoint", "storage-class-memory", "persistent-memory", "intel", "non-volatile-memory"]
 categories: ["systems", "hardware-architecture"]
 draft: false
-cover: "/static/images/blog/storage-class-memory-optane-3dxpoint-lessons-learned.png"
+cover: "static/images/blog/storage-class-memory-optane-3dxpoint-lessons-learned.png"
 coverAlt: "Diagram showing the memory hierarchy with Optane positioned between DRAM and SSD, with latency and bandwidth annotations"
 ---
 

@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/From-Sockets-To-Epoll-Building-A-Non-Blocking-Http-Server-In-C.png"
+cover: "static/images/blog/From-Sockets-To-Epoll-Building-A-Non-Blocking-Http-Server-In-C.png"
 coverAlt: "Technical visualization representing from sockets to epoll: building a non blocking http server in c"
 ---
 

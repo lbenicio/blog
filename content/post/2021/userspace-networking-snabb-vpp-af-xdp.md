@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["networking", "dpdk", "vpp", "af_xdp", "kernel-bypass", "snabb", "packet-processing"]
 categories: ["systems", "networking"]
 draft: false
-cover: "/static/images/blog/userspace-networking-snabb-vpp-af-xdp.png"
+cover: "static/images/blog/userspace-networking-snabb-vpp-af-xdp.png"
 coverAlt: "A stylized visualization of packet flow bypassing the kernel network stack and going directly from NIC to user-space application via DMA and shared memory rings"
 ---
 

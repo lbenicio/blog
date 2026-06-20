@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/Implementing-A-Scalable-Web-Crawler-With-Distributed-Frontier-And-Politeness-Policies.png"
+cover: "static/images/blog/Implementing-A-Scalable-Web-Crawler-With-Distributed-Frontier-And-Politeness-Policies.png"
 coverAlt: "Technical visualization representing implementing a scalable web crawler with distributed frontier and politeness policies"
 ---
 

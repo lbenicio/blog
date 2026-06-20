@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/the-performance-of-asynchronous-replication-vs.-synchronous-replication-in-distributed-databases.png"
+cover: "static/images/blog/the-performance-of-asynchronous-replication-vs.-synchronous-replication-in-distributed-databases.png"
 coverAlt: "Technical visualization representing the performance of asynchronous replication vs. synchronous replication in distributed databases"
 ---
 

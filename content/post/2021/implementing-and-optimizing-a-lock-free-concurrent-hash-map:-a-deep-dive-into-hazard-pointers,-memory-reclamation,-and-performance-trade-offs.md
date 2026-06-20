@@ -2,7 +2,7 @@
 title: "Implementing And Optimizing A Lock Free Concurrent Hash Map: A Deep Dive Into Hazard Pointers, Memory Reclamation, And Performance Trade Offs"
 date: 2021-07-22
 draft: false
-cover: "/static/images/blog/implementing-and-optimizing-a-lock-free-concurrent-hash-map-a-deep-dive-into-hazard-pointers-memory-reclamation-and-performance-trade-offs.png"
+cover: "static/images/blog/implementing-and-optimizing-a-lock-free-concurrent-hash-map-a-deep-dive-into-hazard-pointers-memory-reclamation-and-performance-trade-offs.png"
 coverAlt: "Technical visualization representing implementing and optimizing a lock free concurrent hash map: a deep dive into hazard pointers, memory reclamation, and performance trade offs"
 heroImage: "/images/blog/implementing-and-optimizing-a-lock-free-concurrent-hash-map-a-deep-dive-into-hazard-pointers-memory-reclamation-and-performance-trade-offs.png"
 tags: ["technical", "computer-science"]

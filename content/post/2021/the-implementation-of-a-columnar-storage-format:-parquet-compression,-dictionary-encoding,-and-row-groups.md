@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/the-implementation-of-a-columnar-storage-format-parquet-compression,-dictionary-encoding,-and-row-groups.png"
+cover: "static/images/blog/the-implementation-of-a-columnar-storage-format-parquet-compression,-dictionary-encoding,-and-row-groups.png"
 coverAlt: "Technical visualization representing the implementation of a columnar storage format: parquet compression, dictionary encoding, and row groups"
 ---
 

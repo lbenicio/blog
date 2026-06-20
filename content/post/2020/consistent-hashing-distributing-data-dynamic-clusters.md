@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["distributed-systems", "consistent-hashing", "scalability", "load-balancing", "databases", "caching"]
 categories: ["systems", "distributed"]
 draft: false
-cover: "/static/images/blog/consistent-hashing-distributing-data-dynamic-clusters.png"
+cover: "static/images/blog/consistent-hashing-distributing-data-dynamic-clusters.png"
 coverAlt: "Abstract visualization of data being distributed across nodes in a ring topology, with hash values mapping keys to their responsible servers"
 ---
 

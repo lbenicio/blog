@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["networking", "kernel-bypass", "dpdk", "io-uring", "rdma", "performance", "linux"]
 categories: ["systems", "networking"]
 draft: false
-cover: "/static/images/blog/kernel-bypass-networking-dpdk-io-uring-rdma.png"
+cover: "static/images/blog/kernel-bypass-networking-dpdk-io-uring-rdma.png"
 coverAlt: "Layered diagram of kernel bypass architectures: DPDK poll-mode drivers on the left, io_uring shared ring buffers in the center, and RDMA queue pairs with one-sided operations on the right — all bypassing the traditional kernel network stack"
 ---
 

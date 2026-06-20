@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/the-performance-impact-of-cache-line-padding-in-concurrent-queues-on-numa-architectures.png"
+cover: "static/images/blog/the-performance-impact-of-cache-line-padding-in-concurrent-queues-on-numa-architectures.png"
 coverAlt: "Technical visualization representing the performance impact of cache line padding in concurrent queues on numa architectures"
 ---
 

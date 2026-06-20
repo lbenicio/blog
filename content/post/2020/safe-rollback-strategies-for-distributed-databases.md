@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["databases", "distributed-systems", "rollback", "sre", "resilience", "observability"]
 categories: ["engineering", "operations"]
 draft: false
-cover: "/static/images/blog/safe-rollback-strategies-for-distributed-databases.png"
+cover: "static/images/blog/safe-rollback-strategies-for-distributed-databases.png"
 coverAlt: "Engineers orchestrating a distributed database rollback with dashboards and playbooks"
 ---
 

@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/Designing-A-Consistent-Hashing-Ring-With-Virtual-Nodes-For-Load-Balancing.png"
+cover: "static/images/blog/Designing-A-Consistent-Hashing-Ring-With-Virtual-Nodes-For-Load-Balancing.png"
 coverAlt: "Technical visualization representing designing a consistent hashing ring with virtual nodes for load balancing"
 ---
 

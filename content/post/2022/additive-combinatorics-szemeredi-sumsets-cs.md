@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["additive-combinatorics", "szemeredi", "sumsets", "property-testing", "pseudorandomness", "graph-theory"]
 categories: ["theory", "mathematics"]
 draft: false
-cover: "/static/images/blog/additive-combinatorics-szemeredi-sumsets-cs.png"
+cover: "static/images/blog/additive-combinatorics-szemeredi-sumsets-cs.png"
 coverAlt: "Diagram illustrating sumset addition A+A in the integers and the Freiman-Ruzsa structure theorem"
 ---
 

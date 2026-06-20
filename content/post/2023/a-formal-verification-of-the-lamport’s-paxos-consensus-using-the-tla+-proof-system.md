@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/a-formal-verification-of-the-lamport’s-paxos-consensus-using-the-tla+-proof-system.png"
+cover: "static/images/blog/a-formal-verification-of-the-lamport’s-paxos-consensus-using-the-tla+-proof-system.png"
 coverAlt: "Technical visualization representing a formal verification of the lamport’s paxos consensus using the tla+ proof system"
 ---
 

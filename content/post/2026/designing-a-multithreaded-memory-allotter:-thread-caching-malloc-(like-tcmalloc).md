@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/Designing-A-Multithreaded-Memory-Allotter-Thread-Caching-Malloc-(like-Tcmalloc).png"
+cover: "static/images/blog/Designing-A-Multithreaded-Memory-Allotter-Thread-Caching-Malloc-(like-Tcmalloc).png"
 coverAlt: "Technical visualization representing designing a multithreaded memory allotter: thread caching malloc (like tcmalloc)"
 ---
 

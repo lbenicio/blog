@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/analyzing-the-performance-of-two-phase-commit-(2pc)-and-three-phase-commit-(3pc)-in-geo-distributed-systems.png"
+cover: "static/images/blog/analyzing-the-performance-of-two-phase-commit-(2pc)-and-three-phase-commit-(3pc)-in-geo-distributed-systems.png"
 coverAlt: "Technical visualization representing analyzing the performance of two phase commit (2pc) and three phase commit (3pc) in geo distributed systems"
 ---
 

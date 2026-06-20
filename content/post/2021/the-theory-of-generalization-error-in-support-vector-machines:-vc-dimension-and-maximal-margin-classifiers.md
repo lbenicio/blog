@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/the-theory-of-generalization-error-in-support-vector-machines-vc-dimension-and-maximal-margin-classifiers.png"
+cover: "static/images/blog/the-theory-of-generalization-error-in-support-vector-machines-vc-dimension-and-maximal-margin-classifiers.png"
 coverAlt: "Technical visualization representing the theory of generalization error in support vector machines: vc dimension and maximal margin classifiers"
 ---
 

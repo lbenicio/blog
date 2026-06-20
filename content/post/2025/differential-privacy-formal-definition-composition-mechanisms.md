@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["differential-privacy", "privacy", "formal-methods", "statistics", "data-systems", "security"]
 categories: ["theory", "systems"]
 draft: false
-cover: "/static/images/blog/differential-privacy-formal-definition-composition-mechanisms.png"
+cover: "static/images/blog/differential-privacy-formal-definition-composition-mechanisms.png"
 coverAlt: "Abstract visualization of two neighboring datasets separated by one individual, with overlapping probability distributions representing the privacy guarantee"
 ---
 

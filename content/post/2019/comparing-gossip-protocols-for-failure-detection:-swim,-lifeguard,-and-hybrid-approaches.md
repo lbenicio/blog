@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/comparing-gossip-protocols-for-failure-detection-swim,-lifeguard,-and-hybrid-approaches.png"
+cover: "static/images/blog/comparing-gossip-protocols-for-failure-detection-swim,-lifeguard,-and-hybrid-approaches.png"
 coverAlt: "Technical visualization representing comparing gossip protocols for failure detection: swim, lifeguard, and hybrid approaches"
 ---
 

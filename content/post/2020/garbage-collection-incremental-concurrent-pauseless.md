@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["garbage-collection", "gc", "zgc", "azul-c4", "shenandoah", "snapshot-at-the-beginning", "java"]
 categories: ["systems", "memory-management"]
 draft: false
-cover: "/static/images/blog/garbage-collection-incremental-concurrent-pauseless.png"
+cover: "static/images/blog/garbage-collection-incremental-concurrent-pauseless.png"
 coverAlt: "A stylized diagram showing concurrent GC threads running alongside application threads, with colored pointers marking object states through the collection cycle"
 ---
 

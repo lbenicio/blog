@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/Designing-A-Distributed-Counter-With-Strong-Consistency-Using-Paxos-(single-Slot).png"
+cover: "static/images/blog/Designing-A-Distributed-Counter-With-Strong-Consistency-Using-Paxos-(single-Slot).png"
 coverAlt: "Technical visualization representing designing a distributed counter with strong consistency using paxos (single slot)"
 ---
 

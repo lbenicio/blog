@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/the-performance-of-integer-linear-programming-solvers-branch-and-bound-vs.-cutting-planes-for-real-world-problems.png"
+cover: "static/images/blog/the-performance-of-integer-linear-programming-solvers-branch-and-bound-vs.-cutting-planes-for-real-world-problems.png"
 coverAlt: "Technical visualization representing the performance of integer linear programming solvers: branch and bound vs. cutting planes for real world problems"
 ---
 

@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["cpu", "microarchitecture", "pipelines", "branch-prediction", "out-of-order", "simd", "performance"]
 categories: ["fundamentals", "systems"]
 draft: false
-cover: "/static/images/blog/cpu-microarchitecture-pipelines-branch-prediction.png"
+cover: "static/images/blog/cpu-microarchitecture-pipelines-branch-prediction.png"
 coverAlt: "Cutaway of a CPU pipeline with fetch, decode, rename, issue, execute, and retire stages, showing branch predictor and reorder buffer"
 ---
 

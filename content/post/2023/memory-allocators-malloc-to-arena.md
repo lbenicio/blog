@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["memory", "allocators", "malloc", "performance", "systems", "arena", "jemalloc"]
 categories: ["systems", "performance"]
 draft: false
-cover: "/static/images/blog/memory-allocators-malloc-to-arena.png"
+cover: "static/images/blog/memory-allocators-malloc-to-arena.png"
 coverAlt: "Abstract visualization of memory blocks being allocated and freed in various patterns, with arenas shown as organized regions and fragmentation depicted as scattered puzzle pieces"
 ---
 

@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["homotopy-type-theory", "univalence", "type-theory", "homotopy", "infinity-groupoids", "martin-lof"]
 categories: ["theory", "mathematics"]
 draft: false
-cover: "/static/images/blog/homotopy-type-theory-univalent-foundations.png"
+cover: "static/images/blog/homotopy-type-theory-univalent-foundations.png"
 coverAlt: "Diagram showing the correspondence between types, spaces, and ∞-groupoids in homotopy type theory"
 ---
 

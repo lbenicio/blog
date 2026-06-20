@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/designing-an-online-learning-algorithm-for-adversarial-bandits-exp3,-follow-the-regularized-leader.png"
+cover: "static/images/blog/designing-an-online-learning-algorithm-for-adversarial-bandits-exp3,-follow-the-regularized-leader.png"
 coverAlt: "Technical visualization representing designing an online learning algorithm for adversarial bandits: exp3, follow the regularized leader"
 ---
 

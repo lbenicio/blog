@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/Implementing-A-Binary-Indexed-Tree-(fenwick-Tree)-With-Range-Updates-And-Range-Queries.png"
+cover: "static/images/blog/Implementing-A-Binary-Indexed-Tree-(fenwick-Tree)-With-Range-Updates-And-Range-Queries.png"
 coverAlt: "Technical visualization representing implementing a binary indexed tree (fenwick tree) with range updates and range queries"
 ---
 

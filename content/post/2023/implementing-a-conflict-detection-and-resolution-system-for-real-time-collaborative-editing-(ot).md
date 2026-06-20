@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/implementing-a-conflict-detection-and-resolution-system-for-real-time-collaborative-editing-(ot).png"
+cover: "static/images/blog/implementing-a-conflict-detection-and-resolution-system-for-real-time-collaborative-editing-(ot).png"
 coverAlt: "Technical visualization representing implementing a conflict detection and resolution system for real time collaborative editing (ot)"
 ---
 

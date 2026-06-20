@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/implementing-a-distributed-transactional-key-value-store-with-optimistic-concurrency-control.png"
+cover: "static/images/blog/implementing-a-distributed-transactional-key-value-store-with-optimistic-concurrency-control.png"
 coverAlt: "Technical visualization representing implementing a distributed transactional key value store with optimistic concurrency control"
 ---
 

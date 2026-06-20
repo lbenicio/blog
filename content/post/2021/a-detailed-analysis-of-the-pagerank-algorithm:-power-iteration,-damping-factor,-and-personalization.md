@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/a-detailed-analysis-of-the-pagerank-algorithm-power-iteration,-damping-factor,-and-personalization.png"
+cover: "static/images/blog/a-detailed-analysis-of-the-pagerank-algorithm-power-iteration,-damping-factor,-and-personalization.png"
 coverAlt: "Technical visualization representing a detailed analysis of the pagerank algorithm: power iteration, damping factor, and personalization"
 ---
 

@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/the-complexity-of-lattice-reduction-for-lwe-basis-reduction-algorithms-bkz-and-g6k.png"
+cover: "static/images/blog/the-complexity-of-lattice-reduction-for-lwe-basis-reduction-algorithms-bkz-and-g6k.png"
 coverAlt: "Technical visualization representing the complexity of lattice reduction for lwe: basis reduction algorithms bkz and g6k"
 ---
 

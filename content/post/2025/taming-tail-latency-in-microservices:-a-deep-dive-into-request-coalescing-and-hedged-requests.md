@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/Taming-Tail-Latency-In-Microservices-A-Deep-Dive-Into-Request-Coalescing-And-Hedged-Requests.png"
+cover: "static/images/blog/Taming-Tail-Latency-In-Microservices-A-Deep-Dive-Into-Request-Coalescing-And-Hedged-Requests.png"
 coverAlt: "Technical visualization representing taming tail latency in microservices: a deep dive into request coalescing and hedged requests"
 ---
 

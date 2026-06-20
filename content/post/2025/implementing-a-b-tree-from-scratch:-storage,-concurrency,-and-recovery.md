@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/Implementing-A-B-Tree-From-Scratch-Storage,-Concurrency,-And-Recovery.png"
+cover: "static/images/blog/Implementing-A-B-Tree-From-Scratch-Storage,-Concurrency,-And-Recovery.png"
 coverAlt: "Technical visualization representing implementing a b tree from scratch: storage, concurrency, and recovery"
 ---
 

@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/the-implementation-of-a-multi-leader-replication-system-conflict-avoidance-with-linked-lists-and-last-writer-wins.png"
+cover: "static/images/blog/the-implementation-of-a-multi-leader-replication-system-conflict-avoidance-with-linked-lists-and-last-writer-wins.png"
 coverAlt: "Technical visualization representing the implementation of a multi leader replication system: conflict avoidance with linked lists and last writer wins"
 ---
 

@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/designing-a-p2p-live-streaming-system-with-tree-based-and-mesh-based-overlays.png"
+cover: "static/images/blog/designing-a-p2p-live-streaming-system-with-tree-based-and-mesh-based-overlays.png"
 coverAlt: "Technical visualization representing designing a p2p live streaming system with tree based and mesh based overlays"
 ---
 

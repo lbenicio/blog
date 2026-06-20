@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/Building-A-Custom-Profiling-Tool-With-Linux-Perf-Events-And-Ebpf.png"
+cover: "static/images/blog/Building-A-Custom-Profiling-Tool-With-Linux-Perf-Events-And-Ebpf.png"
 coverAlt: "Technical visualization representing building a custom profiling tool with linux perf events and ebpf"
 ---
 

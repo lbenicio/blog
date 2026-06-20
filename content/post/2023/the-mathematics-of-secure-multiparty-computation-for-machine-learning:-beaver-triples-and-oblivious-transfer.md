@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/the-mathematics-of-secure-multiparty-computation-for-machine-learning-beaver-triples-and-oblivious-transfer.png"
+cover: "static/images/blog/the-mathematics-of-secure-multiparty-computation-for-machine-learning-beaver-triples-and-oblivious-transfer.png"
 coverAlt: "Technical visualization representing the mathematics of secure multiparty computation for machine learning: beaver triples and oblivious transfer"
 ---
 

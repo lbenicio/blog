@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/implementing-a-lock-free-memory-pool-with-epoch-based-reclamation-for-hazard-pointer-mitigation.png"
+cover: "static/images/blog/implementing-a-lock-free-memory-pool-with-epoch-based-reclamation-for-hazard-pointer-mitigation.png"
 coverAlt: "Technical visualization representing implementing a lock free memory pool with epoch based reclamation for hazard pointer mitigation"
 ---
 

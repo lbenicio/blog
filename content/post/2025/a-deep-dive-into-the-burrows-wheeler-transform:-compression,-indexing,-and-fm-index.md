@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/A-Deep-Dive-Into-The-Burrows-Wheeler-Transform-Compression,-Indexing,-And-Fm-Index.png"
+cover: "static/images/blog/A-Deep-Dive-Into-The-Burrows-Wheeler-Transform-Compression,-Indexing,-And-Fm-Index.png"
 coverAlt: "Technical visualization representing a deep dive into the burrows wheeler transform: compression, indexing, and fm index"
 ---
 

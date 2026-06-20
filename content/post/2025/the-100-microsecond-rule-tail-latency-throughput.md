@@ -6,7 +6,7 @@ tags: ["latency", "distributed-systems", "performance", "queuing-theory", "tail-
 categories: ["Engineering"]
 draft: false
 # Optional: where your hero image would live if you add one
-cover: "/static/images/blog/the-100-microsecond-rule-tail-latency-throughput.png"
+cover: "static/images/blog/the-100-microsecond-rule-tail-latency-throughput.png"
 coverAlt: "Abstract network with one blazing red path among many cool-toned lines—visualizing tail latency dominating the flow"
 ---
 

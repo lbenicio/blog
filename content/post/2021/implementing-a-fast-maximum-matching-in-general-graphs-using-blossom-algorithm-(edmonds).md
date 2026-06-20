@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/implementing-a-fast-maximum-matching-in-general-graphs-using-blossom-algorithm-(edmonds).png"
+cover: "static/images/blog/implementing-a-fast-maximum-matching-in-general-graphs-using-blossom-algorithm-(edmonds).png"
 coverAlt: "Technical visualization representing implementing a fast maximum matching in general graphs using blossom algorithm (edmonds)"
 ---
 

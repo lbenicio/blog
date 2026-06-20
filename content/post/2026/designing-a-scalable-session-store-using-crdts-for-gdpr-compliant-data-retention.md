@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/Designing-A-Scalable-Session-Store-Using-Crdts-For-Gdpr-Compliant-Data-Retention.png"
+cover: "static/images/blog/Designing-A-Scalable-Session-Store-Using-Crdts-For-Gdpr-Compliant-Data-Retention.png"
 coverAlt: "Technical visualization representing designing a scalable session store using crdts for gdpr compliant data retention"
 ---
 

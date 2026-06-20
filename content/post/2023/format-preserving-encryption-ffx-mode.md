@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["format-preserving-encryption", "fpe", "ffx", "feistel", "tokenization", "cryptography"]
 categories: ["theory", "systems"]
 draft: false
-cover: "/static/images/blog/format-preserving-encryption-ffx-mode.png"
+cover: "static/images/blog/format-preserving-encryption-ffx-mode.png"
 coverAlt: "Diagram of format-preserving encryption showing a plaintext credit card number being encrypted to a ciphertext of identical format through a Feistel network."
 ---
 

@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["linear-programming", "simplex", "duality", "interior-point", "karmarkar", "optimization"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/linear-programming-simplex-duality-interior-point.png"
+cover: "static/images/blog/linear-programming-simplex-duality-interior-point.png"
 coverAlt: "A 3D polytope with a highlighted path along edges representing simplex pivots, and a central path curving through the interior"
 ---
 

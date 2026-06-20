@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/implementing-a-persistent-memory-log-with-concurrency-and-fault-recovery-across-system-crashes.png"
+cover: "static/images/blog/implementing-a-persistent-memory-log-with-concurrency-and-fault-recovery-across-system-crashes.png"
 coverAlt: "Technical visualization representing implementing a persistent memory log with concurrency and fault recovery across system crashes"
 ---
 

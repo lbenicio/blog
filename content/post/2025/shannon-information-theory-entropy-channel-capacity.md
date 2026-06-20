@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["information-theory", "shannon", "entropy", "compression", "coding-theory", "mathematics"]
 categories: ["theory", "mathematics"]
 draft: false
-cover: "/static/images/blog/shannon-information-theory-entropy-channel-capacity.png"
+cover: "static/images/blog/shannon-information-theory-entropy-channel-capacity.png"
 coverAlt: "A visual journey through Shannon's 1948 paper: entropy curves, a binary symmetric channel diagram, a noisy-channel coding theorem illustration with spheres in Hamming space, and a Shannon-Hartley capacity plot"
 ---
 

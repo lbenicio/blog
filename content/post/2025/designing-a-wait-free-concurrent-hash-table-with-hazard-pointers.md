@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/Designing-A-Wait-Free-Concurrent-Hash-Table-With-Hazard-Pointers.png"
+cover: "static/images/blog/Designing-A-Wait-Free-Concurrent-Hash-Table-With-Hazard-Pointers.png"
 coverAlt: "Technical visualization representing designing a wait free concurrent hash table with hazard pointers"
 ---
 

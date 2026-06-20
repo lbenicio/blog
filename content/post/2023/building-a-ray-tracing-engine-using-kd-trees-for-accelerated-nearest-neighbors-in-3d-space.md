@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/building-a-ray-tracing-engine-using-kd-trees-for-accelerated-nearest-neighbors-in-3d-space.png"
+cover: "static/images/blog/building-a-ray-tracing-engine-using-kd-trees-for-accelerated-nearest-neighbors-in-3d-space.png"
 coverAlt: "Technical visualization representing building a ray tracing engine using kd trees for accelerated nearest neighbors in 3d space"
 ---
 

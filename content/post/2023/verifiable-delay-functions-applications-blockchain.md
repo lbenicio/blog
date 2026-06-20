@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["vdf", "verifiable-delay-functions", "randomness", "blockchain", "sequential-computation"]
 categories: ["theory", "systems"]
 draft: false
-cover: "/static/images/blog/verifiable-delay-functions-applications-blockchain.png"
+cover: "static/images/blog/verifiable-delay-functions-applications-blockchain.png"
 coverAlt: "Diagram of a verifiable delay function showing input x going through repeated squaring in a group of unknown order, producing output y and a proof π."
 ---
 

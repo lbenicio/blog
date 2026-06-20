@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/building-a-just-in-time-compiler-for-regular-expressions-thompson’s-construction-and-dfa-minimization.png"
+cover: "static/images/blog/building-a-just-in-time-compiler-for-regular-expressions-thompson’s-construction-and-dfa-minimization.png"
 coverAlt: "Technical visualization representing building a just in time compiler for regular expressions: thompson’s construction and dfa minimization"
 ---
 

@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/Implementing-A-Distributed-Grep-Mapreduce-And-Hadoop-From-Scratch.png"
+cover: "static/images/blog/Implementing-A-Distributed-Grep-Mapreduce-And-Hadoop-From-Scratch.png"
 coverAlt: "Technical visualization representing implementing a distributed grep: mapreduce and hadoop from scratch"
 ---
 

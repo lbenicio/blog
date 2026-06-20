@@ -5,7 +5,7 @@ date: "2024-06-15"
 author: "Leonardo Benicio"
 tags: ["parallelism", "scalability", "speedup", "hpc"]
 categories: ["theory", "performance"]
-cover: "/static/images/blog/amdahl-vs-gustafson-law.png"
+cover: "static/images/blog/amdahl-vs-gustafson-law.png"
 ---
 
 Amdahl’s Law and Gustafson’s Law are often presented as opposites, but they model different scenarios.

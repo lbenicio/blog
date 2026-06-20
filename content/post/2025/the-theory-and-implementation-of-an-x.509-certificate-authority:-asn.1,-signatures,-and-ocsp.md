@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/The-Theory-And-Implementation-Of-An-X.509-Certificate-Authority-Asn.1,-Signatures,-And-Ocsp.png"
+cover: "static/images/blog/The-Theory-And-Implementation-Of-An-X.509-Certificate-Authority-Asn.1,-Signatures,-And-Ocsp.png"
 coverAlt: "Technical visualization representing the theory and implementation of an x.509 certificate authority: asn.1, signatures, and ocsp"
 ---
 

@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["p2p", "bittorrent", "ipfs", "merkle-dag", "content-addressing", "dht", "decentralized-web", "libp2p"]
 categories: ["systems", "distributed-systems"]
 draft: false
-cover: "/static/images/blog/p2p-networks-bittorrent-ipfs-dht-revolution.png"
+cover: "static/images/blog/p2p-networks-bittorrent-ipfs-dht-revolution.png"
 coverAlt: "Diagram showing BitTorrent's tit-for-tat peer selection and IPFS's Merkle DAG content addressing with Kademlia DHT routing"
 ---
 

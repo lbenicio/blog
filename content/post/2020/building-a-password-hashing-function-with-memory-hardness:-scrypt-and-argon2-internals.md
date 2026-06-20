@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/building-a-password-hashing-function-with-memory-hardness-scrypt-and-argon2-internals.png"
+cover: "static/images/blog/building-a-password-hashing-function-with-memory-hardness-scrypt-and-argon2-internals.png"
 coverAlt: "Technical visualization representing building a password hashing function with memory hardness: scrypt and argon2 internals"
 ---
 

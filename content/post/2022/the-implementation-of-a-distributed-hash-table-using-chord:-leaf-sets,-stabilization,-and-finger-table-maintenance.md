@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/the-implementation-of-a-distributed-hash-table-using-chord-leaf-sets,-stabilization,-and-finger-table-maintenance.png"
+cover: "static/images/blog/the-implementation-of-a-distributed-hash-table-using-chord-leaf-sets,-stabilization,-and-finger-table-maintenance.png"
 coverAlt: "Technical visualization representing the implementation of a distributed hash table using chord: leaf sets, stabilization, and finger table maintenance"
 ---
 

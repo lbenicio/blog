@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/Designing-A-Self-Adjusting-Binary-Search-Tree-(splay-Tree)-With-Amortized-Analysis.png"
+cover: "static/images/blog/Designing-A-Self-Adjusting-Binary-Search-Tree-(splay-Tree)-With-Amortized-Analysis.png"
 coverAlt: "Technical visualization representing designing a self adjusting binary search tree (splay tree) with amortized analysis"
 ---
 

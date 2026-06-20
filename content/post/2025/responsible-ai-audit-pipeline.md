@@ -5,7 +5,7 @@ description: "How we operationalized responsible AI with automated audits, gover
 tags: ["ai", "ethics", "governance", "mlops", "compliance"]
 categories: ["Engineering"]
 draft: false
-cover: "/static/images/blog/responsible-ai-audit-pipeline.png"
+cover: "static/images/blog/responsible-ai-audit-pipeline.png"
 coverAlt: "Scales balancing code and ethical guardrails"
 ---
 

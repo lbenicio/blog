@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["spectre", "meltdown", "transient-execution", "microarchitecture", "side-channels", "speculative-execution"]
 categories: ["theory", "systems"]
 draft: false
-cover: "/static/images/blog/microarchitectural-attacks-spectre-meltdown-transient-execution.png"
+cover: "static/images/blog/microarchitectural-attacks-spectre-meltdown-transient-execution.png"
 coverAlt: "Diagram of a CPU pipeline showing speculative execution branching past a bounds check, accessing secret data, and leaking it through the cache state visible to an attacker."
 ---
 

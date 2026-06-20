@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["smart-contracts", "security", "reentrancy", "front-running", "formal-verification", "ethereum"]
 categories: ["theory", "systems"]
 draft: false
-cover: "/static/images/blog/smart-contract-security-reentrancy-frontrunning-formal-verification.png"
+cover: "static/images/blog/smart-contract-security-reentrancy-frontrunning-formal-verification.png"
 coverAlt: "Diagram showing an attacker exploiting a reentrancy vulnerability in a smart contract, with the call stack and state changes illustrated, overlaid with Certora verification rules."
 ---
 

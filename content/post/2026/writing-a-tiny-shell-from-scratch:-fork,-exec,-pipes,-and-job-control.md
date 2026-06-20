@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/Writing-A-Tiny-Shell-From-Scratch-Fork,-Exec,-Pipes,-And-Job-Control.png"
+cover: "static/images/blog/Writing-A-Tiny-Shell-From-Scratch-Fork,-Exec,-Pipes,-And-Job-Control.png"
 coverAlt: "Technical visualization representing writing a tiny shell from scratch: fork, exec, pipes, and job control"
 ---
 

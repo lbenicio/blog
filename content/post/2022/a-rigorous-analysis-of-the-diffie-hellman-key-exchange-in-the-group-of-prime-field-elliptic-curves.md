@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/a-rigorous-analysis-of-the-diffie-hellman-key-exchange-in-the-group-of-prime-field-elliptic-curves.png"
+cover: "static/images/blog/a-rigorous-analysis-of-the-diffie-hellman-key-exchange-in-the-group-of-prime-field-elliptic-curves.png"
 coverAlt: "Technical visualization representing a rigorous analysis of the diffie hellman key exchange in the group of prime field elliptic curves"
 ---
 

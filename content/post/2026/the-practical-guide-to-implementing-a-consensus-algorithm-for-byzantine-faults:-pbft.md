@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/The-Practical-Guide-To-Implementing-A-Consensus-Algorithm-For-Byzantine-Faults-Pbft.png"
+cover: "static/images/blog/The-Practical-Guide-To-Implementing-A-Consensus-Algorithm-For-Byzantine-Faults-Pbft.png"
 coverAlt: "Technical visualization representing the practical guide to implementing a consensus algorithm for byzantine faults: pbft"
 ---
 

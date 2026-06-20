@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["matroids", "greedy-algorithms", "matroid-intersection", "spanning-trees", "matching"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/matroid-theory-greedy-algorithms-intersection.png"
+cover: "static/images/blog/matroid-theory-greedy-algorithms-intersection.png"
 coverAlt: "A geometric representation of a matroid with independent sets forming a simplicial complex"
 ---
 

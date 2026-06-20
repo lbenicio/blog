@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/Implementing-The-Spectral-Graph-Partitioning-Algorithm-Fiedler-Vector-And-K-Means.png"
+cover: "static/images/blog/Implementing-The-Spectral-Graph-Partitioning-Algorithm-Fiedler-Vector-And-K-Means.png"
 coverAlt: "Technical visualization representing implementing the spectral graph partitioning algorithm: fiedler vector and k means"
 ---
 

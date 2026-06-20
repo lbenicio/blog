@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/the-design-of-a-probabilistic-skip-list-with-path-compression-and-concurrency-support.png"
+cover: "static/images/blog/the-design-of-a-probabilistic-skip-list-with-path-compression-and-concurrency-support.png"
 coverAlt: "Technical visualization representing the design of a probabilistic skip list with path compression and concurrency support"
 ---
 

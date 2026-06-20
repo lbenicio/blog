@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/the-performance-of-bit-packed-data-structures-vs.-classic-arrays-in-high-performance-computing.png"
+cover: "static/images/blog/the-performance-of-bit-packed-data-structures-vs.-classic-arrays-in-high-performance-computing.png"
 coverAlt: "Technical visualization representing the performance of bit packed data structures vs. classic arrays in high performance computing"
 ---
 

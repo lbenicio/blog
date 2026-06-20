@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/Building-A-Distributed-Graph-Processing-Engine-Pregel-Model-And-Superstep-Implementation.png"
+cover: "static/images/blog/Building-A-Distributed-Graph-Processing-Engine-Pregel-Model-And-Superstep-Implementation.png"
 coverAlt: "Technical visualization representing building a distributed graph processing engine: pregel model and superstep implementation"
 ---
 

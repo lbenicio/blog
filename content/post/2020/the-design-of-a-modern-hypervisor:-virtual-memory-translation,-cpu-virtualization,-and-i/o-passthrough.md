@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/the-design-of-a-modern-hypervisor-virtual-memory-translation-cpu-virtualization-and-io-passthrough.png"
+cover: "static/images/blog/the-design-of-a-modern-hypervisor-virtual-memory-translation-cpu-virtualization-and-io-passthrough.png"
 coverAlt: "Technical visualization representing the design of a modern hypervisor: virtual memory translation, cpu virtualization, and i/o passthrough"
 ---
 

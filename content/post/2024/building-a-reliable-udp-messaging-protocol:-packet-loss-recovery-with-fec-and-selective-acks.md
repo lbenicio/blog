@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/building-a-reliable-udp-messaging-protocol-packet-loss-recovery-with-fec-and-selective-acks.png"
+cover: "static/images/blog/building-a-reliable-udp-messaging-protocol-packet-loss-recovery-with-fec-and-selective-acks.png"
 coverAlt: "Technical visualization representing building a reliable udp messaging protocol: packet loss recovery with fec and selective acks"
 ---
 

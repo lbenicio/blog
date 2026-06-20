@@ -5,7 +5,7 @@ description: "What fast‑commit and PreVote actually change in Raft, how they a
 tags: ["distributed-systems", "raft", "consensus", "availability"]
 categories: ["Engineering"]
 draft: false
-cover: "/static/images/blog/raft-fast-commit-and-pre-vote-in-practice.png"
+cover: "static/images/blog/raft-fast-commit-and-pre-vote-in-practice.png"
 coverAlt: "Raft timeline showing PreVote rounds and a shortened commit path"
 ---
 

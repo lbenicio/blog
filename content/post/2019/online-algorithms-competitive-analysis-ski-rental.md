@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["online-algorithms", "competitive-analysis", "ski-rental", "paging", "k-server", "primal-dual"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/online-algorithms-competitive-analysis-ski-rental.png"
+cover: "static/images/blog/online-algorithms-competitive-analysis-ski-rental.png"
 coverAlt: "A fork in a road with uncertainty ahead, representing the online decision-making paradigm"
 ---
 

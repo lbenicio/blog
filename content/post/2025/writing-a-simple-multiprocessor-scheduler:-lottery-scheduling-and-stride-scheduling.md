@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/Writing-A-Simple-Multiprocessor-Scheduler-Lottery-Scheduling-And-Stride-Scheduling.png"
+cover: "static/images/blog/Writing-A-Simple-Multiprocessor-Scheduler-Lottery-Scheduling-And-Stride-Scheduling.png"
 coverAlt: "Technical visualization representing writing a simple multiprocessor scheduler: lottery scheduling and stride scheduling"
 ---
 

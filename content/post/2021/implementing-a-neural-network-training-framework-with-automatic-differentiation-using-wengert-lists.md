@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/implementing-a-neural-network-training-framework-with-automatic-differentiation-using-wengert-lists.png"
+cover: "static/images/blog/implementing-a-neural-network-training-framework-with-automatic-differentiation-using-wengert-lists.png"
 coverAlt: "Technical visualization representing implementing a neural network training framework with automatic differentiation using wengert lists"
 ---
 

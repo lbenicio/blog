@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/Implementing-A-Custom-Wave-Function-Collapse-Algorithm-For-Procedural-Generation.png"
+cover: "static/images/blog/Implementing-A-Custom-Wave-Function-Collapse-Algorithm-For-Procedural-Generation.png"
 coverAlt: "Technical visualization representing implementing a custom wave function collapse algorithm for procedural generation"
 ---
 

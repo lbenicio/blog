@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["cpu", "cache", "memory", "performance", "hardware", "systems"]
 categories: ["systems", "hardware"]
 draft: false
-cover: "/static/images/blog/cpu-caches-coherence-memory-hierarchy.png"
+cover: "static/images/blog/cpu-caches-coherence-memory-hierarchy.png"
 coverAlt: "Layered visualization of CPU cache hierarchy from L1 through L3 to main memory, showing data flow and cache line transfers between levels"
 ---
 

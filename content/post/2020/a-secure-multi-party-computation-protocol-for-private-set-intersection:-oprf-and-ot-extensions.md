@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/a-secure-multi-party-computation-protocol-for-private-set-intersection-oprf-and-ot-extensions.png"
+cover: "static/images/blog/a-secure-multi-party-computation-protocol-for-private-set-intersection-oprf-and-ot-extensions.png"
 coverAlt: "Technical visualization representing a secure multi party computation protocol for private set intersection: oprf and ot extensions"
 ---
 

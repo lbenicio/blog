@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["np-completeness", "cook-levin", "reductions", "computational-complexity", "p-vs-np", "sat"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/np-completeness-cook-levin-theorem-reductions.png"
+cover: "static/images/blog/np-completeness-cook-levin-theorem-reductions.png"
 coverAlt: "A diagram showing the NP-complete class with SAT at the center and arrows representing polynomial reductions to surrounding problems"
 ---
 

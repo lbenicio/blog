@@ -5,7 +5,7 @@ description: "How we rebuilt our telemetry pipeline to respect user privacy with
 tags: ["privacy", "telemetry", "observability", "data-engineering", "compliance"]
 categories: ["Engineering"]
 draft: false
-cover: "/static/images/blog/privacy-preserving-telemetry-at-scale.png"
+cover: "static/images/blog/privacy-preserving-telemetry-at-scale.png"
 coverAlt: "Telemetry signals flowing through privacy filters"
 ---
 

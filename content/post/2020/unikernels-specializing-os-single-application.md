@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["unikernel", "mirageos", "includeos", "operating-systems", "virtualization", "performance"]
 categories: ["systems", "operating-systems"]
 draft: false
-cover: "/static/images/blog/unikernels-specializing-os-single-application.png"
+cover: "static/images/blog/unikernels-specializing-os-single-application.png"
 coverAlt: "A stylized visualization contrasting the traditional OS stack with a unikernel's single-address-space compiled binary running directly on a hypervisor"
 ---
 

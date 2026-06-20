@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "/static/images/blog/the-complexity-of-the-network-simplex-algorithm-for-minimum-cost-flow.png"
+cover: "static/images/blog/the-complexity-of-the-network-simplex-algorithm-for-minimum-cost-flow.png"
 coverAlt: "Technical visualization representing the complexity of the network simplex algorithm for minimum cost flow"
 ---
 

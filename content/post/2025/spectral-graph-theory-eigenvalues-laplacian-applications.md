@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["spectral-graph-theory", "eigenvalues", "laplacian", "graph-algorithms", "clustering", "random-walks"]
 categories: ["theory", "mathematics"]
 draft: false
-cover: "/static/images/blog/spectral-graph-theory-eigenvalues-laplacian-applications.png"
+cover: "static/images/blog/spectral-graph-theory-eigenvalues-laplacian-applications.png"
 coverAlt: "Visualization of a graph's Laplacian eigenvalues plotted as a spectrum, with the Fiedler vector partitioning shown on the graph"
 ---
 
