@@ -1,6 +1,6 @@
 title = "Leonardo Benicio"
 theme = "github.com/lbenicio/aboutme-v2-theme"
-baseURL = "https://lbenicio.dev/"
+baseURL = "https://lbenicio.github.io/blog/"
 locale = "en-us"
 resourceDir = "resources"
 
@@ -33,12 +33,10 @@ filename = "sitemap.xml"
 
 [permalinks]
 post = "/post/:year/:month/:day/:slug/"
-publications = "/publication/:slug/"
-reading = "/artifact/:slug/"
 
 [params]
 author = "Leonardo Benicio"
-description = "About me, writing, and publications"
+description = "Posts, notes, and articles."
 showReadingTime = true
 
 # Social handlers (global defaults; overridable per-page via front matter)
@@ -47,24 +45,18 @@ linkedinHandler = "leonardo-benicio"
 twitterHandler = "lbenicio_"
 
 # Site
-siteUrl = "https://lbenicio.dev"
-appMode = "ABOUT_ONLY"
+siteUrl = "https://lbenicio.github.io"
+appMode = "BLOG_ONLY"
 aboutOrigin = "https://lbenicio.dev"
 blogOrigin = "https://lbenicio.github.io/blog"
 
 # Umami analytics
-umamiWebsiteId = "c3cde340-7e81-480f-a38a-dc20a57081fa"
+umamiBlogId = "c3cde340-7e81-480f-a38a-dc20a57081fa"
 umamiScriptUrl = "https://analytics.4686189.xyz/script.js"
-
-# Newsletter
-newsletterPostUrl = "https://mail.4686189.xyz/subscription/form"
-newsletterCheckboxId = "5e6df"
-newsletterCheckboxValue = "5e6df944-ee28-4612-a16f-72838fe90224"
-newsletterCheckboxName = "l"
 
 # Fork me ribbon
 enableForkMe = true
-forkMeRepoUrl = "https://github.com/lbenicio/lbenicio.github.io"
+forkMeRepoUrl = "https://github.com/lbenicio/blog"
 
 # Legal links
 privacyUrl = "https://legal.lbenicio.dev/docs/privacy-policy"

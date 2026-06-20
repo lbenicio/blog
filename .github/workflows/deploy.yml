@@ -94,7 +94,7 @@ jobs:
                   restore-keys: hugo-${{ runner.os }}-
 
             - name: Generate OG images
-              run: go run github.com/lbenicio/aboutme-v2-theme/cmd/ogimage@latest --glob="content/post/*.md" --out="static/assets/og"
+              run: go run github.com/lbenicio/aboutme-v2-theme/cmd/ogimage@latest --glob="content/post/*.md" --out="static/static/og"
               continue-on-error: true
 
             - name: Build with Hugo
