@@ -35,10 +35,10 @@ jobs:
             contents: read
         steps:
             - name: Checkout
-              uses: actions/checkout@v4
+              uses: actions/checkout@v7
 
             - name: Download base images
-              uses: actions/download-artifact@v4
+              uses: actions/download-artifact@v8
               with:
                   name: base-images
                   path: /tmp
@@ -88,13 +88,13 @@ jobs:
             packages: write
         steps:
             - name: Download image artifact
-              uses: actions/download-artifact@v4
+              uses: actions/download-artifact@v8
               with:
                   name: docker-image
                   path: /tmp
 
             - name: Download tags artifact
-              uses: actions/download-artifact@v4
+              uses: actions/download-artifact@v8
               with:
                   name: docker-tags
                   path: /tmp
