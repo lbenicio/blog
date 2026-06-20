@@ -1,0 +1,9 @@
+node_modules
+public
+resources
+.github
+.git
+.gitignore
+.gitmodules
+.hugo_build.lock
+Gruntfile.js

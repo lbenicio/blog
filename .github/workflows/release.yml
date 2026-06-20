@@ -1,0 +1,161 @@
+name: Publish Docker Image
+
+on:
+    release:
+        types: [published]
+
+env:
+    REGISTRY: ghcr.io
+    IMAGE_NAME: ${{ github.repository }}
+
+jobs:
+    deps:
+        runs-on: ubuntu-latest
+        permissions: {}
+        steps:
+            - name: Pull base images
+              run: |
+                  docker pull alpine:latest
+                  docker pull nginx:alpine
+
+            - name: Cache base images
+              run: |
+                  docker save alpine:latest nginx:alpine | gzip > /tmp/base-images.tar.gz
+
+            - name: Upload base images
+              uses: actions/upload-artifact@v4
+              with:
+                  name: base-images
+                  path: /tmp/base-images.tar.gz
+
+    build:
+        needs: deps
+        runs-on: ubuntu-latest
+        permissions:
+            contents: read
+        steps:
+            - name: Checkout
+              uses: actions/checkout@v4
+
+            - name: Download base images
+              uses: actions/download-artifact@v4
+              with:
+                  name: base-images
+                  path: /tmp
+
+            - name: Load base images
+              run: gunzip -c /tmp/base-images.tar.gz | docker load
+
+            - name: Extract metadata
+              id: meta
+              uses: docker/metadata-action@v5
+              with:
+                  images: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}
+                  tags: |
+                      type=semver,pattern={{version}},value=${{ github.event.release.tag_name }}
+                      type=raw,value=latest,enable=${{ !github.event.release.prerelease }}
+
+            - name: Build image
+              uses: docker/build-push-action@v6
+              with:
+                  context: .
+                  load: true
+                  tags: ${{ steps.meta.outputs.tags }}
+                  labels: ${{ steps.meta.outputs.labels }}
+
+            - name: Export image
+              run: docker save ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:${{ github.event.release.tag_name }} | gzip > /tmp/image.tar.gz
+
+            - name: Upload image artifact
+              uses: actions/upload-artifact@v4
+              with:
+                  name: docker-image
+                  path: /tmp/image.tar.gz
+
+            - name: Export tags file
+              run: echo "${{ steps.meta.outputs.tags }}" > /tmp/docker-metadata-tags
+
+            - name: Upload tags artifact
+              uses: actions/upload-artifact@v4
+              with:
+                  name: docker-tags
+                  path: /tmp/docker-metadata-tags
+
+    push:
+        needs: build
+        runs-on: ubuntu-latest
+        permissions:
+            packages: write
+        steps:
+            - name: Download image artifact
+              uses: actions/download-artifact@v4
+              with:
+                  name: docker-image
+                  path: /tmp
+
+            - name: Download tags artifact
+              uses: actions/download-artifact@v4
+              with:
+                  name: docker-tags
+                  path: /tmp
+
+            - name: Read tags
+              id: tags
+              run: echo "tags=$(cat /tmp/docker-metadata-tags)" >> $GITHUB_OUTPUT
+
+            - name: Load image
+              run: gunzip -c /tmp/image.tar.gz | docker load
+
+            - name: Log in to GitHub Container Registry
+              uses: docker/login-action@v3
+              with:
+                  registry: ${{ env.REGISTRY }}
+                  username: ${{ github.actor }}
+                  password: ${{ secrets.GITHUB_TOKEN }}
+
+            - name: Push image
+              run: |
+                  for tag in ${{ steps.tags.outputs.tags }}; do
+                    docker push "$tag"
+                  done
+
+    report:
+        needs: [deps, build, push]
+        if: always()
+        runs-on: ubuntu-latest
+        permissions: {}
+        steps:
+            - name: Generate summary
+              run: |
+                  {
+                    echo "## 🐳 Release Summary"
+                    echo ""
+                    echo "| Field | Value |"
+                    echo "|-------|-------|"
+                    echo "| Workflow | Build and Publish Docker Image |"
+                    echo "| Release  | ${{ github.event.release.tag_name }} |"
+                    echo "| Name     | ${{ github.event.release.name }} |"
+                    echo "| Pre-release | ${{ github.event.release.prerelease }} |"
+                    echo "| Actor    | ${{ github.actor }} |"
+                    echo "| Ran at   | $(date -u +'%Y-%m-%d %H:%M:%S UTC') |"
+                    echo ""
+                    echo "### Image"
+                    echo ""
+                    echo "\`${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}\`"
+                    echo ""
+                    echo "### Jobs"
+                    echo ""
+                    echo "| Job   | Result   |"
+                    echo "|-------|----------|"
+                    echo "| deps  | ${{ needs.deps.result }} |"
+                    echo "| build | ${{ needs.build.result }} |"
+                    echo "| push  | ${{ needs.push.result }} |"
+                    echo ""
+                    if [ "${{ needs.push.result }}" = "success" ]; then
+                      echo "✅ Published \`${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:${{ github.event.release.tag_name }}\`"
+                    elif [ "${{ needs.build.result }}" = "failure" ]; then
+                      echo "❌ Build failed — check logs above."
+                    else
+                      echo "⚠️  Pipeline incomplete."
+                    fi
+                  } >> $GITHUB_STEP_SUMMARY

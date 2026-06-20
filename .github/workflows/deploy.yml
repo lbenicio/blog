@@ -1,0 +1,158 @@
+name: Deploy to GitHub Pages
+
+on:
+    push:
+        branches: [main]
+    workflow_dispatch:
+
+permissions:
+    contents: read
+    pages: write
+    id-token: write
+
+concurrency:
+    group: pages
+    cancel-in-progress: true
+
+jobs:
+    deps:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout
+              uses: actions/checkout@v4
+              with:
+                  submodules: recursive
+
+            - name: Setup Hugo
+              uses: peaceiris/actions-hugo@v3
+              with:
+                  hugo-version: "0.163.1"
+                  extended: true
+
+            - name: Setup Go
+              uses: actions/setup-go@v5
+              with:
+                  go-version: "1.23"
+
+            - name: Cache Go modules
+              uses: actions/cache@v4
+              with:
+                  path: |
+                      ~/.cache/go-build
+                      ~/go/pkg/mod
+                  key: go-${{ runner.os }}-${{ hashFiles('go.sum') }}
+                  restore-keys: go-${{ runner.os }}-
+
+            - name: Cache Hugo modules
+              uses: actions/cache@v4
+              with:
+                  path: /tmp/hugo_cache
+                  key: hugo-${{ runner.os }}-${{ hashFiles('go.sum') }}
+                  restore-keys: hugo-${{ runner.os }}-
+
+            - name: Download Go dependencies
+              run: go mod download
+
+            - name: Download Hugo modules
+              run: hugo mod get
+
+    build:
+        needs: deps
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout
+              uses: actions/checkout@v4
+              with:
+                  submodules: recursive
+
+            - name: Setup Hugo
+              uses: peaceiris/actions-hugo@v3
+              with:
+                  hugo-version: "0.163.1"
+                  extended: true
+
+            - name: Setup Go
+              uses: actions/setup-go@v5
+              with:
+                  go-version: "1.23"
+                  cache: true
+
+            - name: Restore Go cache
+              uses: actions/cache@v4
+              with:
+                  path: |
+                      ~/.cache/go-build
+                      ~/go/pkg/mod
+                  key: go-${{ runner.os }}-${{ hashFiles('go.sum') }}
+                  restore-keys: go-${{ runner.os }}-
+
+            - name: Restore Hugo cache
+              uses: actions/cache@v4
+              with:
+                  path: /tmp/hugo_cache
+                  key: hugo-${{ runner.os }}-${{ hashFiles('go.sum') }}
+                  restore-keys: hugo-${{ runner.os }}-
+
+            - name: Generate OG images
+              run: go run github.com/lbenicio/aboutme-v2-theme/cmd/ogimage@latest --glob="content/post/*.md" --out="static/assets/og"
+              continue-on-error: true
+
+            - name: Build with Hugo
+              run: hugo --minify --environment production --cleanDestinationDir
+
+            - name: Obfuscate
+              run: go run github.com/lbenicio/aboutme-v2-theme/cmd/obfuscate@main ./public
+
+            - name: Upload artifact
+              uses: actions/upload-pages-artifact@v3
+              with:
+                  path: ./public
+
+    deploy:
+        needs: build
+        runs-on: ubuntu-latest
+        environment:
+            name: github-pages
+            url: ${{ steps.deployment.outputs.page_url }}
+        steps:
+            - name: Deploy to GitHub Pages
+              id: deployment
+              uses: actions/deploy-pages@v4
+
+    report:
+        needs: [deps, build, deploy]
+        if: always()
+        runs-on: ubuntu-latest
+        permissions:
+            actions: read
+        steps:
+            - name: Generate summary
+              run: |
+                  {
+                    echo "## 🚀 Deploy Summary"
+                    echo ""
+                    echo "| Field | Value |"
+                    echo "|-------|-------|"
+                    echo "| Workflow | Build and Deploy to GitHub Pages |"
+                    echo "| Trigger   | ${{ github.event_name }} |"
+                    echo "| Branch    | ${{ github.ref_name }} |"
+                    echo "| Commit    | [\`${{ github.sha }}\`](https://github.com/${{ github.repository }}/commit/${{ github.sha }}) |"
+                    echo "| Actor     | ${{ github.actor }} |"
+                    echo "| Ran at    | $(date -u +'%Y-%m-%d %H:%M:%S UTC') |"
+                    echo ""
+                    echo "### Jobs"
+                    echo ""
+                    echo "| Job    | Result   |"
+                    echo "|--------|----------|"
+                    echo "| deps   | ${{ needs.deps.result }} |"
+                    echo "| build  | ${{ needs.build.result }} |"
+                    echo "| deploy | ${{ needs.deploy.result }} |"
+                    echo ""
+                    if [ "${{ needs.deploy.result }}" = "success" ]; then
+                      echo "✅ Deployed successfully."
+                    elif [ "${{ needs.build.result }}" = "failure" ]; then
+                      echo "❌ Build failed — check logs above."
+                    else
+                      echo "⚠️  Pipeline incomplete."
+                    fi
+                  } >> $GITHUB_STEP_SUMMARY
