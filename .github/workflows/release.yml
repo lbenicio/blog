@@ -23,7 +23,7 @@ jobs:
                   docker save alpine:latest nginx:alpine | gzip > /tmp/base-images.tar.gz
 
             - name: Upload base images
-              uses: actions/upload-artifact@v4
+              uses: actions/upload-artifact@v7
               with:
                   name: base-images
                   path: /tmp/base-images.tar.gz
@@ -67,7 +67,7 @@ jobs:
               run: docker save ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:${{ github.event.release.tag_name }} | gzip > /tmp/image.tar.gz
 
             - name: Upload image artifact
-              uses: actions/upload-artifact@v4
+              uses: actions/upload-artifact@v7
               with:
                   name: docker-image
                   path: /tmp/image.tar.gz
@@ -76,7 +76,7 @@ jobs:
               run: echo "${{ steps.meta.outputs.tags }}" > /tmp/docker-metadata-tags
 
             - name: Upload tags artifact
-              uses: actions/upload-artifact@v4
+              uses: actions/upload-artifact@v7
               with:
                   name: docker-tags
                   path: /tmp/docker-metadata-tags
