@@ -127,6 +127,9 @@ jobs:
                   EOF
 
                   echo "::group::Hugo build (baseURL=${BASE_URL})"
+                  echo "  siteUrl     = ${ABOUT}"
+                  echo "  aboutOrigin = ${ABOUT}"
+                  echo "  blogOrigin  = ${BLOG}"
                   hugo --minify --environment production --cleanDestinationDir --config hugo.toml,/tmp/hugo-dynamic.toml --logLevel info
                   echo "::endgroup::"
                   echo "Build complete — $(find public -type f | wc -l) files generated"
