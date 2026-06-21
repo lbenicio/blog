@@ -97,29 +97,31 @@ jobs:
               run: go run github.com/lbenicio/aboutme-v2-theme/cmd/ogimage@latest --glob="content/post/*.md" --out="static/static/og"
               continue-on-error: true
 
+            - name: Configure Pages
+              uses: actions/configure-pages@v5
+              id: pages
+
             - name: Build with Hugo
               env:
-                  OWNER: ${{ github.repository_owner }}
-                  REPO: ${{ github.event.repository.name }}
+                  BASE_URL: ${{ steps.pages.outputs.base_url }}
+                  ORIGIN: ${{ steps.pages.outputs.origin }}
               run: |
-                  if [ "$REPO" = "${OWNER}.github.io" ]; then
-                    BASE="https://${OWNER}.github.io/"
+                  # Blog origin: if this IS the blog, use self; otherwise assume /blog/
+                  if [ "${{ github.event.repository.name }}" = "blog" ]; then
+                    BLOG="${BASE_URL}"
                   else
-                    BASE="https://${OWNER}.github.io/${REPO}/"
+                    BLOG="${ORIGIN}/blog/"
                   fi
-                  ABOUT="https://${OWNER}.github.io/"
-                  BLOG="${BASE}"
-                  SITE="${ABOUT}"
 
                   cat > /tmp/hugo-dynamic.toml << EOF
-                  baseURL = "${BASE}"
+                  baseURL = "${BASE_URL}"
                   [params]
-                  siteUrl = "${SITE}"
-                  aboutOrigin = "${ABOUT}"
+                  siteUrl = "${ORIGIN}"
+                  aboutOrigin = "${ORIGIN}"
                   blogOrigin = "${BLOG}"
                   EOF
 
-                  echo "::group::Hugo build (baseURL=${BASE})"
+                  echo "::group::Hugo build (baseURL=${BASE_URL})"
                   hugo --minify --environment production --cleanDestinationDir --config hugo.toml,/tmp/hugo-dynamic.toml --logLevel info
                   echo "::endgroup::"
                   echo "Build complete — $(find public -type f | wc -l) files generated"
