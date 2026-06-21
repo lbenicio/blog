@@ -19,7 +19,13 @@ Deployed at **[lbenicio.github.io/blog](https://lbenicio.github.io/blog/)**. The
 
 ```bash
 git clone https://github.com/lbenicio/blog.git
+```
+
+```bash
 cd blog
+```
+
+```bash
 hugo server
 ```
 
@@ -87,8 +93,6 @@ Pushes to `main` trigger the [deploy workflow](.github/workflows/deploy.yml):
 5. Deploy to GitHub Pages
 
 ## 📦 Dependencies
-
-Zero Node.js. Only Hugo Extended required.
 
 ```
 require github.com/lbenicio/aboutme-v2-theme v0.3.0
