@@ -1,6 +1,5 @@
 title = "Leonardo Benicio"
 theme = "github.com/lbenicio/aboutme-v2-theme"
-baseURL = "https://lbenicio.github.io/blog/"
 locale = "en-us"
 resourceDir = "resources"
 

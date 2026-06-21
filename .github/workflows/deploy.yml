@@ -97,10 +97,21 @@ jobs:
               run: go run github.com/lbenicio/aboutme-v2-theme/cmd/ogimage@latest --glob="content/post/*.md" --out="static/static/og"
               continue-on-error: true
 
+            - name: Compute base URL
+              id: url
+              run: |
+                  if [ -n "${{ vars.BASE_URL }}" ]; then
+                    echo "baseurl=${{ vars.BASE_URL }}" >> $GITHUB_OUTPUT
+                  elif [ "${{ github.event.repository.name }}" = "${{ github.repository_owner }}.github.io" ]; then
+                    echo "baseurl=https://${{ github.repository_owner }}.github.io/" >> $GITHUB_OUTPUT
+                  else
+                    echo "baseurl=https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/" >> $GITHUB_OUTPUT
+                  fi
+
             - name: Build with Hugo
               run: |
                   echo "::group::Hugo build"
-                  hugo --minify --environment production --cleanDestinationDir --logLevel info
+                  hugo --minify --environment production --cleanDestinationDir --baseURL "${{ steps.url.outputs.baseurl }}" --logLevel info
                   echo "::endgroup::"
                   echo "Build complete — $(find public -type f | wc -l) files generated"
 
