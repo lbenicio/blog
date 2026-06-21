@@ -102,27 +102,9 @@ jobs:
               id: pages
 
             - name: Build with Hugo
-              env:
-                  BASE_URL: ${{ steps.pages.outputs.base_url }}
-                  ORIGIN: ${{ steps.pages.outputs.origin }}
               run: |
-                  # Blog origin: if this IS the blog, use self; otherwise assume /blog/
-                  if [ "${{ github.event.repository.name }}" = "blog" ]; then
-                    BLOG="${BASE_URL}"
-                  else
-                    BLOG="${ORIGIN}/blog/"
-                  fi
-
-                  cat > /tmp/hugo-dynamic.toml << EOF
-                  baseURL = "${BASE_URL}"
-                  [params]
-                  siteUrl = "${ORIGIN}"
-                  aboutOrigin = "${ORIGIN}"
-                  blogOrigin = "${BLOG}"
-                  EOF
-
-                  echo "::group::Hugo build (baseURL=${BASE_URL})"
-                  hugo --minify --environment production --cleanDestinationDir --config hugo.toml,/tmp/hugo-dynamic.toml --logLevel info
+                  echo "::group::Hugo build (baseURL=${{ steps.pages.outputs.base_url }})"
+                  hugo --minify --environment production --cleanDestinationDir --baseURL "${{ steps.pages.outputs.base_url }}" --logLevel info
                   echo "::endgroup::"
                   echo "Build complete — $(find public -type f | wc -l) files generated"
 
