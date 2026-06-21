@@ -106,8 +106,12 @@ jobs:
                   BASE_URL: ${{ steps.pages.outputs.base_url }}
                   ORIGIN: ${{ steps.pages.outputs.origin }}
               run: |
-                  # Derive cross-site URLs from what configure-pages already gives us
-                  ABOUT="${ORIGIN}"
+                  # Ask GitHub for the home repo's actual Pages URL
+                  ABOUT=$(curl -sS -H "Authorization: Bearer ${{ github.token }}" \
+                    "https://api.github.com/repos/${{ github.repository_owner }}/${{ github.repository_owner }}.github.io/pages" \
+                    | jq -r '.html_url // "${ORIGIN}"')
+                  ABOUT="${ABOUT%/}/"
+
                   if [ "${{ github.event.repository.name }}" = "blog" ]; then
                     BLOG="${BASE_URL}"
                   else
