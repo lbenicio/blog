@@ -104,32 +104,32 @@ jobs:
             - name: Build with Hugo
               env:
                   BASE_URL: ${{ steps.pages.outputs.base_url }}
-                  ORIGIN: ${{ steps.pages.outputs.origin }}
               run: |
-                  # Ask GitHub for the home repo's actual Pages URL
-                  ABOUT=$(curl -sS -H "Authorization: Bearer ${{ github.token }}" \
+                  # Ask GitHub for the home site's actual Pages URL
+                  HOME_URL=$(curl -sS -H "Authorization: Bearer ${{ github.token }}" \
                     "https://api.github.com/repos/${{ github.repository_owner }}/${{ github.repository_owner }}.github.io/pages" \
-                    | jq -r '.html_url // "${ORIGIN}"')
-                  ABOUT="${ABOUT%/}/"
+                    | jq -r '.html_url // "${{ steps.pages.outputs.origin }}"')
+                  HOME_URL="${HOME_URL%/}/"
 
                   if [ "${{ github.event.repository.name }}" = "blog" ]; then
-                    BLOG="${BASE_URL}"
+                    BLOG_URL="${BASE_URL}"
                   else
-                    BLOG="${ORIGIN}/blog/"
+                    BLOG_URL="${HOME_URL}blog/"
                   fi
 
                   cat > /tmp/hugo-dynamic.toml << EOF
                   baseURL = "${BASE_URL}"
                   [params]
-                  siteUrl = "${ABOUT}"
-                  aboutOrigin = "${ABOUT}"
-                  blogOrigin = "${BLOG}"
+                  siteUrl = "${HOME_URL}"
+                  aboutOrigin = "${HOME_URL}"
+                  blogOrigin = "${BLOG_URL}"
                   EOF
 
-                  echo "::group::Hugo build (baseURL=${BASE_URL})"
-                  echo "  siteUrl     = ${ABOUT}"
-                  echo "  aboutOrigin = ${ABOUT}"
-                  echo "  blogOrigin  = ${BLOG}"
+                  echo "::group::Hugo build"
+                  echo "  baseURL     = ${BASE_URL}"
+                  echo "  siteUrl     = ${HOME_URL}"
+                  echo "  aboutOrigin = ${HOME_URL}"
+                  echo "  blogOrigin  = ${BLOG_URL}"
                   hugo --minify --environment production --cleanDestinationDir --config hugo.toml,/tmp/hugo-dynamic.toml --logLevel info
                   echo "::endgroup::"
                   echo "Build complete — $(find public -type f | wc -l) files generated"
