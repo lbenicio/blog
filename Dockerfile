@@ -4,6 +4,9 @@ FROM alpine:latest AS build
 # Install Hugo Extended and Go
 RUN apk add --update --no-cache hugo go git
 
+# Allow Go to download required toolchain version (go.mod requires >=1.26.4, Alpine ships 1.26.3)
+ENV GOTOOLCHAIN=auto
+
 RUN hugo version && go version
 
 WORKDIR /src
