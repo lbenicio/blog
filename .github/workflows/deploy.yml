@@ -97,58 +97,29 @@ jobs:
               run: go run github.com/lbenicio/aboutme-v2-theme/cmd/ogimage@latest --glob="content/post/*.md" --out="static/static/og"
               continue-on-error: true
 
-            - name: Compute site URLs
-              id: url
+            - name: Build with Hugo
+              env:
+                  OWNER: ${{ github.repository_owner }}
+                  REPO: ${{ github.event.repository.name }}
               run: |
-                  # -- baseURL (where this site lives) --
-                  BASE="${{ vars.BASE_URL }}"
-                  if [ -z "$BASE" ]; then
-                    if [ "${{ github.event.repository.name }}" = "${{ github.repository_owner }}.github.io" ]; then
-                      BASE="https://${{ github.repository_owner }}.github.io/"
-                    else
-                      BASE="https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/"
-                    fi
+                  if [ "$REPO" = "${OWNER}.github.io" ]; then
+                    BASE="https://${OWNER}.github.io/"
+                  else
+                    BASE="https://${OWNER}.github.io/${REPO}/"
                   fi
-                  echo "baseurl=$BASE" >> $GITHUB_OUTPUT
+                  ABOUT="https://${OWNER}.github.io/"
+                  BLOG="${BASE}"
+                  SITE="${ABOUT}"
 
-                  # -- aboutOrigin (home/about site) --
-                  ABOUT="${{ vars.ABOUT_ORIGIN }}"
-                  if [ -z "$ABOUT" ]; then
-                    ABOUT="https://${{ github.repository_owner }}.github.io/"
-                  fi
-                  echo "about=$ABOUT" >> $GITHUB_OUTPUT
-
-                  # -- blogOrigin (blog site) --
-                  BLOG="${{ vars.BLOG_ORIGIN }}"
-                  if [ -z "$BLOG" ]; then
-                    if [ "${{ github.event.repository.name }}" = "${{ github.repository_owner }}.github.io" ]; then
-                      BLOG="https://${{ github.repository_owner }}.github.io/blog/"
-                    else
-                      BLOG="https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/"
-                    fi
-                  fi
-                  echo "blog=$BLOG" >> $GITHUB_OUTPUT
-
-                  # -- siteUrl (canonical home) --
-                  SITE="${{ vars.SITE_URL }}"
-                  if [ -z "$SITE" ]; then
-                    SITE="$ABOUT"
-                  fi
-                  echo "site=$SITE" >> $GITHUB_OUTPUT
-
-            - name: Write dynamic Hugo config
-              run: |
                   cat > /tmp/hugo-dynamic.toml << EOF
-                  baseURL = "${{ steps.url.outputs.baseurl }}"
+                  baseURL = "${BASE}"
                   [params]
-                  siteUrl = "${{ steps.url.outputs.site }}"
-                  aboutOrigin = "${{ steps.url.outputs.about }}"
-                  blogOrigin = "${{ steps.url.outputs.blog }}"
+                  siteUrl = "${SITE}"
+                  aboutOrigin = "${ABOUT}"
+                  blogOrigin = "${BLOG}"
                   EOF
 
-            - name: Build with Hugo
-              run: |
-                  echo "::group::Hugo build"
+                  echo "::group::Hugo build (baseURL=${BASE})"
                   hugo --minify --environment production --cleanDestinationDir --config hugo.toml,/tmp/hugo-dynamic.toml --logLevel info
                   echo "::endgroup::"
                   echo "Build complete — $(find public -type f | wc -l) files generated"
