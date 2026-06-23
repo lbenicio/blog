@@ -10,3 +10,7 @@ github.com/lbenicio/aboutme-v2-theme v0.0.0-20260621174943-9ee914f3cf80 h1:DFn9y
 github.com/lbenicio/aboutme-v2-theme v0.0.0-20260621174943-9ee914f3cf80/go.mod h1:xa/rG/eXx234xPAEaSi8MltuNMv0uw4fsB/cvS6UNDs=
 github.com/lbenicio/aboutme-v2-theme v0.0.0-20260621190511-d31f150e81f5 h1:XMQ3CUy+Pg/5ZphstbLzHWEQARQEh9XFi8Nfu2J7UxA=
 github.com/lbenicio/aboutme-v2-theme v0.0.0-20260621190511-d31f150e81f5/go.mod h1:xa/rG/eXx234xPAEaSi8MltuNMv0uw4fsB/cvS6UNDs=
+github.com/lbenicio/aboutme-v2-theme v0.0.0-20260622212435-c4f365a097dc h1:l7VTuPKeGnvpBkblZdMf9knv5vWnpHpr7nowEdjdlKw=
+github.com/lbenicio/aboutme-v2-theme v0.0.0-20260622212435-c4f365a097dc/go.mod h1:xa/rG/eXx234xPAEaSi8MltuNMv0uw4fsB/cvS6UNDs=
+github.com/lbenicio/aboutme-v2-theme v0.0.0-20260623021920-19cd435ed093 h1:Uk3YwdI9qHeUeiCYOhs+ZYEINznUqo4iK4XAs3A9rNA=
+github.com/lbenicio/aboutme-v2-theme v0.0.0-20260623021920-19cd435ed093/go.mod h1:xa/rG/eXx234xPAEaSi8MltuNMv0uw4fsB/cvS6UNDs=
