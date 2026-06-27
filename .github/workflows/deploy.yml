@@ -35,7 +35,7 @@ jobs:
                   go-version: "1.26"
 
             - name: Cache Go modules
-              uses: actions/cache@v5
+              uses: actions/cache@v6
               with:
                   path: |
                       ~/.cache/go-build
@@ -44,7 +44,7 @@ jobs:
                   restore-keys: go-${{ runner.os }}-
 
             - name: Cache Hugo modules
-              uses: actions/cache@v5
+              uses: actions/cache@v6
               with:
                   path: /tmp/hugo_cache
                   key: hugo-${{ runner.os }}-${{ hashFiles('go.sum') }}
@@ -78,7 +78,7 @@ jobs:
                   cache: true
 
             - name: Restore Go cache
-              uses: actions/cache@v5
+              uses: actions/cache@v6
               with:
                   path: |
                       ~/.cache/go-build
@@ -87,7 +87,7 @@ jobs:
                   restore-keys: go-${{ runner.os }}-
 
             - name: Restore Hugo cache
-              uses: actions/cache@v5
+              uses: actions/cache@v6
               with:
                   path: /tmp/hugo_cache
                   key: hugo-${{ runner.os }}-${{ hashFiles('go.sum') }}
