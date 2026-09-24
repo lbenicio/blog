@@ -52,7 +52,7 @@ aboutOrigin = "http://localhost:1313/"
 blogOrigin = "http://localhost:1313/blog/"
 
 # Umami analytics
-umamiBlogId = "c3cde340-7e81-480f-a38a-dc20a57081fa"
+umamiBlogId = "649d8c68-53f2-4687-9971-c39ba81c408f"
 umamiScriptUrl = "https://analytics.4686189.xyz/script.js"
 
 # Fork me ribbon
