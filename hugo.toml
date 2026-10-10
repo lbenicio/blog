@@ -50,6 +50,7 @@ siteUrl = "http://localhost:1313/"
 appMode = "BLOG_ONLY"
 aboutOrigin = "http://localhost:1313/"
 blogOrigin = "http://localhost:1313/blog/"
+publicationsOrigin = "http://localhost:1313/publications/"
 
 # Umami analytics
 umamiBlogId = "649d8c68-53f2-4687-9971-c39ba81c408f"

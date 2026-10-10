@@ -125,6 +125,7 @@ jobs:
                   siteUrl = "${SITE_URL}"
                   aboutOrigin = "${HOME_URL}"
                   blogOrigin = "${BLOG_URL}"
+                  publicationsOrigin = "${HOME_URL}publications/"
                   EOF
 
                   echo "::group::Hugo build"
@@ -132,6 +133,7 @@ jobs:
                   echo "  siteUrl     = ${SITE_URL}"
                   echo "  aboutOrigin = ${HOME_URL}"
                   echo "  blogOrigin  = ${BLOG_URL}"
+                  echo "  publicationsOrigin = ${HOME_URL}publications/"
                   hugo --minify --environment production --cleanDestinationDir --config hugo.toml,/tmp/hugo-dynamic.toml --logLevel info
                   echo "::endgroup::"
                   echo "Build complete — $(find public -type f | wc -l) files generated"
