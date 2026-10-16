@@ -20,3 +20,5 @@ github.com/lbenicio/aboutme-v2-theme v0.0.0-20261016041210-52189368834b h1:frWaa
 github.com/lbenicio/aboutme-v2-theme v0.0.0-20261016041210-52189368834b/go.mod h1:kJsyBm2fYyGmpl8/0qOEzUl/vamukbfPFPTQ8lf8aEg=
 github.com/lbenicio/aboutme-v2-theme v0.0.0-20261016041529-18aaadb14002 h1:cgfTspAloyoK9cZ2vTtfQMQtRDEPGFox0c6hPUhEMv0=
 github.com/lbenicio/aboutme-v2-theme v0.0.0-20261016041529-18aaadb14002/go.mod h1:kJsyBm2fYyGmpl8/0qOEzUl/vamukbfPFPTQ8lf8aEg=
+github.com/lbenicio/aboutme-v2-theme v0.0.0-20261016042304-5248940612a9 h1:h+8xNo2tBBOsKmC5347KoOLYW9fpBL8YkL7v4bpxp/o=
+github.com/lbenicio/aboutme-v2-theme v0.0.0-20261016042304-5248940612a9/go.mod h1:kJsyBm2fYyGmpl8/0qOEzUl/vamukbfPFPTQ8lf8aEg=
