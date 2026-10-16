@@ -4,6 +4,22 @@ All notable changes to this project are documented in this file. This project fo
 
 Full changelog: <https://github.com/lbenicio/blog/commits/main>
 
+## [2.1.1] - 2026-10-16
+
+### Added
+
+- **Post index JSON** — added structured JSON output for post metadata, tags, categories, dates, covers, and links.
+- **Publications origin** — added configuration for cross-site publication links.
+
+### Changed
+
+- **Theme updated** to v0.4.1 — production-only class obfuscation, readable local development classes, valid CSS aliases, and the Hugo deprecation fix.
+- **CI site URLs** — blog variant builds now use the blog’s own Pages URL and publish the home site’s publications origin.
+
+### Fixed
+
+- **Umami analytics** — configured the blog website ID `649d8c68-53f2-4687-9971-c39ba81c408f` with `https://analytics.4686189.xyz/script.js`.
+
 ## [2.1.0] - 2026-06-21
 
 ### Added
