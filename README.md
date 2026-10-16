@@ -6,7 +6,7 @@
 
 Personal blog built with [Hugo](https://gohugo.io/) and the [aboutme-v2-theme](https://github.com/lbenicio/aboutme-v2-theme) in `BLOG_ONLY` mode. No Node.js required — SCSS is compiled natively by Hugo Pipes.
 
-Deployed at **[lbenicio.github.io/blog](https://lbenicio.github.io/blog/)**. The main about site lives at **[lbenicio.dev](https://lbenicio.dev/)**.
+Deployed at **[blog.lbenicio.dev](https://blog.lbenicio.dev/)**. The main about site lives at **[lbenicio.dev](https://lbenicio.dev/)**.
 
 ## 🚀 Quick Start
 
@@ -54,9 +54,9 @@ The site runs in `BLOG_ONLY` mode — only the blog listing and post pages are r
 ```toml
 [params]
   appMode = "BLOG_ONLY"
-  siteUrl = "https://lbenicio.github.io"
-  aboutOrigin = "https://lbenicio.dev"        # Header link back to about
-  blogOrigin = "https://lbenicio.github.io/blog"
+  siteUrl = "https://blog.lbenicio.dev/"
+  aboutOrigin = "https://lbenicio.dev/"        # Header link back to about
+  blogOrigin = "https://blog.lbenicio.dev/"
 ```
 
 ### Adding posts
@@ -90,7 +90,16 @@ Pushes to `main` trigger the [deploy workflow](.github/workflows/deploy.yml):
 2. Generate OG images for posts
 3. Build with Hugo (`--minify --environment production`)
 4. Obfuscate identifiers
-5. Deploy to GitHub Pages
+5. Resolve the `blog` CloudFormation stack outputs
+6. Sync the site to its S3 bucket
+7. Invalidate the CloudFront cache
+
+The workflow expects these repository secrets:
+
+- `AWS_ACCESS_KEY_ID`
+- `AWS_SECRET_ACCESS_KEY`
+
+The IAM user needs permission to read the `blog` CloudFormation stack, upload/delete objects in the `blog.lbenicio.dev` S3 bucket, and create CloudFront invalidations.
 
 ## 📦 Dependencies
 

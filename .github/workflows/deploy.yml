@@ -1,4 +1,4 @@
-name: Deploy to GitHub Pages
+name: Deploy to AWS
 
 on:
     push:
@@ -7,12 +7,18 @@ on:
 
 permissions:
     contents: read
-    pages: write
-    id-token: write
+    actions: read
 
 concurrency:
-    group: pages
+    group: aws-deploy
     cancel-in-progress: true
+
+env:
+    AWS_REGION: sa-east-1
+    AWS_STACK_NAME: blog
+    SITE_URL: https://blog.lbenicio.dev/
+    ABOUT_URL: https://lbenicio.dev/
+    PUBLICATIONS_URL: https://lbenicio.dev/publications/
 
 jobs:
     deps:
@@ -98,51 +104,31 @@ jobs:
               run: go run github.com/lbenicio/aboutme-v2-theme/cmd/ogimage@latest --glob="content/post/*.md" --out="static/static/og"
               continue-on-error: true
 
-            - name: Configure Pages
-              uses: actions/configure-pages@v6
-              id: pages
-
             - name: Build with Hugo
-              env:
-                  BASE_URL: ${{ steps.pages.outputs.base_url }}
               run: |
-                  # Ask GitHub for the home site's actual Pages URL
-                  HOME_URL=$(curl -sS -H "Authorization: Bearer ${{ github.token }}" \
-                    "https://api.github.com/repos/${{ github.repository_owner }}/${{ github.repository_owner }}.github.io/pages" \
-                    | jq -r '.html_url // "${{ steps.pages.outputs.origin }}"')
-                  HOME_URL="${HOME_URL%/}/"
-
-                  if [ "${{ github.event.repository.name }}" = "blog" ]; then
-                    BLOG_URL="${BASE_URL}"
-                    SITE_URL="${BASE_URL}"
-                  else
-                    BLOG_URL="${HOME_URL}blog/"
-                    SITE_URL="${HOME_URL}"
-                  fi
-
                   cat > /tmp/hugo-dynamic.toml << EOF
-                  baseURL = "${BASE_URL}"
+                  baseURL = "${SITE_URL}"
                   [params]
                   siteUrl = "${SITE_URL}"
-                  aboutOrigin = "${HOME_URL}"
-                  blogOrigin = "${BLOG_URL}"
-                  publicationsOrigin = "${HOME_URL}publications/"
+                  aboutOrigin = "${ABOUT_URL}"
+                  blogOrigin = "${SITE_URL}"
+                  publicationsOrigin = "${PUBLICATIONS_URL}"
                   EOF
 
                   echo "::group::Hugo build"
-                  echo "  baseURL     = ${BASE_URL}"
-                  echo "  siteUrl     = ${SITE_URL}"
-                  echo "  aboutOrigin = ${HOME_URL}"
-                  echo "  blogOrigin  = ${BLOG_URL}"
-                  echo "  publicationsOrigin = ${HOME_URL}publications/"
+                  echo "  baseURL          = ${SITE_URL}"
+                  echo "  siteUrl          = ${SITE_URL}"
+                  echo "  aboutOrigin      = ${ABOUT_URL}"
+                  echo "  blogOrigin       = ${SITE_URL}"
+                  echo "  publicationsOrigin = ${PUBLICATIONS_URL}"
                   hugo --minify --environment production --cleanDestinationDir --config hugo.toml,/tmp/hugo-dynamic.toml --logLevel info
                   echo "::endgroup::"
                   echo "Build complete — $(find public -type f | wc -l) files generated"
 
-            - name: Upload build artifact
+            - name: Upload built site artifact
               uses: actions/upload-artifact@v7
               with:
-                  name: hugo-public
+                  name: hugo-built
                   path: ./public
                   retention-days: 1
 
@@ -156,10 +142,10 @@ jobs:
                   go-version: "1.26"
                   cache: false
 
-            - name: Download build artifact
+            - name: Download built site artifact
               uses: actions/download-artifact@v8
               with:
-                  name: hugo-public
+                  name: hugo-built
                   path: ./public
 
             - name: Obfuscate
@@ -169,59 +155,82 @@ jobs:
                   GOPROXY=direct go run github.com/lbenicio/aboutme-v2-theme/cmd/obfuscate@main -verbose ./public
                   echo "::endgroup::"
 
-            - name: Upload pages artifact
-              uses: actions/upload-pages-artifact@v5
+            - name: Upload obfuscated site artifact
+              uses: actions/upload-artifact@v7
               with:
+                  name: hugo-public
                   path: ./public
+                  retention-days: 1
 
     deploy:
         needs: obfuscate
         runs-on: ubuntu-24.04
-        environment:
-            name: github-pages
-            url: ${{ steps.deployment.outputs.page_url }}
         steps:
-            - name: Deploy to GitHub Pages
-              id: deployment
-              uses: actions/deploy-pages@v5
+            - name: Download obfuscated site artifact
+              uses: actions/download-artifact@v8
+              with:
+                  name: hugo-public
+                  path: ./public
+
+            - name: Configure AWS credentials
+              uses: aws-actions/configure-aws-credentials@v6
+              with:
+                  aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+                  aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+                  aws-region: ${{ env.AWS_REGION }}
+
+            - name: Resolve CloudFormation outputs
+              id: stack
+              run: |
+                  set -euo pipefail
+
+                  outputs="$(aws cloudformation describe-stacks \
+                    --stack-name "${AWS_STACK_NAME}" \
+                    --query 'Stacks[0].Outputs' \
+                    --output json)"
+                  bucket="$(jq -r '.[] | select(.OutputKey == "S3BucketName") | .OutputValue' <<< "${outputs}")"
+                  distribution_id="$(jq -r '.[] | select(.OutputKey == "CloudFrontDistributionId") | .OutputValue' <<< "${outputs}")"
+
+                  if [ -z "${bucket}" ] || [ "${bucket}" = "None" ]; then
+                    echo "CloudFormation stack ${AWS_STACK_NAME} has no S3BucketName output." >&2
+                    exit 1
+                  fi
+                  if [ -z "${distribution_id}" ] || [ "${distribution_id}" = "None" ]; then
+                    echo "CloudFormation stack ${AWS_STACK_NAME} has no CloudFrontDistributionId output." >&2
+                    exit 1
+                  fi
+
+                  printf 'bucket=%s\n' "${bucket}" >> "$GITHUB_OUTPUT"
+                  printf 'distribution_id=%s\n' "${distribution_id}" >> "$GITHUB_OUTPUT"
+
+            - name: Sync site to S3
+              env:
+                  S3_BUCKET: ${{ steps.stack.outputs.bucket }}
+              run: aws s3 sync ./public/ "s3://${S3_BUCKET}/" --delete
+
+            - name: Invalidate CloudFront
+              env:
+                  CLOUDFRONT_DISTRIBUTION_ID: ${{ steps.stack.outputs.distribution_id }}
+              run: aws cloudfront create-invalidation --distribution-id "${CLOUDFRONT_DISTRIBUTION_ID}" --paths "/*"
 
     report:
         needs: [deps, build, obfuscate, deploy]
         if: always()
         runs-on: ubuntu-24.04
-        permissions:
-            actions: read
         steps:
             - name: Generate summary
               run: |
                   {
-                    echo "## 🚀 Deploy Summary"
+                    echo "## 🚀 Deploy to AWS"
                     echo ""
-                    echo "| Field | Value |"
-                    echo "|-------|-------|"
-                    echo "| Workflow | Build and Deploy to GitHub Pages |"
-                    echo "| Trigger   | ${{ github.event_name }} |"
-                    echo "| Branch    | ${{ github.ref_name }} |"
-                    echo "| Commit    | [\`${{ github.sha }}\`](https://github.com/${{ github.repository }}/commit/${{ github.sha }}) |"
-                    echo "| Actor     | ${{ github.actor }} |"
-                    echo "| Ran at    | $(date -u +'%Y-%m-%d %H:%M:%S UTC') |"
+                    echo "| Job | Result |"
+                    echo "|-----|--------|"
+                    echo "| Dependencies | ${{ needs.deps.result }} |"
+                    echo "| Build | ${{ needs.build.result }} |"
+                    echo "| Obfuscation | ${{ needs.obfuscate.result }} |"
+                    echo "| AWS deploy | ${{ needs.deploy.result }} |"
                     echo ""
-                    echo "### Jobs"
-                    echo ""
-                    echo "| Job        | Result   |"
-                    echo "|------------|----------|"
-                    echo "| deps       | ${{ needs.deps.result }} |"
-                    echo "| build      | ${{ needs.build.result }} |"
-                    echo "| obfuscate  | ${{ needs.obfuscate.result }} |"
-                    echo "| deploy     | ${{ needs.deploy.result }} |"
-                    echo ""
-                    if [ "${{ needs.deploy.result }}" = "success" ]; then
-                      echo "✅ Deployed successfully."
-                    elif [ "${{ needs.build.result }}" = "failure" ]; then
-                      echo "❌ Build failed — check logs above."
-                    elif [ "${{ needs.obfuscate.result }}" = "failure" ]; then
-                      echo "❌ Obfuscation failed — check logs above."
-                    else
-                      echo "⚠️  Pipeline incomplete."
-                    fi
+                    echo "**Site:** ${SITE_URL}"
+                    echo "**Stack:** ${AWS_STACK_NAME}"
+                    echo "**Commit:** ${{ github.sha }}"
                   } >> "$GITHUB_STEP_SUMMARY"
