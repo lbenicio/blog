@@ -6,6 +6,12 @@ Full changelog: <https://github.com/lbenicio/blog/commits/main>
 
 ## [Unreleased]
 
+## [2.1.10] - 2026-10-31
+
+### Security
+
+- Deploy through a repository-scoped GitHub OIDC role provisioned by the existing CloudFormation stack, removing the need for static AWS access keys.
+
 ## [2.1.9] - 2026-10-31
 
 ### Performance

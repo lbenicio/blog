@@ -166,6 +166,9 @@ jobs:
         needs: obfuscate
         runs-on: ubuntu-24.04
         environment: production
+        permissions:
+            actions: read
+            id-token: write
         steps:
             - name: Download obfuscated site artifact
               uses: actions/download-artifact@v8
@@ -176,9 +179,9 @@ jobs:
             - name: Configure AWS credentials
               uses: aws-actions/configure-aws-credentials@v6
               with:
-                  aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
-                  aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+                  role-to-assume: ${{ vars.AWS_DEPLOY_ROLE_ARN }}
                   aws-region: ${{ env.AWS_REGION }}
+                  role-session-name: GitHubActions-blog-deploy
 
             - name: Resolve CloudFormation outputs
               id: stack

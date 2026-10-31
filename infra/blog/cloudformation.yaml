@@ -52,6 +52,8 @@ Resources:
               SSEAlgorithm: AES256
       Tags:
         - { Key: app, Value: lbenicio-community }
+        - Key: awsApplication
+          Value: arn:aws:resource-groups:sa-east-1:527540700211:group/lbenicio-community/06owkw4s6gp5r894wctvv2jj5u
         - Key: Project
           Value: blog
         - Key: ManagedBy
@@ -99,6 +101,55 @@ Resources:
               Bool:
                 "aws:SecureTransport": "false"
 
+  GitHubDeployRole:
+    Type: AWS::IAM::Role
+    Properties:
+      RoleName: blog-github-deploy
+      AssumeRolePolicyDocument:
+        Version: "2012-10-17"
+        Statement:
+          - Effect: Allow
+            Principal:
+              Federated: !Sub arn:aws:iam::${AWS::AccountId}:oidc-provider/token.actions.githubusercontent.com
+            Action: sts:AssumeRoleWithWebIdentity
+            Condition:
+              StringEquals:
+                "token.actions.githubusercontent.com:aud": sts.amazonaws.com
+                "token.actions.githubusercontent.com:sub": repo:lbenicio/blog:environment:production
+      Policies:
+        - PolicyName: DeployBlogSite
+          PolicyDocument:
+            Version: "2012-10-17"
+            Statement:
+              - Sid: ReadBlogStackOutputs
+                Effect: Allow
+                Action: cloudformation:DescribeStacks
+                Resource: !Sub arn:aws:cloudformation:${AWS::Region}:${AWS::AccountId}:stack/${AWS::StackName}/*
+              - Sid: ListBlogBucket
+                Effect: Allow
+                Action:
+                  - s3:GetBucketLocation
+                  - s3:ListBucket
+                Resource: !GetAtt SiteBucket.Arn
+              - Sid: SyncBlogObjects
+                Effect: Allow
+                Action:
+                  - s3:AbortMultipartUpload
+                  - s3:DeleteObject
+                  - s3:GetObject
+                  - s3:ListMultipartUploadParts
+                  - s3:PutObject
+                Resource: !Sub ${SiteBucket.Arn}/*
+              - Sid: InvalidateBlogDistribution
+                Effect: Allow
+                Action: cloudfront:CreateInvalidation
+                Resource: !Sub arn:aws:cloudfront::${AWS::AccountId}:distribution/${CloudFrontDistribution}
+      Tags:
+        - Key: awsApplication
+          Value: arn:aws:resource-groups:sa-east-1:527540700211:group/lbenicio-community/06owkw4s6gp5r894wctvv2jj5u
+        - Key: Project
+          Value: blog
+
   SiteCertificate:
     Condition: CreateCertificate
     Type: AWS::CertificateManager::Certificate
@@ -111,6 +162,8 @@ Resources:
         - !Ref AWS::NoValue
       Tags:
         - { Key: app, Value: lbenicio-community }
+        - Key: awsApplication
+          Value: arn:aws:resource-groups:sa-east-1:527540700211:group/lbenicio-community/06owkw4s6gp5r894wctvv2jj5u
         - Key: Project
           Value: blog
 
@@ -130,6 +183,11 @@ Resources:
           else if (!request.uri.includes('.')) request.uri += '/index.html';
           return request;
         }
+      Tags:
+        - Key: awsApplication
+          Value: arn:aws:resource-groups:sa-east-1:527540700211:group/lbenicio-community/06owkw4s6gp5r894wctvv2jj5u
+        - Key: Project
+          Value: blog
 
   SecurityHeadersPolicy:
     Type: AWS::CloudFront::ResponseHeadersPolicy
@@ -272,6 +330,8 @@ Resources:
           MinimumProtocolVersion: TLSv1.3_2025
       Tags:
         - { Key: app, Value: lbenicio-community }
+        - Key: awsApplication
+          Value: arn:aws:resource-groups:sa-east-1:527540700211:group/lbenicio-community/06owkw4s6gp5r894wctvv2jj5u
         - Key: Project
           Value: blog
 
@@ -288,3 +348,6 @@ Outputs:
   CertificateArn:
     Description: ACM certificate ARN.
     Value: !If [CreateCertificate, !Ref SiteCertificate, !Ref CertificateArn]
+  GitHubDeployRoleArn:
+    Description: GitHub OIDC role for deploying the blog site.
+    Value: !GetAtt GitHubDeployRole.Arn
