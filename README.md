@@ -1,6 +1,6 @@
 # Blog — Personal Blog
 
-**Current version:** `2.1.4`
+**Current version:** `2.1.5`
 
 ![GitHub License](https://img.shields.io/github/license/lbenicio/blog?style=flat&color=blue)
 ![GitHub Release](https://img.shields.io/github/v/release/lbenicio/blog?color=blue)

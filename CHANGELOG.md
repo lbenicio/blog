@@ -6,6 +6,12 @@ Full changelog: <https://github.com/lbenicio/blog/commits/main>
 
 ## [Unreleased]
 
+## [2.1.5] - 2026-10-31
+
+### Fixed
+
+- Run the checksum-verified Hugo binary in a glibc-compatible builder and support both amd64 and arm64 image builds.
+
 ## [2.1.4] - 2026-10-31
 
 ### Fixed
