@@ -6,6 +6,12 @@ Full changelog: <https://github.com/lbenicio/blog/commits/main>
 
 ## [Unreleased]
 
+## [2.1.8] - 2026-10-31
+
+### Changed
+
+- Pin production image obfuscation to AboutMe theme `v0.4.4`, whose file-change accounting avoids rescanning generated assets for every token.
+
 ## [2.1.7] - 2026-10-31
 
 ### Fixed
