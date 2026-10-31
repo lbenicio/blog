@@ -99,10 +99,6 @@ jobs:
                   name: docker-tags
                   path: /tmp
 
-            - name: Read tags
-              id: tags
-              run: echo "tags=$(cat /tmp/docker-metadata-tags)" >> $GITHUB_OUTPUT
-
             - name: Load image
               run: gunzip -c /tmp/image.tar.gz | docker load
 
@@ -115,9 +111,10 @@ jobs:
 
             - name: Push image
               run: |
-                  for tag in ${{ steps.tags.outputs.tags }}; do
+                  while IFS= read -r tag; do
+                    [ -n "$tag" ] || continue
                     docker push "$tag"
-                  done
+                  done < /tmp/docker-metadata-tags
 
     report:
         needs: [deps, build, push]
@@ -158,4 +155,4 @@ jobs:
                     else
                       echo "⚠️  Pipeline incomplete."
                     fi
-                  } >> $GITHUB_STEP_SUMMARY
+                  } >> "$GITHUB_STEP_SUMMARY"

@@ -6,6 +6,12 @@ Full changelog: <https://github.com/lbenicio/blog/commits/main>
 
 ## [Unreleased]
 
+## [2.1.6] - 2026-10-31
+
+### Fixed
+
+- Push each newline-separated GHCR image tag directly from the tags artifact instead of passing multiline tags through a single-line GitHub output.
+
 ## [2.1.5] - 2026-10-31
 
 ### Fixed
