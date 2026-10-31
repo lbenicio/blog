@@ -6,6 +6,12 @@ Full changelog: <https://github.com/lbenicio/blog/commits/main>
 
 ## [Unreleased]
 
+## [2.1.9] - 2026-10-31
+
+### Performance
+
+- Use AboutMe theme `v0.4.5` to cache repeated inline JavaScript rewrites during production builds.
+
 ## [2.1.8] - 2026-10-31
 
 ### Changed
