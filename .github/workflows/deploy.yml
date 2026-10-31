@@ -165,6 +165,7 @@ jobs:
     deploy:
         needs: obfuscate
         runs-on: ubuntu-24.04
+        environment: production
         steps:
             - name: Download obfuscated site artifact
               uses: actions/download-artifact@v8

@@ -4,6 +4,16 @@ All notable changes to this project are documented in this file. This project fo
 
 Full changelog: <https://github.com/lbenicio/blog/commits/main>
 
+## [Unreleased]
+
+## [2.1.3] - 2026-10-31
+
+### Changed
+
+- Bumped the project patch version to `2.1.3`.
+- Routed AWS deployment through GitHub’s `production` environment, restricted to the `main` branch.
+- Required TLS 1.3 (`TLSv1.3_2025`) for the CloudFront distribution.
+
 ## [2.1.1] - 2026-10-16
 
 ### Added
