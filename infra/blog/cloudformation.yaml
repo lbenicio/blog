@@ -52,8 +52,6 @@ Resources:
               SSEAlgorithm: AES256
       Tags:
         - { Key: app, Value: lbenicio-community }
-        - Key: awsApplication
-          Value: arn:aws:resource-groups:sa-east-1:527540700211:group/lbenicio-community/06owkw4s6gp5r894wctvv2jj5u
         - Key: Project
           Value: blog
         - Key: ManagedBy
@@ -145,8 +143,6 @@ Resources:
                 Action: cloudfront:CreateInvalidation
                 Resource: !Sub arn:aws:cloudfront::${AWS::AccountId}:distribution/${CloudFrontDistribution}
       Tags:
-        - Key: awsApplication
-          Value: arn:aws:resource-groups:sa-east-1:527540700211:group/lbenicio-community/06owkw4s6gp5r894wctvv2jj5u
         - Key: Project
           Value: blog
 
@@ -162,8 +158,6 @@ Resources:
         - !Ref AWS::NoValue
       Tags:
         - { Key: app, Value: lbenicio-community }
-        - Key: awsApplication
-          Value: arn:aws:resource-groups:sa-east-1:527540700211:group/lbenicio-community/06owkw4s6gp5r894wctvv2jj5u
         - Key: Project
           Value: blog
 
@@ -184,8 +178,6 @@ Resources:
           return request;
         }
       Tags:
-        - Key: awsApplication
-          Value: arn:aws:resource-groups:sa-east-1:527540700211:group/lbenicio-community/06owkw4s6gp5r894wctvv2jj5u
         - Key: Project
           Value: blog
 
@@ -330,8 +322,6 @@ Resources:
           MinimumProtocolVersion: TLSv1.3_2025
       Tags:
         - { Key: app, Value: lbenicio-community }
-        - Key: awsApplication
-          Value: arn:aws:resource-groups:sa-east-1:527540700211:group/lbenicio-community/06owkw4s6gp5r894wctvv2jj5u
         - Key: Project
           Value: blog
 
