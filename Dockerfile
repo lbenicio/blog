@@ -35,10 +35,10 @@ COPY . .
 RUN hugo mod get
 
 # Generate OG images and build
-RUN go run github.com/lbenicio/aboutme-v2-theme/cmd/ogimage@latest \
+RUN go run github.com/lbenicio/theme/cmd/ogimage@latest \
       --glob="content/post/*.md" --out="static/assets/og" || true
 RUN hugo --minify --environment production --cleanDestinationDir
-RUN GOPROXY=direct go run github.com/lbenicio/aboutme-v2-theme/cmd/obfuscate@v0.4.5 ./public || true
+RUN GOPROXY=direct go run github.com/lbenicio/theme/cmd/obfuscate@v0.4.5 ./public || true
 
 # Stage 2 — serve
 FROM nginx:alpine

@@ -98,7 +98,7 @@ Full changelog: <https://github.com/lbenicio/blog/commits/main>
 
 ### Added
 
-- Initial blog deployment using `aboutme-v2-theme` v0.3.0 (SCSS-powered, no Node.js).
+- Initial blog deployment using `aboutme-theme` v0.3.0 (SCSS-powered, no Node.js).
 - BLOG_ONLY mode with blog listing, search, pagination, and RSS feed.
 - GitHub Actions workflow for build + obfuscate + deploy to GitHub Pages.
 - Docker support for containerized deployment.

@@ -6,7 +6,7 @@
 ![GitHub Release](https://img.shields.io/github/v/release/lbenicio/blog?color=blue)
 [![Deploy](https://github.com/lbenicio/blog/actions/workflows/deploy.yml/badge.svg)](https://github.com/lbenicio/blog/actions/workflows/deploy.yml)
 
-Personal blog built with [Hugo](https://gohugo.io/) and the [aboutme-v2-theme](https://github.com/lbenicio/aboutme-v2-theme) in `BLOG_ONLY` mode. No Node.js required — SCSS is compiled natively by Hugo Pipes.
+Personal blog built with [Hugo](https://gohugo.io/) and the [aboutme-theme](https://github.com/lbenicio/theme) in `BLOG_ONLY` mode. No Node.js required — SCSS is compiled natively by Hugo Pipes.
 
 Deployed at **[blog.lbenicio.dev](https://blog.lbenicio.dev/)**. The main about site lives at **[lbenicio.dev](https://lbenicio.dev/)**.
 
@@ -106,9 +106,9 @@ The IAM user needs permission to read the `blog` CloudFormation stack, upload/de
 ## 📦 Dependencies
 
 ```
-require github.com/lbenicio/aboutme-v2-theme v0.3.0
+require github.com/lbenicio/theme v0.3.0
 ```
 
 ---
 
-**Built with Hugo + aboutme-v2-theme • © 2026 Leonardo Benicio**
+**Built with Hugo + aboutme-theme • © 2026 Leonardo Benicio**
