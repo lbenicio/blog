@@ -1,5 +1,5 @@
 # Stage 1 — build the site
-FROM golang:1.26.4-bookworm AS build
+FROM golang:1.27.0-bookworm AS build
 
 ARG HUGO_VERSION=0.163.1
 ARG HUGO_SHA256_AMD64=b64ead3135eab66e0fab818b96a63c21c37a068fbb8c2d300627ed51c1217dd7
@@ -35,10 +35,10 @@ COPY . .
 RUN hugo mod get
 
 # Generate OG images and build
-RUN go run github.com/lbenicio/theme/cmd/ogimage@latest \
+RUN go run github.com/lbenicio/theme/cmd/ogimage@v0.5.0 \
       --glob="content/post/*.md" --out="static/assets/og" || true
 RUN hugo --minify --environment production --cleanDestinationDir
-RUN GOPROXY=direct go run github.com/lbenicio/theme/cmd/obfuscate@v0.4.5 ./public || true
+RUN GOPROXY=direct go run github.com/lbenicio/theme/cmd/obfuscate@v0.5.0 ./public || true
 
 # Stage 2 — serve
 FROM nginx:alpine

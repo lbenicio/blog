@@ -101,7 +101,7 @@ jobs:
                   restore-keys: hugo-${{ runner.os }}-
 
             - name: Generate OG images
-              run: go run github.com/lbenicio/theme/cmd/ogimage@latest --glob="content/post/*.md" --out="static/static/og"
+              run: go run github.com/lbenicio/theme/cmd/ogimage@v0.0.0-20261108201809-10c20d4001e1 --glob="content/post/*.md" --out="static/static/og"
               continue-on-error: true
 
             - name: Build with Hugo
@@ -152,7 +152,7 @@ jobs:
               run: |
                   echo "::group::Obfuscation"
                   echo "Files to process: $(find public -type f \( -name '*.html' -o -name '*.css' -o -name '*.js' \) | wc -l)"
-                  GOPROXY=direct go run github.com/lbenicio/theme/cmd/obfuscate@main -verbose ./public
+                  GOPROXY=direct go run github.com/lbenicio/theme/cmd/obfuscate@v0.0.0-20261108201809-10c20d4001e1 -verbose ./public
                   echo "::endgroup::"
 
             - name: Upload obfuscated site artifact

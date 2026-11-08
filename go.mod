@@ -1,5 +1,5 @@
 module github.com/lbenicio/blog
 
-go 1.26.4
+go 1.27.0
 
-require github.com/lbenicio/theme v0.0.0-20261016042304-5248940612a9 // indirect
+require github.com/lbenicio/theme v0.5.0 // indirect

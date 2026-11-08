@@ -106,7 +106,7 @@ The IAM user needs permission to read the `blog` CloudFormation stack, upload/de
 ## 📦 Dependencies
 
 ```
-require github.com/lbenicio/theme v0.3.0
+require github.com/lbenicio/theme v0.5.0
 ```
 
 ---
