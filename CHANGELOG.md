@@ -6,6 +6,12 @@ Full changelog: <https://github.com/lbenicio/blog/commits/main>
 
 ## [Unreleased]
 
+## [2.1.11] - 2026-11-11
+
+### Changed
+
+- Upgrade the shared Hugo theme to `v0.6.0` and install Dart Sass in GitHub Actions and Docker builds.
+
 ## [2.1.10] - 2026-10-31
 
 ### Security

@@ -26,3 +26,5 @@ github.com/lbenicio/theme v0.0.0-20261108201809-10c20d4001e1 h1:nI9+o7KwUvIxdKMm
 github.com/lbenicio/theme v0.0.0-20261108201809-10c20d4001e1/go.mod h1:7gIWk65I1oMoMh28VuPG1+dRXSfmcCbhLUyHLHUVBIc=
 github.com/lbenicio/theme v0.5.0 h1:M4khBH2NEeY5DdB7yeMM0KpHT9thjmOjxd/4fOWvQc4=
 github.com/lbenicio/theme v0.5.0/go.mod h1:7gIWk65I1oMoMh28VuPG1+dRXSfmcCbhLUyHLHUVBIc=
+github.com/lbenicio/theme v0.6.0 h1:NdjQw0fM/ZEDbJ20N9AwhxQpnFdCnzgkPG0D7pqxyY4=
+github.com/lbenicio/theme v0.6.0/go.mod h1:7gIWk65I1oMoMh28VuPG1+dRXSfmcCbhLUyHLHUVBIc=

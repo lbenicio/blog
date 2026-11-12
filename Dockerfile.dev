@@ -1,8 +1,25 @@
 # Stage 1 — dev server
 FROM alpine:latest AS build
 
-# Install Hugo Extended and Go
-RUN apk add --update --no-cache hugo go git
+ARG DART_SASS_VERSION=1.108.0
+ARG TARGETARCH
+
+# Install Hugo, Go, and the checksum-verified Dart Sass CLI.
+RUN apk add --update --no-cache hugo go git curl tar coreutils \
+    && case "${TARGETARCH}" in \
+         amd64) DART_SASS_ARCH=x64-musl; DART_SASS_SHA256=899018bd60a57db1eba111b8154279eb7d5a4564293d81e3b7931854585d4ccc ;; \
+         arm64) DART_SASS_ARCH=arm64-musl; DART_SASS_SHA256=dcc764eadce873317995923096c7f2565185ded963bf5a1ed5195c5ca72a8a3b ;; \
+         *) echo "Unsupported target architecture: ${TARGETARCH}" >&2; exit 1 ;; \
+       esac \
+    && curl --fail --silent --show-error --location \
+      "https://github.com/sass/dart-sass/releases/download/${DART_SASS_VERSION}/dart-sass-${DART_SASS_VERSION}-linux-${DART_SASS_ARCH}.tar.gz" \
+      --output /tmp/dart-sass.tar.gz \
+    && echo "${DART_SASS_SHA256}  /tmp/dart-sass.tar.gz" | sha256sum -c - \
+    && mkdir -p /usr/local/lib \
+    && tar -xzf /tmp/dart-sass.tar.gz -C /usr/local/lib \
+    && ln -s /usr/local/lib/dart-sass/sass /usr/local/bin/sass \
+    && rm /tmp/dart-sass.tar.gz \
+    && sass --version
 
 RUN hugo version && go version
 

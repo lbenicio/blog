@@ -1,12 +1,12 @@
 # Blog — Personal Blog
 
-**Current version:** `2.1.10`
+**Current version:** `2.1.11`
 
 ![GitHub License](https://img.shields.io/github/license/lbenicio/blog?style=flat&color=blue)
 ![GitHub Release](https://img.shields.io/github/v/release/lbenicio/blog?color=blue)
 [![Deploy](https://github.com/lbenicio/blog/actions/workflows/deploy.yml/badge.svg)](https://github.com/lbenicio/blog/actions/workflows/deploy.yml)
 
-Personal blog built with [Hugo](https://gohugo.io/) and the [aboutme-theme](https://github.com/lbenicio/theme) in `BLOG_ONLY` mode. No Node.js required — SCSS is compiled natively by Hugo Pipes.
+Personal blog built with [Hugo](https://gohugo.io/) and the [aboutme-theme](https://github.com/lbenicio/theme) in `BLOG_ONLY` mode. No Node.js required; Hugo Pipes compiles SCSS using Dart Sass.
 
 Deployed at **[blog.lbenicio.dev](https://blog.lbenicio.dev/)**. The main about site lives at **[lbenicio.dev](https://lbenicio.dev/)**.
 
@@ -14,8 +14,9 @@ Deployed at **[blog.lbenicio.dev](https://blog.lbenicio.dev/)**. The main about 
 
 ### Prerequisites
 
-- **Hugo Extended** v0.163.0 or higher
-- **Go** 1.23+
+- **Hugo** v0.163.0 or higher (standard or extended edition)
+- **Dart Sass** with the `sass` executable available on `PATH`
+- **Go** 1.27.0 or higher
 
 ### Run locally
 
@@ -31,7 +32,7 @@ cd blog
 hugo server
 ```
 
-No `npm install`. Hugo handles SCSS compilation, CSS minification, and asset processing.
+No `npm install` is required. Hugo uses Dart Sass on `PATH` for SCSS compilation, CSS minification, and asset processing.
 
 ## 📁 Project Structure
 
@@ -106,7 +107,7 @@ The IAM user needs permission to read the `blog` CloudFormation stack, upload/de
 ## 📦 Dependencies
 
 ```
-require github.com/lbenicio/theme v0.5.0
+require github.com/lbenicio/theme v0.6.0
 ```
 
 ---
