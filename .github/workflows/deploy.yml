@@ -165,7 +165,9 @@ jobs:
     deploy:
         needs: obfuscate
         runs-on: ubuntu-24.04
-        environment: production
+        environment:
+            name: production
+            url: ${{ env.SITE_URL }}
         permissions:
             actions: read
             id-token: write
