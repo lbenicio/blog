@@ -101,3 +101,6 @@ require github.com/lbenicio/theme v0.6.0
 ---
 
 **Built with Hugo + aboutme-theme • © 2026 Leonardo Benicio**
+
+
+Before the first deployment, configure the two Cloudflare secrets above. If the hostname still has a DNS CNAME pointing to AWS, remove that conflicting record before Wrangler creates the Worker custom domain.
