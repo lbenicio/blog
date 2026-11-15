@@ -88,21 +88,9 @@ coverAlt: "Description of cover image"
 
 ## 🚢 Deployment
 
-Pushes to `main` trigger the [deploy workflow](.github/workflows/deploy.yml):
-1. Install Go + Hugo deps
-2. Generate OG images for posts
-3. Build with Hugo (`--minify --environment production`)
-4. Obfuscate identifiers
-5. Resolve the `blog` CloudFormation stack outputs
-6. Sync the site to its S3 bucket
-7. Invalidate the CloudFront cache
+Pushes to `main` trigger the [deploy workflow](.github/workflows/deploy.yml), which builds the Hugo site, obfuscates identifiers, and deploys the generated files to Cloudflare Workers.
 
-The workflow expects these repository secrets:
-
-- `AWS_ACCESS_KEY_ID`
-- `AWS_SECRET_ACCESS_KEY`
-
-The IAM user needs permission to read the `blog` CloudFormation stack, upload/delete objects in the `blog.lbenicio.dev` S3 bucket, and create CloudFront invalidations.
+GitHub Actions deploys this static site to Cloudflare Workers. Configure the repository secrets `CLOUDFLARE_API_TOKEN` and `CLOUDFLARE_ACCOUNT_ID`; the Worker serves the site on its custom domain.
 
 ## 📦 Dependencies
 
