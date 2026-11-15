@@ -1,4 +1,4 @@
-name: Deploy to AWS
+name: Deploy to Cloudflare Workers
 
 on:
     push:
@@ -10,12 +10,10 @@ permissions:
     actions: read
 
 concurrency:
-    group: aws-deploy
+    group: cloudflare-deploy
     cancel-in-progress: true
 
 env:
-    AWS_REGION: sa-east-1
-    AWS_STACK_NAME: blog
     SITE_URL: https://blog.lbenicio.dev/
     ABOUT_URL: https://lbenicio.dev/
     PUBLICATIONS_URL: https://lbenicio.dev/publications/
@@ -182,55 +180,27 @@ jobs:
             name: production
             url: ${{ env.SITE_URL }}
         permissions:
+            contents: read
             actions: read
-            id-token: write
         steps:
+            - name: Checkout
+              uses: actions/checkout@v7
+
             - name: Download obfuscated site artifact
               uses: actions/download-artifact@v8
               with:
                   name: hugo-public
                   path: ./public
 
-            - name: Configure AWS credentials
-              uses: aws-actions/configure-aws-credentials@v6
+            - name: Set up Node.js
+              uses: actions/setup-node@v7
               with:
-                  role-to-assume: ${{ secrets.AWS_DEPLOY_ROLE_ARN }}
-                  aws-region: ${{ env.AWS_REGION }}
-                  role-session-name: GitHubActions-blog-deploy
-
-            - name: Resolve CloudFormation outputs
-              id: stack
-              run: |
-                  set -euo pipefail
-
-                  outputs="$(aws cloudformation describe-stacks \
-                    --stack-name "${AWS_STACK_NAME}" \
-                    --query 'Stacks[0].Outputs' \
-                    --output json)"
-                  bucket="$(jq -r '.[] | select(.OutputKey == "S3BucketName") | .OutputValue' <<< "${outputs}")"
-                  distribution_id="$(jq -r '.[] | select(.OutputKey == "CloudFrontDistributionId") | .OutputValue' <<< "${outputs}")"
-
-                  if [ -z "${bucket}" ] || [ "${bucket}" = "None" ]; then
-                    echo "CloudFormation stack ${AWS_STACK_NAME} has no S3BucketName output." >&2
-                    exit 1
-                  fi
-                  if [ -z "${distribution_id}" ] || [ "${distribution_id}" = "None" ]; then
-                    echo "CloudFormation stack ${AWS_STACK_NAME} has no CloudFrontDistributionId output." >&2
-                    exit 1
-                  fi
-
-                  printf 'bucket=%s\n' "${bucket}" >> "$GITHUB_OUTPUT"
-                  printf 'distribution_id=%s\n' "${distribution_id}" >> "$GITHUB_OUTPUT"
-
-            - name: Sync site to S3
+                node-version: 24
+            - name: Deploy to Cloudflare Workers
               env:
-                  S3_BUCKET: ${{ steps.stack.outputs.bucket }}
-              run: aws s3 sync ./public/ "s3://${S3_BUCKET}/" --delete
-
-            - name: Invalidate CloudFront
-              env:
-                  CLOUDFRONT_DISTRIBUTION_ID: ${{ steps.stack.outputs.distribution_id }}
-              run: aws cloudfront create-invalidation --distribution-id "${CLOUDFRONT_DISTRIBUTION_ID}" --paths "/*"
+                CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+                CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+              run: npx --yes wrangler@4 deploy --config wrangler.toml --account-id "$CLOUDFLARE_ACCOUNT_ID"
 
     report:
         needs: [deps, build, obfuscate, deploy]
@@ -238,18 +208,22 @@ jobs:
         runs-on: ubuntu-24.04
         steps:
             - name: Generate summary
+              env:
+                  DEPENDENCIES: ${{ needs.deps.result }}
+                  BUILD: ${{ needs.build.result }}
+                  OBFUSCATION: ${{ needs.obfuscate.result }}
+                  DEPLOY: ${{ needs.deploy.result }}
+                  SITE_URL: ${{ env.SITE_URL }}
               run: |
                   {
-                    echo "## 🚀 Deploy to AWS"
+                    echo "## 🚀 Cloudflare Workers deployment"
                     echo ""
                     echo "| Job | Result |"
                     echo "|-----|--------|"
-                    echo "| Dependencies | ${{ needs.deps.result }} |"
-                    echo "| Build | ${{ needs.build.result }} |"
-                    echo "| Obfuscation | ${{ needs.obfuscate.result }} |"
-                    echo "| AWS deploy | ${{ needs.deploy.result }} |"
+                    echo "| Dependencies | $DEPENDENCIES |"
+                    echo "| Build | $BUILD |"
+                    echo "| Obfuscation | $OBFUSCATION |"
+                    echo "| Cloudflare deploy | $DEPLOY |"
                     echo ""
-                    echo "**Site:** ${SITE_URL}"
-                    echo "**Stack:** ${AWS_STACK_NAME}"
-                    echo "**Commit:** ${{ github.sha }}"
+                    echo "**Site:** $SITE_URL"
                   } >> "$GITHUB_STEP_SUMMARY"
