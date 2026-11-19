@@ -21,11 +21,18 @@ guessSyntax = true
 tag = "tags"
 category = "categories"
 
+[outputFormats.markdown]
+mediaType = "text/markdown"
+isPlainText = true
+permalinkable = true
+
 [outputs]
-home = ["HTML", "RSS"]
-section = ["HTML", "RSS", "JSON"]
-taxonomy = ["HTML", "RSS"]
-term = ["HTML", "RSS"]
+home = ["HTML", "RSS", "markdown"]
+page = ["HTML", "markdown"]
+section = ["HTML", "RSS", "JSON", "markdown"]
+taxonomy = ["HTML", "RSS", "markdown"]
+term = ["HTML", "RSS", "markdown"]
+404 = ["HTML", "markdown"]
 
 [sitemap]
 changefreq = "daily"
