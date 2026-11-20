@@ -83,7 +83,7 @@ coverAlt: "Description of cover image"
 ## 🔒 Security
 
 - **Class/ID obfuscation**: All identifiers obfuscated post-build.
-- **No external scripts**: Self-hosted JS only (search, theme toggle, analytics).
+- **Analytics**: Google Analytics 4 runs on production builds and respects the browser's Do Not Track signal.
 - **Static site**: No server-side attack surface.
 
 ## 🚢 Deployment

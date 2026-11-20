@@ -59,10 +59,6 @@ aboutOrigin = "http://localhost:1313/"
 blogOrigin = "http://localhost:1313/blog/"
 publicationsOrigin = "http://localhost:1313/publications/"
 
-# Umami analytics
-umamiBlogId = "649d8c68-53f2-4687-9971-c39ba81c408f"
-umamiScriptUrl = "https://analytics.4686189.xyz/script.js"
-
 # Fork me ribbon
 enableForkMe = true
 forkMeRepoUrl = "https://github.com/lbenicio/blog"
@@ -70,3 +66,9 @@ forkMeRepoUrl = "https://github.com/lbenicio/blog"
 # Legal links
 privacyUrl = "https://legal.lbenicio.dev/docs/privacy-policy"
 termsUrl = "https://legal.lbenicio.dev/docs/terms-of-service"
+
+[services.googleAnalytics]
+id = "G-ZY05FZN4N5"
+
+[privacy.googleAnalytics]
+respectDoNotTrack = true
