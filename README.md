@@ -64,7 +64,7 @@ The site runs in `BLOG_ONLY` mode — only the blog listing and post pages are r
 
 ### Adding posts
 
-Create a markdown file in `content/post/YYYY/`:
+Create a markdown file in `content/post/YYYY/MM/DD/` using a lowercase, hyphen-separated filename. The directory date comes from the post's `date` front matter. For example, `content/post/2026/06/20/your-post-title.md`:
 
 ```yaml
 ---
@@ -75,7 +75,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory"]
 draft: false
-cover: "/static/assets/images/blog/your-cover.png"
+cover: "https://cdn.lbenicio.dev/static/images/blog/your-cover.png"
 coverAlt: "Description of cover image"
 ---
 ```
