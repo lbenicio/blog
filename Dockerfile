@@ -1,5 +1,5 @@
 # Stage 1 — build the site
-FROM golang:1.27.0-bookworm AS build
+FROM golang:1.27.3-bookworm AS build
 
 ARG HUGO_VERSION=0.163.1
 ARG DART_SASS_VERSION=1.108.0
