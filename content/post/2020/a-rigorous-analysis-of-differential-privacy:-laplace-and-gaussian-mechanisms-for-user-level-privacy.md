@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "static/images/blog/a-rigorous-analysis-of-differential-privacy-laplace-and-gaussian-mechanisms-for-user-level-privacy.png"
+cover: "https://cdn.lbenicio.dev/static/images/blog/a-rigorous-analysis-of-differential-privacy-laplace-and-gaussian-mechanisms-for-user-level-privacy.png"
 coverAlt: "Technical visualization representing a rigorous analysis of differential privacy: laplace and gaussian mechanisms for user level privacy"
 ---
 

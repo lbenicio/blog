@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "static/images/blog/a-rigorous-analysis-of-the-lru-k-page-replacement-algorithm-historical-buffer-with-sorting.png"
+cover: "https://cdn.lbenicio.dev/static/images/blog/a-rigorous-analysis-of-the-lru-k-page-replacement-algorithm-historical-buffer-with-sorting.png"
 coverAlt: "Technical visualization representing a rigorous analysis of the lru k page replacement algorithm: historical buffer with sorting"
 ---
 

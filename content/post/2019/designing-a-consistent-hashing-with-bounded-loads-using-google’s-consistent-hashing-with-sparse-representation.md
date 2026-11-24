@@ -6,7 +6,7 @@ author: "Leonardo Benicio"
 tags: ["technical", "computer-science"]
 categories: ["theory", "algorithms"]
 draft: false
-cover: "static/images/blog/designing-a-consistent-hashing-with-bounded-loads-using-google’s-consistent-hashing-with-sparse-representation.png"
+cover: "https://cdn.lbenicio.dev/static/images/blog/designing-a-consistent-hashing-with-bounded-loads-using-google’s-consistent-hashing-with-sparse-representation.png"
 coverAlt: "Technical visualization representing designing a consistent hashing with bounded loads using google’s consistent hashing with sparse representation"
 ---
 
