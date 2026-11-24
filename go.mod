@@ -2,4 +2,4 @@ module github.com/lbenicio/blog
 
 go 1.27.0
 
-require github.com/lbenicio/theme v0.6.1 // indirect
+require github.com/lbenicio/theme v0.7.0 // indirect

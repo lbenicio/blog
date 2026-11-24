@@ -1,6 +1,6 @@
 title = "Leonardo Benicio"
 theme = "github.com/lbenicio/theme"
-baseURL = "/"
+baseURL = "https://blog.lbenicio.dev/"
 version = "2.1.11"
 locale = "en-us"
 resourceDir = "resources"
@@ -52,12 +52,11 @@ githubHandler = "lbenicio"
 linkedinHandler = "leonardo-benicio"
 twitterHandler = "lbenicio_"
 
-# Site (overridden by CI via /tmp/hugo-dynamic.toml)
-siteUrl = "http://localhost:1313/"
+# Production site URLs
+siteUrl = "https://blog.lbenicio.dev/"
 appMode = "BLOG_ONLY"
-aboutOrigin = "http://localhost:1313/"
-blogOrigin = "http://localhost:1313/blog/"
-publicationsOrigin = "http://localhost:1313/publications/"
+aboutOrigin = "https://lbenicio.dev/"
+blogOrigin = "https://blog.lbenicio.dev/"
 
 # Fork me ribbon
 enableForkMe = true
