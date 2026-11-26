@@ -46,6 +46,7 @@ post = "/post/:year/:month/:day/:slug/"
 author = "Leonardo Benicio"
 description = "Posts, notes, and articles."
 showReadingTime = true
+googleAdsTagId = "AW-18594527327"
 
 # Social handlers (global defaults; overridable per-page via front matter)
 githubHandler = "lbenicio"

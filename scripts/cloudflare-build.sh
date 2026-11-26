@@ -34,7 +34,7 @@ export PATH="$work_dir/dart-sass:$PATH"
 sass --version
 
 echo "Generating Open Graph images"
-if ! GOPROXY=direct go run github.com/lbenicio/theme/cmd/ogimage@v0.6.0 \
+if ! GOPROXY=direct go run github.com/lbenicio/theme/cmd/ogimage@v0.7.1 \
     --glob="content/post/*/*/*/*.md" --out="static/static/og"; then
     echo "Warning: Open Graph image generation failed; continuing with the site build" >&2
 fi
@@ -44,6 +44,6 @@ hugo --minify --environment production --cleanDestinationDir \
     --config hugo.toml --logLevel info
 
 echo "Obfuscating generated site assets"
-GOPROXY=direct go run github.com/lbenicio/theme/cmd/obfuscate@v0.6.0 -verbose ./public
+GOPROXY=direct go run github.com/lbenicio/theme/cmd/obfuscate@v0.7.1 -verbose ./public
 
 echo "Cloudflare build complete: $(find public -type f | wc -l | tr -d ' ') files"
