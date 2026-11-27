@@ -95,7 +95,7 @@ GitHub Actions deploys this static site to Cloudflare Workers. Configure the rep
 ## 📦 Dependencies
 
 ```
-require github.com/lbenicio/theme v0.7.1
+require github.com/lbenicio/theme v0.7.2
 ```
 
 ---
